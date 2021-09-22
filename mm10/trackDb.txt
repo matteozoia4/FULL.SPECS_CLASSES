@@ -5,6 +5,5 @@ longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_
 type bigBed 9 .
     filterType.geneName wildcard
     filterText.geneName *
-    filterLabel.fieldName on
     visibility pack
     bedNameLabel Motif specs
