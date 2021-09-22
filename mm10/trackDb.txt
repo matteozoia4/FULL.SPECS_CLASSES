@@ -5,6 +5,5 @@ longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_
 useScore 1
 type bigBed 9 .
     bedFilter  on
-    filterText.Name *
     visibility pack
     bedNameLabel Motif specs
