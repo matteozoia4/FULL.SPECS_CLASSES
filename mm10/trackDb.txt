@@ -6,4 +6,3 @@ type bigBed 9 .
     filter.name *
     visibility pack
     bedNameLabel Motif specs
-
