@@ -1,0 +1,1377 @@
+Ensmbl_IDs	Gene_Description	PWM	Mouse_Gene_Name	TPM_rep1	FPKM_rep1	TPM_rep2	FPKM_rep2
+ENSMUSG00000019564	AT rich interactive domain 3A (BRIGHT-like) [Source:MGI Symbol;Acc:MGI:1328360]	MA0151.1.Arid3a	Arid3a	3.03	2.25	8.9	6.86
+ENSMUSG00000019564	AT rich interactive domain 3A (BRIGHT-like) [Source:MGI Symbol;Acc:MGI:1328360]	BU0001.Arid3a_primary	Arid3a	3.03	2.25	8.9	6.86
+ENSMUSG00000004661	AT rich interactive domain 3B (BRIGHT-like) [Source:MGI Symbol;Acc:MGI:1930768]	MA0601.1.Arid3b	Arid3b	22.54	16.72	19.55	15.07
+ENSMUSG00000015522	aryl hydrocarbon receptor nuclear translocator [Source:MGI Symbol;Acc:MGI:88071]	ARNT_HUMAN.H11MO.0.B	Arnt	20.21	14.99	14.42	11.11
+ENSMUSG00000015522	aryl hydrocarbon receptor nuclear translocator [Source:MGI Symbol;Acc:MGI:88071]	MA0004.1.Arnt	Arnt	20.21	14.99	14.42	11.11
+ENSMUSG00000055116	aryl hydrocarbon receptor nuclear translocator-like [Source:MGI Symbol;Acc:MGI:1096381]	ARNTL.Ca9864.1.YY2017.HT-SE2	Arntl	5.55	4.12	5.29	4.08
+ENSMUSG00000055116	aryl hydrocarbon receptor nuclear translocator-like [Source:MGI Symbol;Acc:MGI:1096381]	BMAL1_HUMAN.H11MO.0.A	Arntl	5.55	4.12	5.29	4.08
+ENSMUSG00000055116	aryl hydrocarbon receptor nuclear translocator-like [Source:MGI Symbol;Acc:MGI:1096381]	ARNTL.Me9864.1.YY2017.HT-SE2	Arntl	5.55	4.12	5.29	4.08
+ENSMUSG00000055116	aryl hydrocarbon receptor nuclear translocator-like [Source:MGI Symbol;Acc:MGI:1096381]	MA0603.1.Arntl	Arntl	5.55	4.12	5.29	4.08
+ENSMUSG00000055116	aryl hydrocarbon receptor nuclear translocator-like [Source:MGI Symbol;Acc:MGI:1096381]	TA0337_ARNTL_DBD_dimer	Arntl	5.55	4.12	5.29	4.08
+ENSMUSG00000023027	activating transcription factor 1 [Source:MGI Symbol;Acc:MGI:1298366]	MA0604.1.Atf1	Atf1	27.44	20.35	23.52	18.13
+ENSMUSG00000023027	activating transcription factor 1 [Source:MGI Symbol;Acc:MGI:1298366]	ATF1_HUMAN.H11MO.0.B	Atf1	27.44	20.35	23.52	18.13
+ENSMUSG00000023027	activating transcription factor 1 [Source:MGI Symbol;Acc:MGI:1298366]	BU0004.Atf1_primary	Atf1	27.44	20.35	23.52	18.13
+ENSMUSG00000027104	activating transcription factor 2 [Source:MGI Symbol;Acc:MGI:109349]	ATF2_HUMAN.H11MO.0.B	Atf2	33.93	25.17	35.17	27.12
+ENSMUSG00000027104	activating transcription factor 2 [Source:MGI Symbol;Acc:MGI:109349]	ATF2.Me9792.2.YY2017.HT-SE2	Atf2	33.93	25.17	35.17	27.12
+ENSMUSG00000027104	activating transcription factor 2 [Source:MGI Symbol;Acc:MGI:109349]	ATF2.Me9792.1.YY2017.HT-SE2	Atf2	33.93	25.17	35.17	27.12
+ENSMUSG00000027104	activating transcription factor 2 [Source:MGI Symbol;Acc:MGI:109349]	ATF2.Ca9792.1.YY2017.HT-SE2	Atf2	33.93	25.17	35.17	27.12
+ENSMUSG00000027104	activating transcription factor 2 [Source:MGI Symbol;Acc:MGI:109349]	ATF2.Ca9792.2.YY2017.HT-SE2	Atf2	33.93	25.17	35.17	27.12
+ENSMUSG00000026628	activating transcription factor 3 [Source:MGI Symbol;Acc:MGI:109384]	ATF3.Ca9796.1.YY2017.HT-SE2	Atf3	12.35	9.16	9.55	7.36
+ENSMUSG00000026628	activating transcription factor 3 [Source:MGI Symbol;Acc:MGI:109384]	ATF3_HUMAN.H11MO.0.A	Atf3	12.35	9.16	9.55	7.36
+ENSMUSG00000026628	activating transcription factor 3 [Source:MGI Symbol;Acc:MGI:109384]	ATF3.Me9796.1.YY2017.HT-SE2	Atf3	12.35	9.16	9.55	7.36
+ENSMUSG00000026628	activating transcription factor 3 [Source:MGI Symbol;Acc:MGI:109384]	MA0605.1.Atf3	Atf3	12.35	9.16	9.55	7.36
+ENSMUSG00000026628	activating transcription factor 3 [Source:MGI Symbol;Acc:MGI:109384]	ATF3.Me9796.2.YY2017.HT-SE2	Atf3	12.35	9.16	9.55	7.36
+ENSMUSG00000026628	activating transcription factor 3 [Source:MGI Symbol;Acc:MGI:109384]	ATF3.Ca9796.2.YY2017.HT-SE2	Atf3	12.35	9.16	9.55	7.36
+ENSMUSG00000042406	activating transcription factor 4 [Source:MGI Symbol;Acc:MGI:88096]	ATF4.Me9782.1.YY2017.HT-SE2	Atf4	64.05	47.52	65.95	50.84
+ENSMUSG00000042406	activating transcription factor 4 [Source:MGI Symbol;Acc:MGI:88096]	ATF4.Ca9782.1.YY2017.HT-SE2	Atf4	64.05	47.52	65.95	50.84
+ENSMUSG00000042406	activating transcription factor 4 [Source:MGI Symbol;Acc:MGI:88096]	MA0833.1.ATF4	Atf4	64.05	47.52	65.95	50.84
+ENSMUSG00000042406	activating transcription factor 4 [Source:MGI Symbol;Acc:MGI:88096]	ATF4.Ca9782.2.YY2017.HT-SE2	Atf4	64.05	47.52	65.95	50.84
+ENSMUSG00000042406	activating transcription factor 4 [Source:MGI Symbol;Acc:MGI:88096]	TA0385_Atf4_DBD_dimer	Atf4	64.05	47.52	65.95	50.84
+ENSMUSG00000042406	activating transcription factor 4 [Source:MGI Symbol;Acc:MGI:88096]	ATF4_HUMAN.H11MO.0.A	Atf4	64.05	47.52	65.95	50.84
+ENSMUSG00000026663	activating transcription factor 6 [Source:MGI Symbol;Acc:MGI:1926157]	ATF6.Ca9810.1.YY2017.HT-SE2	Atf6	12.06	8.95	9.56	7.37
+ENSMUSG00000026663	activating transcription factor 6 [Source:MGI Symbol;Acc:MGI:1926157]	ATF6A_HUMAN.H11MO.0.B	Atf6	12.06	8.95	9.56	7.37
+ENSMUSG00000026663	activating transcription factor 6 [Source:MGI Symbol;Acc:MGI:1926157]	ATF6.Me9810.1.YY2017.HT-SE2	Atf6	12.06	8.95	9.56	7.37
+ENSMUSG00000026663	activating transcription factor 6 [Source:MGI Symbol;Acc:MGI:1926157]	ATF6.Ca9810.2.YY2017.HT-SE2	Atf6	12.06	8.95	9.56	7.37
+ENSMUSG00000026663	activating transcription factor 6 [Source:MGI Symbol;Acc:MGI:1926157]	ATF6.Me9810.2.YY2017.HT-SE2	Atf6	12.06	8.95	9.56	7.37
+ENSMUSG00000015461	activating transcription factor 6 beta [Source:MGI Symbol;Acc:MGI:105121]	ATF6B.Ca9809.1.YY2017.HT-SE2	Atf6b	35.33	26.21	28.65	22.08
+ENSMUSG00000015461	activating transcription factor 6 beta [Source:MGI Symbol;Acc:MGI:105121]	ATF6B.Ca9809.3.YY2017.HT-SE2	Atf6b	35.33	26.21	28.65	22.08
+ENSMUSG00000015461	activating transcription factor 6 beta [Source:MGI Symbol;Acc:MGI:105121]	ATF6B.Me9809.1.YY2017.HT-SE2	Atf6b	35.33	26.21	28.65	22.08
+ENSMUSG00000015461	activating transcription factor 6 beta [Source:MGI Symbol;Acc:MGI:105121]	ATF6B.Me9809.2.YY2017.HT-SE2	Atf6b	35.33	26.21	28.65	22.08
+ENSMUSG00000015461	activating transcription factor 6 beta [Source:MGI Symbol;Acc:MGI:105121]	ATF6B.Ca9809.2.YY2017.HT-SE2	Atf6b	35.33	26.21	28.65	22.08
+ENSMUSG00000025612	BTB and CNC homology 1, basic leucine zipper transcription factor 1 [Source:MGI Symbol;Acc:MGI:894680]	BACH1_HUMAN.H11MO.0.A	Bach1	7.96	5.9	9.12	7.03
+ENSMUSG00000025612	BTB and CNC homology 1, basic leucine zipper transcription factor 1 [Source:MGI Symbol;Acc:MGI:894680]	AJ_BACH1	Bach1	7.96	5.9	9.12	7.03
+ENSMUSG00000040270	BTB and CNC homology, basic leucine zipper transcription factor 2 [Source:MGI Symbol;Acc:MGI:894679]	MA1101.1.BACH2	Bach2	6.41	4.76	5.61	4.33
+ENSMUSG00000040270	BTB and CNC homology, basic leucine zipper transcription factor 2 [Source:MGI Symbol;Acc:MGI:894679]	BACH2_HUMAN.H11MO.0.A	Bach2	6.41	4.76	5.61	4.33
+ENSMUSG00000040270	BTB and CNC homology, basic leucine zipper transcription factor 2 [Source:MGI Symbol;Acc:MGI:894679]	BACH2.Ca9804.2.YY2017.HT-SE2	Bach2	6.41	4.76	5.61	4.33
+ENSMUSG00000040270	BTB and CNC homology, basic leucine zipper transcription factor 2 [Source:MGI Symbol;Acc:MGI:894679]	BACH2.Me9804.1.YY2017.HT-SE2	Bach2	6.41	4.76	5.61	4.33
+ENSMUSG00000040270	BTB and CNC homology, basic leucine zipper transcription factor 2 [Source:MGI Symbol;Acc:MGI:894679]	BACH2.Ca9804.1.YY2017.HT-SE2	Bach2	6.41	4.76	5.61	4.33
+ENSMUSG00000034266	basic leucine zipper transcription factor, ATF-like [Source:MGI Symbol;Acc:MGI:1859147]	BATF.Ca9794.1.YY2017.HT-SE2	Batf	3.17	2.35	4.66	3.59
+ENSMUSG00000034266	basic leucine zipper transcription factor, ATF-like [Source:MGI Symbol;Acc:MGI:1859147]	BATF.Me9794.1.YY2017.HT-SE2	Batf	3.17	2.35	4.66	3.59
+ENSMUSG00000034266	basic leucine zipper transcription factor, ATF-like [Source:MGI Symbol;Acc:MGI:1859147]	BATF_HUMAN.H11MO.0.A	Batf	3.17	2.35	4.66	3.59
+ENSMUSG00000026630	basic leucine zipper transcription factor, ATF-like 3 [Source:MGI Symbol;Acc:MGI:1925491]	BATF3_HUMAN.H11MO.0.B	Batf3	2.76	2.05	3.56	2.74
+ENSMUSG00000026630	basic leucine zipper transcription factor, ATF-like 3 [Source:MGI Symbol;Acc:MGI:1925491]	BATF3.Ca9793.2.YY2017.HT-SE2	Batf3	2.76	2.05	3.56	2.74
+ENSMUSG00000026630	basic leucine zipper transcription factor, ATF-like 3 [Source:MGI Symbol;Acc:MGI:1925491]	BATF3.Ca9793.1.YY2017.HT-SE2	Batf3	2.76	2.05	3.56	2.74
+ENSMUSG00000026630	basic leucine zipper transcription factor, ATF-like 3 [Source:MGI Symbol;Acc:MGI:1925491]	BATF3.Me9793.1.YY2017.HT-SE2	Batf3	2.76	2.05	3.56	2.74
+ENSMUSG00000026630	basic leucine zipper transcription factor, ATF-like 3 [Source:MGI Symbol;Acc:MGI:1925491]	MA0835.1.BATF3	Batf3	2.76	2.05	3.56	2.74
+ENSMUSG00000026630	basic leucine zipper transcription factor, ATF-like 3 [Source:MGI Symbol;Acc:MGI:1925491]	BATF3.Me9793.2.YY2017.HT-SE2	Batf3	2.76	2.05	3.56	2.74
+ENSMUSG00000000861	B cell CLL/lymphoma 11A (zinc finger protein) [Source:MGI Symbol;Acc:MGI:106190]	BC11A_HUMAN.H11MO.0.A	Bcl11a	13.56	10.06	15.18	11.7
+ENSMUSG00000030103	basic helix-loop-helix family, member e40 [Source:MGI Symbol;Acc:MGI:1097714]	MA0464.1.Bhlhe40	Bhlhe40	10.77	7.99	11.29	8.7
+ENSMUSG00000030103	basic helix-loop-helix family, member e40 [Source:MGI Symbol;Acc:MGI:1097714]	BU0007.Bhlhb2_primary	Bhlhe40	10.77	7.99	11.29	8.7
+ENSMUSG00000030103	basic helix-loop-helix family, member e40 [Source:MGI Symbol;Acc:MGI:1097714]	BHLHE40.Ca9854.1.YY2017.HT-SE2	Bhlhe40	10.77	7.99	11.29	8.7
+ENSMUSG00000030103	basic helix-loop-helix family, member e40 [Source:MGI Symbol;Acc:MGI:1097714]	MA0464.2.BHLHE40	Bhlhe40	10.77	7.99	11.29	8.7
+ENSMUSG00000030103	basic helix-loop-helix family, member e40 [Source:MGI Symbol;Acc:MGI:1097714]	BHE40_HUMAN.H11MO.0.A	Bhlhe40	10.77	7.99	11.29	8.7
+ENSMUSG00000030103	basic helix-loop-helix family, member e40 [Source:MGI Symbol;Acc:MGI:1097714]	BHLHE40.Me9854.1.YY2017.HT-SE2	Bhlhe40	10.77	7.99	11.29	8.7
+ENSMUSG00000030256	basic helix-loop-helix family, member e41 [Source:MGI Symbol;Acc:MGI:1930704]	BHLHE41.Me9855.1.YY2017.HT-SE2	Bhlhe41	5.43	4.03	5.91	4.56
+ENSMUSG00000030256	basic helix-loop-helix family, member e41 [Source:MGI Symbol;Acc:MGI:1930704]	BHLHE41.Ca9855.1.YY2017.HT-SE2	Bhlhe41	5.43	4.03	5.91	4.56
+ENSMUSG00000030256	basic helix-loop-helix family, member e41 [Source:MGI Symbol;Acc:MGI:1930704]	MA0636.1.BHLHE41	Bhlhe41	5.43	4.03	5.91	4.56
+ENSMUSG00000056501	CCAAT/enhancer binding protein (C/EBP), beta [Source:MGI Symbol;Acc:MGI:88373]	CEBPB_HUMAN.H11MO.0.A	Cebpb	5.84	4.33	5.61	4.33
+ENSMUSG00000056501	CCAAT/enhancer binding protein (C/EBP), beta [Source:MGI Symbol;Acc:MGI:88373]	MA0466.2.CEBPB	Cebpb	5.84	4.33	5.61	4.33
+ENSMUSG00000056501	CCAAT/enhancer binding protein (C/EBP), beta [Source:MGI Symbol;Acc:MGI:88373]	CEBPB.Ca9789.1.YY2017.HT-SE2	Cebpb	5.84	4.33	5.61	4.33
+ENSMUSG00000056501	CCAAT/enhancer binding protein (C/EBP), beta [Source:MGI Symbol;Acc:MGI:88373]	CEBPB.Me9789.1.YY2017.HT-SE2	Cebpb	5.84	4.33	5.61	4.33
+ENSMUSG00000056501	CCAAT/enhancer binding protein (C/EBP), beta [Source:MGI Symbol;Acc:MGI:88373]	SMiLE_CEBPb	Cebpb	5.84	4.33	5.61	4.33
+ENSMUSG00000056501	CCAAT/enhancer binding protein (C/EBP), beta [Source:MGI Symbol;Acc:MGI:88373]	MA0466.1.CEBPB	Cebpb	5.84	4.33	5.61	4.33
+ENSMUSG00000071637	CCAAT/enhancer binding protein (C/EBP), delta [Source:MGI Symbol;Acc:MGI:103573]	CEBPD.Ca9787.1.YY2017.HT-SE2	Cebpd	3.09	2.3	3.15	2.43
+ENSMUSG00000071637	CCAAT/enhancer binding protein (C/EBP), delta [Source:MGI Symbol;Acc:MGI:103573]	MA0836.1.CEBPD	Cebpd	3.09	2.3	3.15	2.43
+ENSMUSG00000071637	CCAAT/enhancer binding protein (C/EBP), delta [Source:MGI Symbol;Acc:MGI:103573]	CEBPD_HUMAN.H11MO.0.C	Cebpd	3.09	2.3	3.15	2.43
+ENSMUSG00000071637	CCAAT/enhancer binding protein (C/EBP), delta [Source:MGI Symbol;Acc:MGI:103573]	CEBPD.Me9787.1.YY2017.HT-SE2	Cebpd	3.09	2.3	3.15	2.43
+ENSMUSG00000056216	CCAAT/enhancer binding protein (C/EBP), gamma [Source:MGI Symbol;Acc:MGI:104982]	MA0838.1.CEBPG	Cebpg	9.88	7.33	11.25	8.67
+ENSMUSG00000056216	CCAAT/enhancer binding protein (C/EBP), gamma [Source:MGI Symbol;Acc:MGI:104982]	CEBPG.Me9786.1.YY2017.HT-SE2	Cebpg	9.88	7.33	11.25	8.67
+ENSMUSG00000056216	CCAAT/enhancer binding protein (C/EBP), gamma [Source:MGI Symbol;Acc:MGI:104982]	CEBPG.Ca9786.2.YY2017.HT-SE2	Cebpg	9.88	7.33	11.25	8.67
+ENSMUSG00000056216	CCAAT/enhancer binding protein (C/EBP), gamma [Source:MGI Symbol;Acc:MGI:104982]	CEBPG.Me9786.2.YY2017.HT-SE2	Cebpg	9.88	7.33	11.25	8.67
+ENSMUSG00000056216	CCAAT/enhancer binding protein (C/EBP), gamma [Source:MGI Symbol;Acc:MGI:104982]	CEBPG.Ca9786.1.YY2017.HT-SE2	Cebpg	9.88	7.33	11.25	8.67
+ENSMUSG00000056216	CCAAT/enhancer binding protein (C/EBP), gamma [Source:MGI Symbol;Acc:MGI:104982]	CEBPG_HUMAN.H11MO.0.B	Cebpg	9.88	7.33	11.25	8.67
+ENSMUSG00000056216	CCAAT/enhancer binding protein (C/EBP), gamma [Source:MGI Symbol;Acc:MGI:104982]	TA0392_CEBPG_full_dimer	Cebpg	9.88	7.33	11.25	8.67
+ENSMUSG00000029238	circadian locomotor output cycles kaput [Source:MGI Symbol;Acc:MGI:99698]	CLOCK.Me9865.1.YY2017.HT-SE2	Clock	7.09	5.26	8.45	6.51
+ENSMUSG00000029238	circadian locomotor output cycles kaput [Source:MGI Symbol;Acc:MGI:99698]	CLOCK_HUMAN.H11MO.0.C	Clock	7.09	5.26	8.45	6.51
+ENSMUSG00000029238	circadian locomotor output cycles kaput [Source:MGI Symbol;Acc:MGI:99698]	CLOCK.Ca9865.1.YY2017.HT-SE2	Clock	7.09	5.26	8.45	6.51
+ENSMUSG00000029238	circadian locomotor output cycles kaput [Source:MGI Symbol;Acc:MGI:99698]	MA0819.1.CLOCK	Clock	7.09	5.26	8.45	6.51
+ENSMUSG00000025958	cAMP responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:88494]	MA0018.2.CREB1	Creb1	21.27	15.78	23.2	17.89
+ENSMUSG00000025958	cAMP responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:88494]	CREB1.Me9812.1.YY2017.HT-SE2	Creb1	21.27	15.78	23.2	17.89
+ENSMUSG00000025958	cAMP responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:88494]	CREB1.Ca9812.4.YY2017.HT-SE2	Creb1	21.27	15.78	23.2	17.89
+ENSMUSG00000025958	cAMP responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:88494]	MA0018.1.CREB1	Creb1	21.27	15.78	23.2	17.89
+ENSMUSG00000025958	cAMP responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:88494]	CREB1.Me9812.2.YY2017.HT-SE2	Creb1	21.27	15.78	23.2	17.89
+ENSMUSG00000025958	cAMP responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:88494]	CREB1.Me9812.4.YY2017.HT-SE2	Creb1	21.27	15.78	23.2	17.89
+ENSMUSG00000025958	cAMP responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:88494]	CREB1.Ca9812.2.YY2017.HT-SE2	Creb1	21.27	15.78	23.2	17.89
+ENSMUSG00000025958	cAMP responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:88494]	CREB1.Me9812.3.YY2017.HT-SE2	Creb1	21.27	15.78	23.2	17.89
+ENSMUSG00000025958	cAMP responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:88494]	CREB1.Ca9812.3.YY2017.HT-SE2	Creb1	21.27	15.78	23.2	17.89
+ENSMUSG00000025958	cAMP responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:88494]	MA0018.3.CREB1	Creb1	21.27	15.78	23.2	17.89
+ENSMUSG00000025958	cAMP responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:88494]	CREB1.Ca9812.1.YY2017.HT-SE2	Creb1	21.27	15.78	23.2	17.89
+ENSMUSG00000025958	cAMP responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:88494]	CREB1_HUMAN.H11MO.0.A	Creb1	21.27	15.78	23.2	17.89
+ENSMUSG00000028466	cAMP responsive element binding protein 3 [Source:MGI Symbol;Acc:MGI:99946]	CREB3.Me9807.2.YY2017.HT-SE2	Creb3	54.76	40.63	41.7	32.15
+ENSMUSG00000028466	cAMP responsive element binding protein 3 [Source:MGI Symbol;Acc:MGI:99946]	CREB3.Me9807.1.YY2017.HT-SE2	Creb3	54.76	40.63	41.7	32.15
+ENSMUSG00000028466	cAMP responsive element binding protein 3 [Source:MGI Symbol;Acc:MGI:99946]	CREB3.Me9807.3.YY2017.HT-SE2	Creb3	54.76	40.63	41.7	32.15
+ENSMUSG00000028466	cAMP responsive element binding protein 3 [Source:MGI Symbol;Acc:MGI:99946]	CREB3.Ca9807.1.YY2017.HT-SE2	Creb3	54.76	40.63	41.7	32.15
+ENSMUSG00000028466	cAMP responsive element binding protein 3 [Source:MGI Symbol;Acc:MGI:99946]	CREB3.Ca9807.3.YY2017.HT-SE2	Creb3	54.76	40.63	41.7	32.15
+ENSMUSG00000028466	cAMP responsive element binding protein 3 [Source:MGI Symbol;Acc:MGI:99946]	TA0396_CREB3_full_dimer	Creb3	54.76	40.63	41.7	32.15
+ENSMUSG00000028466	cAMP responsive element binding protein 3 [Source:MGI Symbol;Acc:MGI:99946]	MA0638.1.CREB3	Creb3	54.76	40.63	41.7	32.15
+ENSMUSG00000028466	cAMP responsive element binding protein 3 [Source:MGI Symbol;Acc:MGI:99946]	CREB3.Ca9807.2.YY2017.HT-SE2	Creb3	54.76	40.63	41.7	32.15
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	CREB3L1.Me9808.6.YY2017.HT-SE2	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	CREB3L1.Ca9808.2.YY2017.HT-SE2	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	CREB3L1.Me9808.4.YY2017.HT-SE2	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	CREB3L1.Ca9808.4.YY2017.HT-SE2	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	MA0839.1.CREB3L1	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	CREB3L1.Ca9808.3.YY2017.HT-SE2	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	CREB3L1.Ca9808.1.YY2017.HT-SE2	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	CREB3L1.Me9808.5.YY2017.HT-SE2	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	TA0394_CREB3L1_DBD_dimer	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	CREB3L1.Ca9808.5.YY2017.HT-SE2	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	CREB3L1.Me9808.2.YY2017.HT-SE2	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	CREB3L1.Me9808.1.YY2017.HT-SE2	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	TA0848_CREB3L1_full_dimer	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	CREB3L1.Me9808.3.YY2017.HT-SE2	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	TA0395_CREB3L1_full_dimer	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000027230	cAMP responsive element binding protein 3-like 1 [Source:MGI Symbol;Acc:MGI:1347062]	CREB3L1.Ca9808.6.YY2017.HT-SE2	Creb3l1	5.81	4.31	5.71	4.4
+ENSMUSG00000038648	cAMP responsive element binding protein 3-like 2 [Source:MGI Symbol;Acc:MGI:2442695]	MA0608.1.Creb3l2	Creb3l2	37.55	27.85	29.95	23.09
+ENSMUSG00000038648	cAMP responsive element binding protein 3-like 2 [Source:MGI Symbol;Acc:MGI:2442695]	TA0399_Creb3l2_DBD_dimer	Creb3l2	37.55	27.85	29.95	23.09
+ENSMUSG00000038648	cAMP responsive element binding protein 3-like 2 [Source:MGI Symbol;Acc:MGI:2442695]	TA0400_Creb3l2_DBD_dimer	Creb3l2	37.55	27.85	29.95	23.09
+ENSMUSG00000053007	cAMP responsive element binding protein 5 [Source:MGI Symbol;Acc:MGI:2443973]	CREB5.Me9790.2.YY2017.HT-SE2	Creb5	18.57	13.77	21.19	16.34
+ENSMUSG00000053007	cAMP responsive element binding protein 5 [Source:MGI Symbol;Acc:MGI:2443973]	MA0840.1.Creb5	Creb5	18.57	13.77	21.19	16.34
+ENSMUSG00000053007	cAMP responsive element binding protein 5 [Source:MGI Symbol;Acc:MGI:2443973]	CREB5.Me9790.1.YY2017.HT-SE2	Creb5	18.57	13.77	21.19	16.34
+ENSMUSG00000053007	cAMP responsive element binding protein 5 [Source:MGI Symbol;Acc:MGI:2443973]	CREB5.Ca9790.1.YY2017.HT-SE2	Creb5	18.57	13.77	21.19	16.34
+ENSMUSG00000053007	cAMP responsive element binding protein 5 [Source:MGI Symbol;Acc:MGI:2443973]	CREB5.Ca9790.2.YY2017.HT-SE2	Creb5	18.57	13.77	21.19	16.34
+ENSMUSG00000063889	cAMP responsive element modulator [Source:MGI Symbol;Acc:MGI:88495]	MA0609.1.Crem	Crem	20.65	15.32	18.14	13.99
+ENSMUSG00000063889	cAMP responsive element modulator [Source:MGI Symbol;Acc:MGI:88495]	CREM.Ca9811.1.YY2017.HT-SE2	Crem	20.65	15.32	18.14	13.99
+ENSMUSG00000063889	cAMP responsive element modulator [Source:MGI Symbol;Acc:MGI:88495]	CREM.Me9811.1.YY2017.HT-SE2	Crem	20.65	15.32	18.14	13.99
+ENSMUSG00000063889	cAMP responsive element modulator [Source:MGI Symbol;Acc:MGI:88495]	CREM_HUMAN.H11MO.0.C	Crem	20.65	15.32	18.14	13.99
+ENSMUSG00000005698	CCCTC-binding factor [Source:MGI Symbol;Acc:MGI:109447]	CTCF_HUMAN.H11MO.0.A	Ctcf	38.28	28.4	46.31	35.7
+ENSMUSG00000005698	CCCTC-binding factor [Source:MGI Symbol;Acc:MGI:109447]	TA0032_CTCF_full_monomer	Ctcf	38.28	28.4	46.31	35.7
+ENSMUSG00000005698	CCCTC-binding factor [Source:MGI Symbol;Acc:MGI:109447]	SMiLE_CTCF_001	Ctcf	38.28	28.4	46.31	35.7
+ENSMUSG00000005698	CCCTC-binding factor [Source:MGI Symbol;Acc:MGI:109447]	SMiLE_CTCF_002	Ctcf	38.28	28.4	46.31	35.7
+ENSMUSG00000005698	CCCTC-binding factor [Source:MGI Symbol;Acc:MGI:109447]	MA0139.1.CTCF	Ctcf	38.28	28.4	46.31	35.7
+ENSMUSG00000005698	CCCTC-binding factor [Source:MGI Symbol;Acc:MGI:109447]	HU0006_CTCF	Ctcf	38.28	28.4	46.31	35.7
+ENSMUSG00000029705	cut-like homeobox 1 [Source:MGI Symbol;Acc:MGI:88568]	CUX1_HUMAN.H11MO.0.C	Cux1	50.39	37.38	47.16	36.36
+ENSMUSG00000029705	cut-like homeobox 1 [Source:MGI Symbol;Acc:MGI:88568]	CUX1.Ca9743.1.YY2017.HT-SE2	Cux1	50.39	37.38	47.16	36.36
+ENSMUSG00000029705	cut-like homeobox 1 [Source:MGI Symbol;Acc:MGI:88568]	MA0754.1.CUX1	Cux1	50.39	37.38	47.16	36.36
+ENSMUSG00000029705	cut-like homeobox 1 [Source:MGI Symbol;Acc:MGI:88568]	HOMEO0016_Cutl1_3494.1	Cux1	50.39	37.38	47.16	36.36
+ENSMUSG00000029705	cut-like homeobox 1 [Source:MGI Symbol;Acc:MGI:88568]	TA0094_CUX1_DBD_dimer	Cux1	50.39	37.38	47.16	36.36
+ENSMUSG00000029705	cut-like homeobox 1 [Source:MGI Symbol;Acc:MGI:88568]	CUX1.Me9743.1.YY2017.HT-SE2	Cux1	50.39	37.38	47.16	36.36
+ENSMUSG00000029705	cut-like homeobox 1 [Source:MGI Symbol;Acc:MGI:88568]	HOMEO0017_Cutl1_3494.2	Cux1	50.39	37.38	47.16	36.36
+ENSMUSG00000042589	cut-like homeobox 2 [Source:MGI Symbol;Acc:MGI:107321]	CUX2.Me9742.1.YY2017.HT-SE2	Cux2	3.31	2.45	4.95	3.82
+ENSMUSG00000042589	cut-like homeobox 2 [Source:MGI Symbol;Acc:MGI:107321]	CUX2.Ca9742.1.YY2017.HT-SE2	Cux2	3.31	2.45	4.95	3.82
+ENSMUSG00000042589	cut-like homeobox 2 [Source:MGI Symbol;Acc:MGI:107321]	TA0097_CUX2_DBD_dimer	Cux2	3.31	2.45	4.95	3.82
+ENSMUSG00000042589	cut-like homeobox 2 [Source:MGI Symbol;Acc:MGI:107321]	CUX2_MOUSE.H11MO.0.C	Cux2	3.31	2.45	4.95	3.82
+ENSMUSG00000042589	cut-like homeobox 2 [Source:MGI Symbol;Acc:MGI:107321]	MA0755.1.CUX2	Cux2	3.31	2.45	4.95	3.82
+ENSMUSG00000025408	DNA-damage inducible transcript 3 [Source:MGI Symbol;Acc:MGI:109247]	DDIT3_MOUSE.H11MO.0.C	Ddit3	16.65	12.35	17.5	13.49
+ENSMUSG00000027490	E2F transcription factor 1 [Source:MGI Symbol;Acc:MGI:101941]	TA0853_E2F1_DBD_monomer	E2f1	5.54	4.11	4.53	3.49
+ENSMUSG00000027490	E2F transcription factor 1 [Source:MGI Symbol;Acc:MGI:101941]	MA0024.3.E2F1	E2f1	5.54	4.11	4.53	3.49
+ENSMUSG00000027490	E2F transcription factor 1 [Source:MGI Symbol;Acc:MGI:101941]	MA0024.1.E2F1	E2f1	5.54	4.11	4.53	3.49
+ENSMUSG00000027490	E2F transcription factor 1 [Source:MGI Symbol;Acc:MGI:101941]	MA0024.2.E2F1	E2f1	5.54	4.11	4.53	3.49
+ENSMUSG00000027490	E2F transcription factor 1 [Source:MGI Symbol;Acc:MGI:101941]	TA0854_E2F1_DBD_monomer	E2f1	5.54	4.11	4.53	3.49
+ENSMUSG00000027490	E2F transcription factor 1 [Source:MGI Symbol;Acc:MGI:101941]	TA0780_E2F1_DBD_dimer	E2f1	5.54	4.11	4.53	3.49
+ENSMUSG00000027490	E2F transcription factor 1 [Source:MGI Symbol;Acc:MGI:101941]	E2F1.Ca9734.1.YY2017.HT-SE2	E2f1	5.54	4.11	4.53	3.49
+ENSMUSG00000027490	E2F transcription factor 1 [Source:MGI Symbol;Acc:MGI:101941]	E2F1_HUMAN.H11MO.0.A	E2f1	5.54	4.11	4.53	3.49
+ENSMUSG00000018983	E2F transcription factor 2 [Source:MGI Symbol;Acc:MGI:1096341]	E2F2.Me9735.2.YY2017.HT-SE2	E2f2	3.42	2.54	4.07	3.13
+ENSMUSG00000018983	E2F transcription factor 2 [Source:MGI Symbol;Acc:MGI:1096341]	E2F2.Ca9735.2.YY2017.HT-SE2	E2f2	3.42	2.54	4.07	3.13
+ENSMUSG00000018983	E2F transcription factor 2 [Source:MGI Symbol;Acc:MGI:1096341]	E2F2.Me9735.1.YY2017.HT-SE2	E2f2	3.42	2.54	4.07	3.13
+ENSMUSG00000018983	E2F transcription factor 2 [Source:MGI Symbol;Acc:MGI:1096341]	BU0008.E2F2_primary	E2f2	3.42	2.54	4.07	3.13
+ENSMUSG00000018983	E2F transcription factor 2 [Source:MGI Symbol;Acc:MGI:1096341]	MA0864.1.E2F2	E2f2	3.42	2.54	4.07	3.13
+ENSMUSG00000018983	E2F transcription factor 2 [Source:MGI Symbol;Acc:MGI:1096341]	TA0103_E2F2_DBD_dimer	E2f2	3.42	2.54	4.07	3.13
+ENSMUSG00000018983	E2F transcription factor 2 [Source:MGI Symbol;Acc:MGI:1096341]	TA0104_E2F2_DBD_dimer	E2f2	3.42	2.54	4.07	3.13
+ENSMUSG00000018983	E2F transcription factor 2 [Source:MGI Symbol;Acc:MGI:1096341]	E2F2.Ca9735.1.YY2017.HT-SE2	E2f2	3.42	2.54	4.07	3.13
+ENSMUSG00000016477	E2F transcription factor 3 [Source:MGI Symbol;Acc:MGI:1096340]	E2F3.Ca9736.1.YY2017.HT-SE2	E2f3	7.03	5.21	7.26	5.59
+ENSMUSG00000016477	E2F transcription factor 3 [Source:MGI Symbol;Acc:MGI:1096340]	E2F3_HUMAN.H11MO.0.A	E2f3	7.03	5.21	7.26	5.59
+ENSMUSG00000016477	E2F transcription factor 3 [Source:MGI Symbol;Acc:MGI:1096340]	MA0469.2.E2F3	E2f3	7.03	5.21	7.26	5.59
+ENSMUSG00000016477	E2F transcription factor 3 [Source:MGI Symbol;Acc:MGI:1096340]	BU0009.E2F3_primary	E2f3	7.03	5.21	7.26	5.59
+ENSMUSG00000016477	E2F transcription factor 3 [Source:MGI Symbol;Acc:MGI:1096340]	MA0469.1.E2F3	E2f3	7.03	5.21	7.26	5.59
+ENSMUSG00000016477	E2F transcription factor 3 [Source:MGI Symbol;Acc:MGI:1096340]	E2F3.Me9736.1.YY2017.HT-SE2	E2f3	7.03	5.21	7.26	5.59
+ENSMUSG00000016477	E2F transcription factor 3 [Source:MGI Symbol;Acc:MGI:1096340]	TA0105_E2F3_DBD_dimer	E2f3	7.03	5.21	7.26	5.59
+ENSMUSG00000016477	E2F transcription factor 3 [Source:MGI Symbol;Acc:MGI:1096340]	TA0107_E2F3_DBD_dimer	E2f3	7.03	5.21	7.26	5.59
+ENSMUSG00000014859	E2F transcription factor 4 [Source:MGI Symbol;Acc:MGI:103012]	MA0470.1.E2F4	E2f4	50.18	37.23	57.18	44.08
+ENSMUSG00000014859	E2F transcription factor 4 [Source:MGI Symbol;Acc:MGI:103012]	E2F4_HUMAN.H11MO.0.A	E2f4	50.18	37.23	57.18	44.08
+ENSMUSG00000014859	E2F transcription factor 4 [Source:MGI Symbol;Acc:MGI:103012]	TA0784_E2F4_DBD_dimer	E2f4	50.18	37.23	57.18	44.08
+ENSMUSG00000014859	E2F transcription factor 4 [Source:MGI Symbol;Acc:MGI:103012]	E2F4.Ca9733.1.YY2017.HT-SE2	E2f4	50.18	37.23	57.18	44.08
+ENSMUSG00000014859	E2F transcription factor 4 [Source:MGI Symbol;Acc:MGI:103012]	TA0783_E2F4_DBD_dimer	E2f4	50.18	37.23	57.18	44.08
+ENSMUSG00000027552	E2F transcription factor 5 [Source:MGI Symbol;Acc:MGI:105091]	E2F5_HUMAN.H11MO.0.B	E2f5	28.27	20.97	26.32	20.29
+ENSMUSG00000057469	E2F transcription factor 6 [Source:MGI Symbol;Acc:MGI:1354159]	MA0471.1.E2F6	E2f6	42.37	31.43	39.13	30.16
+ENSMUSG00000057469	E2F transcription factor 6 [Source:MGI Symbol;Acc:MGI:1354159]	E2F6_HUMAN.H11MO.0.A	E2f6	42.37	31.43	39.13	30.16
+ENSMUSG00000020185	E2F transcription factor 7 [Source:MGI Symbol;Acc:MGI:1289147]	E2F7.Ca9731.1.YY2017.HT-SE2	E2f7	14.44	10.71	15.29	11.79
+ENSMUSG00000020185	E2F transcription factor 7 [Source:MGI Symbol;Acc:MGI:1289147]	E2F7_HUMAN.H11MO.0.B	E2f7	14.44	10.71	15.29	11.79
+ENSMUSG00000020185	E2F transcription factor 7 [Source:MGI Symbol;Acc:MGI:1289147]	MA0758.1.E2F7	E2f7	14.44	10.71	15.29	11.79
+ENSMUSG00000020185	E2F transcription factor 7 [Source:MGI Symbol;Acc:MGI:1289147]	E2F7.Me9731.1.YY2017.HT-SE2	E2f7	14.44	10.71	15.29	11.79
+ENSMUSG00000046179	E2F transcription factor 8 [Source:MGI Symbol;Acc:MGI:1922038]	E2F8.Ca9732.1.YY2017.HT-SE2	E2f8	14.67	10.88	15.82	12.19
+ENSMUSG00000046179	E2F transcription factor 8 [Source:MGI Symbol;Acc:MGI:1922038]	MA0865.1.E2F8	E2f8	14.67	10.88	15.82	12.19
+ENSMUSG00000046179	E2F transcription factor 8 [Source:MGI Symbol;Acc:MGI:1922038]	E2F8.Me9732.1.YY2017.HT-SE2	E2f8	14.67	10.88	15.82	12.19
+ENSMUSG00000057098	early B cell factor 1 [Source:MGI Symbol;Acc:MGI:95275]	COE1_HUMAN.H11MO.0.A	Ebf1	11.4	8.46	10.16	7.83
+ENSMUSG00000057098	early B cell factor 1 [Source:MGI Symbol;Acc:MGI:95275]	MA0154.2.EBF1	Ebf1	11.4	8.46	10.16	7.83
+ENSMUSG00000057098	early B cell factor 1 [Source:MGI Symbol;Acc:MGI:95275]	MA0154.1.EBF1	Ebf1	11.4	8.46	10.16	7.83
+ENSMUSG00000057098	early B cell factor 1 [Source:MGI Symbol;Acc:MGI:95275]	MA0154.3.EBF1	Ebf1	11.4	8.46	10.16	7.83
+ENSMUSG00000038418	early growth response 1 [Source:MGI Symbol;Acc:MGI:95295]	EGR1.Me9540.1.YY2017.HT-SE2	Egr1	6.14	4.55	5.88	4.53
+ENSMUSG00000038418	early growth response 1 [Source:MGI Symbol;Acc:MGI:95295]	MA0162.3.EGR1	Egr1	6.14	4.55	5.88	4.53
+ENSMUSG00000038418	early growth response 1 [Source:MGI Symbol;Acc:MGI:95295]	EGR1.Ca9540.1.YY2017.HT-SE2	Egr1	6.14	4.55	5.88	4.53
+ENSMUSG00000038418	early growth response 1 [Source:MGI Symbol;Acc:MGI:95295]	EGR1_HUMAN.H11MO.0.A	Egr1	6.14	4.55	5.88	4.53
+ENSMUSG00000038418	early growth response 1 [Source:MGI Symbol;Acc:MGI:95295]	MA0162.2.EGR1	Egr1	6.14	4.55	5.88	4.53
+ENSMUSG00000038418	early growth response 1 [Source:MGI Symbol;Acc:MGI:95295]	TA0771_Egr1_mouse	Egr1	6.14	4.55	5.88	4.53
+ENSMUSG00000038418	early growth response 1 [Source:MGI Symbol;Acc:MGI:95295]	SMiLE_EGR1	Egr1	6.14	4.55	5.88	4.53
+ENSMUSG00000038418	early growth response 1 [Source:MGI Symbol;Acc:MGI:95295]	TA0033_EGR1_DBD_monomer	Egr1	6.14	4.55	5.88	4.53
+ENSMUSG00000038418	early growth response 1 [Source:MGI Symbol;Acc:MGI:95295]	BU0010.Egr1_primary	Egr1	6.14	4.55	5.88	4.53
+ENSMUSG00000038418	early growth response 1 [Source:MGI Symbol;Acc:MGI:95295]	MA0162.1.Egr1	Egr1	6.14	4.55	5.88	4.53
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	ELF1.Ca9760.3.YY2017.HT-SE2	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	ELF1.Me9760.2.YY2017.HT-SE2	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	ELF1.Me9760.1.YY2017.HT-SE2	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	TA0112_ELF1_full_monomer	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	ELF1.Ca9760.1.YY2017.HT-SE2	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	MA0473.2.ELF1	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	ELF1.Ca9760.4.YY2017.HT-SE2	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	ELF1_HUMAN.H11MO.0.A	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	ELF1.Me9760.3.YY2017.HT-SE2	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	ELF1.Ca9760.2.YY2017.HT-SE2	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	ETS0002.h-ELF1	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	ELF1.Me9760.4.YY2017.HT-SE2	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000036461	E74-like factor 1 [Source:MGI Symbol;Acc:MGI:107180]	MA0473.1.ELF1	Elf1	5.89	4.37	5.98	4.61
+ENSMUSG00000037174	E74-like factor 2 [Source:MGI Symbol;Acc:MGI:1916507]	ELF2.Ca9758.1.YY2017.HT-SE2	Elf2	34.26	25.42	31.05	23.93
+ENSMUSG00000037174	E74-like factor 2 [Source:MGI Symbol;Acc:MGI:1916507]	ETS0003.h-ELF2	Elf2	34.26	25.42	31.05	23.93
+ENSMUSG00000037174	E74-like factor 2 [Source:MGI Symbol;Acc:MGI:1916507]	ELF2.Ca9758.2.YY2017.HT-SE2	Elf2	34.26	25.42	31.05	23.93
+ENSMUSG00000037174	E74-like factor 2 [Source:MGI Symbol;Acc:MGI:1916507]	ELF2.Me9758.4.YY2017.HT-SE2	Elf2	34.26	25.42	31.05	23.93
+ENSMUSG00000037174	E74-like factor 2 [Source:MGI Symbol;Acc:MGI:1916507]	ELF2.Ca9758.4.YY2017.HT-SE2	Elf2	34.26	25.42	31.05	23.93
+ENSMUSG00000037174	E74-like factor 2 [Source:MGI Symbol;Acc:MGI:1916507]	AJ_ELF2_001	Elf2	34.26	25.42	31.05	23.93
+ENSMUSG00000037174	E74-like factor 2 [Source:MGI Symbol;Acc:MGI:1916507]	ELF2.Me9758.3.YY2017.HT-SE2	Elf2	34.26	25.42	31.05	23.93
+ENSMUSG00000037174	E74-like factor 2 [Source:MGI Symbol;Acc:MGI:1916507]	ELF2_HUMAN.H11MO.0.C	Elf2	34.26	25.42	31.05	23.93
+ENSMUSG00000037174	E74-like factor 2 [Source:MGI Symbol;Acc:MGI:1916507]	ELF2.Ca9758.3.YY2017.HT-SE2	Elf2	34.26	25.42	31.05	23.93
+ENSMUSG00000037174	E74-like factor 2 [Source:MGI Symbol;Acc:MGI:1916507]	AJ_ELF2_002	Elf2	34.26	25.42	31.05	23.93
+ENSMUSG00000037174	E74-like factor 2 [Source:MGI Symbol;Acc:MGI:1916507]	ELF2.Me9758.1.YY2017.HT-SE2	Elf2	34.26	25.42	31.05	23.93
+ENSMUSG00000037174	E74-like factor 2 [Source:MGI Symbol;Acc:MGI:1916507]	ELF2.Me9758.2.YY2017.HT-SE2	Elf2	34.26	25.42	31.05	23.93
+ENSMUSG00000031103	E74-like factor 4 (ets domain transcription factor) [Source:MGI Symbol;Acc:MGI:1928377]	ELF4.Ca9759.2.YY2017.HT-SE2	Elf4	12.3	9.13	9.99	7.7
+ENSMUSG00000031103	E74-like factor 4 (ets domain transcription factor) [Source:MGI Symbol;Acc:MGI:1928377]	ETS0005.h-ELF4	Elf4	12.3	9.13	9.99	7.7
+ENSMUSG00000031103	E74-like factor 4 (ets domain transcription factor) [Source:MGI Symbol;Acc:MGI:1928377]	ELF4.Ca9759.1.YY2017.HT-SE2	Elf4	12.3	9.13	9.99	7.7
+ENSMUSG00000031103	E74-like factor 4 (ets domain transcription factor) [Source:MGI Symbol;Acc:MGI:1928377]	MA0641.1.ELF4	Elf4	12.3	9.13	9.99	7.7
+ENSMUSG00000031103	E74-like factor 4 (ets domain transcription factor) [Source:MGI Symbol;Acc:MGI:1928377]	ELF4.Me9759.2.YY2017.HT-SE2	Elf4	12.3	9.13	9.99	7.7
+ENSMUSG00000031103	E74-like factor 4 (ets domain transcription factor) [Source:MGI Symbol;Acc:MGI:1928377]	ELF4.Me9759.1.YY2017.HT-SE2	Elf4	12.3	9.13	9.99	7.7
+ENSMUSG00000009406	ELK1, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101833]	ELK1.Ca9763.1.YY2017.HT-SE2	Elk1	4.28	3.18	5.35	4.12
+ENSMUSG00000009406	ELK1, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101833]	ELK1.Me9763.1.YY2017.HT-SE2	Elk1	4.28	3.18	5.35	4.12
+ENSMUSG00000009406	ELK1, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101833]	TA0118_ELK1_DBD_monomer	Elk1	4.28	3.18	5.35	4.12
+ENSMUSG00000009406	ELK1, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101833]	ELK1_HUMAN.H11MO.0.B	Elk1	4.28	3.18	5.35	4.12
+ENSMUSG00000009406	ELK1, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101833]	ELK1.Ca9763.2.YY2017.HT-SE2	Elk1	4.28	3.18	5.35	4.12
+ENSMUSG00000009406	ELK1, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101833]	TA0120_ELK1_full_dimer	Elk1	4.28	3.18	5.35	4.12
+ENSMUSG00000009406	ELK1, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101833]	ELK1.Me9763.2.YY2017.HT-SE2	Elk1	4.28	3.18	5.35	4.12
+ENSMUSG00000009406	ELK1, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101833]	MA0028.1.ELK1	Elk1	4.28	3.18	5.35	4.12
+ENSMUSG00000009406	ELK1, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101833]	MA0028.2.ELK1	Elk1	4.28	3.18	5.35	4.12
+ENSMUSG00000008398	ELK3, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101762]	ELK3.Ca9761.3.YY2017.HT-SE2	Elk3	28.3	21	29.37	22.64
+ENSMUSG00000008398	ELK3, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101762]	ELK3.Ca9761.1.YY2017.HT-SE2	Elk3	28.3	21	29.37	22.64
+ENSMUSG00000008398	ELK3, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101762]	ELK3.Ca9761.4.YY2017.HT-SE2	Elk3	28.3	21	29.37	22.64
+ENSMUSG00000008398	ELK3, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101762]	ELK3.Me9761.1.YY2017.HT-SE2	Elk3	28.3	21	29.37	22.64
+ENSMUSG00000008398	ELK3, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101762]	ELK3.Ca9761.2.YY2017.HT-SE2	Elk3	28.3	21	29.37	22.64
+ENSMUSG00000008398	ELK3, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101762]	ELK3.Me9761.2.YY2017.HT-SE2	Elk3	28.3	21	29.37	22.64
+ENSMUSG00000008398	ELK3, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101762]	MA0759.1.ELK3	Elk3	28.3	21	29.37	22.64
+ENSMUSG00000008398	ELK3, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:101762]	TA0140_Elk3_DBD_monomer	Elk3	28.3	21	29.37	22.64
+ENSMUSG00000026436	ELK4, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:102853]	ETS0009.h-Elk4	Elk4	12.76	9.46	14.69	11.33
+ENSMUSG00000026436	ELK4, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:102853]	ELK4.Me9762.1.YY2017.HT-SE2	Elk4	12.76	9.46	14.69	11.33
+ENSMUSG00000026436	ELK4, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:102853]	ELK4.Ca9762.1.YY2017.HT-SE2	Elk4	12.76	9.46	14.69	11.33
+ENSMUSG00000026436	ELK4, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:102853]	MA0076.1.ELK4	Elk4	12.76	9.46	14.69	11.33
+ENSMUSG00000026436	ELK4, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:102853]	TA0122_ELK4_DBD_monomer	Elk4	12.76	9.46	14.69	11.33
+ENSMUSG00000026436	ELK4, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:102853]	ELK4_HUMAN.H11MO.0.A	Elk4	12.76	9.46	14.69	11.33
+ENSMUSG00000026436	ELK4, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:102853]	ELK4.Ca9762.2.YY2017.HT-SE2	Elk4	12.76	9.46	14.69	11.33
+ENSMUSG00000026436	ELK4, member of ETS oncogene family [Source:MGI Symbol;Acc:MGI:102853]	MA0076.2.ELK4	Elk4	12.76	9.46	14.69	11.33
+ENSMUSG00000024140	endothelial PAS domain protein 1 [Source:MGI Symbol;Acc:MGI:109169]	EPAS1_HUMAN.H11MO.0.B	Epas1	10.52	7.8	8.03	6.19
+ENSMUSG00000040857	Ets2 repressor factor [Source:MGI Symbol;Acc:MGI:109637]	MA0760.1.ERF	Erf	14.57	10.81	17.49	13.48
+ENSMUSG00000040857	Ets2 repressor factor [Source:MGI Symbol;Acc:MGI:109637]	ETS0010.h-ERF	Erf	14.57	10.81	17.49	13.48
+ENSMUSG00000040732	ETS transcription factor [Source:MGI Symbol;Acc:MGI:95415]	TA0127_ERG_full_dimer	Erg	3.23	2.4	3.33	2.57
+ENSMUSG00000040732	ETS transcription factor [Source:MGI Symbol;Acc:MGI:95415]	ERG.Ca9773.1.YY2017.HT-SE2	Erg	3.23	2.4	3.33	2.57
+ENSMUSG00000040732	ETS transcription factor [Source:MGI Symbol;Acc:MGI:95415]	ERG_HUMAN.H11MO.0.A	Erg	3.23	2.4	3.33	2.57
+ENSMUSG00000040732	ETS transcription factor [Source:MGI Symbol;Acc:MGI:95415]	ERG.Ca9773.3.YY2017.HT-SE2	Erg	3.23	2.4	3.33	2.57
+ENSMUSG00000040732	ETS transcription factor [Source:MGI Symbol;Acc:MGI:95415]	ERG.Ca9773.2.YY2017.HT-SE2	Erg	3.23	2.4	3.33	2.57
+ENSMUSG00000040732	ETS transcription factor [Source:MGI Symbol;Acc:MGI:95415]	ERG.Me9773.4.YY2017.HT-SE2	Erg	3.23	2.4	3.33	2.57
+ENSMUSG00000040732	ETS transcription factor [Source:MGI Symbol;Acc:MGI:95415]	ERG.Me9773.3.YY2017.HT-SE2	Erg	3.23	2.4	3.33	2.57
+ENSMUSG00000040732	ETS transcription factor [Source:MGI Symbol;Acc:MGI:95415]	ERG.Me9773.2.YY2017.HT-SE2	Erg	3.23	2.4	3.33	2.57
+ENSMUSG00000040732	ETS transcription factor [Source:MGI Symbol;Acc:MGI:95415]	ERG.Ca9773.4.YY2017.HT-SE2	Erg	3.23	2.4	3.33	2.57
+ENSMUSG00000040732	ETS transcription factor [Source:MGI Symbol;Acc:MGI:95415]	MA0474.2.ERG	Erg	3.23	2.4	3.33	2.57
+ENSMUSG00000040732	ETS transcription factor [Source:MGI Symbol;Acc:MGI:95415]	MA0474.1.Erg	Erg	3.23	2.4	3.33	2.57
+ENSMUSG00000040732	ETS transcription factor [Source:MGI Symbol;Acc:MGI:95415]	ERG.Me9773.1.YY2017.HT-SE2	Erg	3.23	2.4	3.33	2.57
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	ESRRA.Ca9637.1.YY2017.HT-SE2	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	MA0592.2.Esrra	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	TA0691_ESRRA_DBD_dimer	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	ERR1_HUMAN.H11MO.0.A	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	MA0592.1.ESRRA	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	TA0867_ESRRA_DBD_dimer	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	ESRRA.Me9637.1.YY2017.HT-SE2	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	ESRRA.Ca9637.2.YY2017.HT-SE2	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	ESRRA.Me9637.2.YY2017.HT-SE2	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	TA0692_ESRRA_DBD_dimer	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	TA0690_ESRRA_DBD_monomer	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	BU0014.Esrra_primary	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000024955	estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]	TA0697_Esrra_DBD_dimer	Esrra	6.4	4.75	7.36	5.67
+ENSMUSG00000026610	estrogen-related receptor gamma [Source:MGI Symbol;Acc:MGI:1347056]	TA0694_ESRRG_full_dimer	Esrrg	25.74	19.1	23.88	18.41
+ENSMUSG00000026610	estrogen-related receptor gamma [Source:MGI Symbol;Acc:MGI:1347056]	ESRRG.Me9635.1.YY2017.HT-SE2	Esrrg	25.74	19.1	23.88	18.41
+ENSMUSG00000026610	estrogen-related receptor gamma [Source:MGI Symbol;Acc:MGI:1347056]	ESRRG.Me9635.2.YY2017.HT-SE2	Esrrg	25.74	19.1	23.88	18.41
+ENSMUSG00000026610	estrogen-related receptor gamma [Source:MGI Symbol;Acc:MGI:1347056]	ESRRG.Ca9635.2.YY2017.HT-SE2	Esrrg	25.74	19.1	23.88	18.41
+ENSMUSG00000026610	estrogen-related receptor gamma [Source:MGI Symbol;Acc:MGI:1347056]	TA0695_ESRRG_full_dimer	Esrrg	25.74	19.1	23.88	18.41
+ENSMUSG00000026610	estrogen-related receptor gamma [Source:MGI Symbol;Acc:MGI:1347056]	ERR3_HUMAN.H11MO.0.B	Esrrg	25.74	19.1	23.88	18.41
+ENSMUSG00000026610	estrogen-related receptor gamma [Source:MGI Symbol;Acc:MGI:1347056]	MA0643.1.Esrrg	Esrrg	25.74	19.1	23.88	18.41
+ENSMUSG00000026610	estrogen-related receptor gamma [Source:MGI Symbol;Acc:MGI:1347056]	ESRRG.Ca9635.1.YY2017.HT-SE2	Esrrg	25.74	19.1	23.88	18.41
+ENSMUSG00000032035	E26 avian leukemia oncogene 1, 5' domain [Source:MGI Symbol;Acc:MGI:95455]	MA0098.2.Ets1	Ets1	37.64	27.92	26.72	20.6
+ENSMUSG00000032035	E26 avian leukemia oncogene 1, 5' domain [Source:MGI Symbol;Acc:MGI:95455]	MA0098.3.ETS1	Ets1	37.64	27.92	26.72	20.6
+ENSMUSG00000032035	E26 avian leukemia oncogene 1, 5' domain [Source:MGI Symbol;Acc:MGI:95455]	MA0098.1.ETS1	Ets1	37.64	27.92	26.72	20.6
+ENSMUSG00000032035	E26 avian leukemia oncogene 1, 5' domain [Source:MGI Symbol;Acc:MGI:95455]	TA0129_ETS1_DBD_dimer	Ets1	37.64	27.92	26.72	20.6
+ENSMUSG00000032035	E26 avian leukemia oncogene 1, 5' domain [Source:MGI Symbol;Acc:MGI:95455]	ETS1_HUMAN.H11MO.0.A	Ets1	37.64	27.92	26.72	20.6
+ENSMUSG00000032035	E26 avian leukemia oncogene 1, 5' domain [Source:MGI Symbol;Acc:MGI:95455]	TA0131_ETS1_full_dimer	Ets1	37.64	27.92	26.72	20.6
+ENSMUSG00000022895	E26 avian leukemia oncogene 2, 3' domain [Source:MGI Symbol;Acc:MGI:95456]	ETS2_HUMAN.H11MO.0.B	Ets2	32.27	23.94	18.7	14.41
+ENSMUSG00000022895	E26 avian leukemia oncogene 2, 3' domain [Source:MGI Symbol;Acc:MGI:95456]	AJ_ETS2	Ets2	32.27	23.94	18.7	14.41
+ENSMUSG00000022895	E26 avian leukemia oncogene 2, 3' domain [Source:MGI Symbol;Acc:MGI:95456]	ETS2.Me9767.1.YY2017.HT-SE2	Ets2	32.27	23.94	18.7	14.41
+ENSMUSG00000022895	E26 avian leukemia oncogene 2, 3' domain [Source:MGI Symbol;Acc:MGI:95456]	ETS2.Ca9767.1.YY2017.HT-SE2	Ets2	32.27	23.94	18.7	14.41
+ENSMUSG00000004151	ets variant 1 [Source:MGI Symbol;Acc:MGI:99254]	ETV1.Ca9766.1.YY2017.HT-SE2	Etv1	21.16	15.69	19.68	15.17
+ENSMUSG00000004151	ets variant 1 [Source:MGI Symbol;Acc:MGI:99254]	MA0761.1.ETV1	Etv1	21.16	15.69	19.68	15.17
+ENSMUSG00000004151	ets variant 1 [Source:MGI Symbol;Acc:MGI:99254]	ETV1.Ca9766.2.YY2017.HT-SE2	Etv1	21.16	15.69	19.68	15.17
+ENSMUSG00000004151	ets variant 1 [Source:MGI Symbol;Acc:MGI:99254]	ETV1.Me9766.1.YY2017.HT-SE2	Etv1	21.16	15.69	19.68	15.17
+ENSMUSG00000004151	ets variant 1 [Source:MGI Symbol;Acc:MGI:99254]	ETV1_HUMAN.H11MO.0.A	Etv1	21.16	15.69	19.68	15.17
+ENSMUSG00000004151	ets variant 1 [Source:MGI Symbol;Acc:MGI:99254]	ETV1.Me9766.2.YY2017.HT-SE2	Etv1	21.16	15.69	19.68	15.17
+ENSMUSG00000003382	ets variant 3 [Source:MGI Symbol;Acc:MGI:1350926]	MA0763.1.ETV3	Etv3	6.36	4.72	5.4	4.17
+ENSMUSG00000003382	ets variant 3 [Source:MGI Symbol;Acc:MGI:1350926]	ETV3.Me9770.2.YY2017.HT-SE2	Etv3	6.36	4.72	5.4	4.17
+ENSMUSG00000003382	ets variant 3 [Source:MGI Symbol;Acc:MGI:1350926]	ETV3.Ca9770.2.YY2017.HT-SE2	Etv3	6.36	4.72	5.4	4.17
+ENSMUSG00000003382	ets variant 3 [Source:MGI Symbol;Acc:MGI:1350926]	ETS0016.h-ETV3	Etv3	6.36	4.72	5.4	4.17
+ENSMUSG00000003382	ets variant 3 [Source:MGI Symbol;Acc:MGI:1350926]	ETV3.Ca9770.1.YY2017.HT-SE2	Etv3	6.36	4.72	5.4	4.17
+ENSMUSG00000003382	ets variant 3 [Source:MGI Symbol;Acc:MGI:1350926]	ETV3.Me9770.1.YY2017.HT-SE2	Etv3	6.36	4.72	5.4	4.17
+ENSMUSG00000017724	ets variant 4 [Source:MGI Symbol;Acc:MGI:99423]	MA0764.1.ETV4	Etv4	3.23	2.4	6.07	4.68
+ENSMUSG00000017724	ets variant 4 [Source:MGI Symbol;Acc:MGI:99423]	ETV4.Ca9764.2.YY2017.HT-SE2	Etv4	3.23	2.4	6.07	4.68
+ENSMUSG00000017724	ets variant 4 [Source:MGI Symbol;Acc:MGI:99423]	ETV4.Me9764.4.YY2017.HT-SE2	Etv4	3.23	2.4	6.07	4.68
+ENSMUSG00000017724	ets variant 4 [Source:MGI Symbol;Acc:MGI:99423]	ETV4.Me9764.3.YY2017.HT-SE2	Etv4	3.23	2.4	6.07	4.68
+ENSMUSG00000017724	ets variant 4 [Source:MGI Symbol;Acc:MGI:99423]	ETV4.Ca9764.1.YY2017.HT-SE2	Etv4	3.23	2.4	6.07	4.68
+ENSMUSG00000017724	ets variant 4 [Source:MGI Symbol;Acc:MGI:99423]	ETV4_HUMAN.H11MO.0.B	Etv4	3.23	2.4	6.07	4.68
+ENSMUSG00000017724	ets variant 4 [Source:MGI Symbol;Acc:MGI:99423]	ETV4.Me9764.1.YY2017.HT-SE2	Etv4	3.23	2.4	6.07	4.68
+ENSMUSG00000017724	ets variant 4 [Source:MGI Symbol;Acc:MGI:99423]	ETV4.Me9764.2.YY2017.HT-SE2	Etv4	3.23	2.4	6.07	4.68
+ENSMUSG00000017724	ets variant 4 [Source:MGI Symbol;Acc:MGI:99423]	ETV4.Ca9764.3.YY2017.HT-SE2	Etv4	3.23	2.4	6.07	4.68
+ENSMUSG00000013089	ets variant 5 [Source:MGI Symbol;Acc:MGI:1096867]	ETV5.Me9765.2.YY2017.HT-SE2	Etv5	17.84	13.23	14.85	11.45
+ENSMUSG00000013089	ets variant 5 [Source:MGI Symbol;Acc:MGI:1096867]	ETV5.Me9765.1.YY2017.HT-SE2	Etv5	17.84	13.23	14.85	11.45
+ENSMUSG00000013089	ets variant 5 [Source:MGI Symbol;Acc:MGI:1096867]	TA0136_ETV5_DBD_monomer	Etv5	17.84	13.23	14.85	11.45
+ENSMUSG00000013089	ets variant 5 [Source:MGI Symbol;Acc:MGI:1096867]	ETV5.Ca9765.1.YY2017.HT-SE2	Etv5	17.84	13.23	14.85	11.45
+ENSMUSG00000013089	ets variant 5 [Source:MGI Symbol;Acc:MGI:1096867]	MA0765.1.ETV5	Etv5	17.84	13.23	14.85	11.45
+ENSMUSG00000013089	ets variant 5 [Source:MGI Symbol;Acc:MGI:1096867]	ETV5_HUMAN.H11MO.0.C	Etv5	17.84	13.23	14.85	11.45
+ENSMUSG00000030199	ets variant 6 [Source:MGI Symbol;Acc:MGI:109336]	TA0137_ETV6_full_dimer	Etv6	12.73	9.44	11.14	8.59
+ENSMUSG00000030199	ets variant 6 [Source:MGI Symbol;Acc:MGI:109336]	MA0645.1.ETV6	Etv6	12.73	9.44	11.14	8.59
+ENSMUSG00000030199	ets variant 6 [Source:MGI Symbol;Acc:MGI:109336]	ETS0019.h-ETV6	Etv6	12.73	9.44	11.14	8.59
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	FLI1.Me9772.1.YY2017.HT-SE2	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	FLI1.Me9772.4.YY2017.HT-SE2	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	FLI1_HUMAN.H11MO.0.A	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	FLI1.Me9772.2.YY2017.HT-SE2	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	FLI1.Me9772.3.YY2017.HT-SE2	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	FLI1.Ca9772.3.YY2017.HT-SE2	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	FLI1.Ca9772.2.YY2017.HT-SE2	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	FLI1.Ca9772.4.YY2017.HT-SE2	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	MA0475.1.FLI1	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	FLI1.Ca9772.1.YY2017.HT-SE2	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	MA0475.2.FLI1	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	TA0144_FLI1_full_monomer	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000016087	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	TA0145_FLI1_full_monomer	Fli1	13.29	9.86	11.93	9.2
+ENSMUSG00000021250	FBJ osteosarcoma oncogene [Source:MGI Symbol;Acc:MGI:95574]	FOS.Me9799.1.YY2017.HT-SE2	Fos	4.47	3.32	3.13	2.41
+ENSMUSG00000021250	FBJ osteosarcoma oncogene [Source:MGI Symbol;Acc:MGI:95574]	FOS.Ca9799.1.YY2017.HT-SE2	Fos	4.47	3.32	3.13	2.41
+ENSMUSG00000021250	FBJ osteosarcoma oncogene [Source:MGI Symbol;Acc:MGI:95574]	FOS_HUMAN.H11MO.0.A	Fos	4.47	3.32	3.13	2.41
+ENSMUSG00000021250	FBJ osteosarcoma oncogene [Source:MGI Symbol;Acc:MGI:95574]	MA0476.1.FOS	Fos	4.47	3.32	3.13	2.41
+ENSMUSG00000021250	FBJ osteosarcoma oncogene [Source:MGI Symbol;Acc:MGI:95574]	AJ_FOS	Fos	4.47	3.32	3.13	2.41
+ENSMUSG00000050295	forkhead box C1 [Source:MGI Symbol;Acc:MGI:1347466]	MA0032.2.FOXC1	Foxc1	3	2.23	2.79	2.15
+ENSMUSG00000050295	forkhead box C1 [Source:MGI Symbol;Acc:MGI:1347466]	FOXC1_HUMAN.H11MO.0.C	Foxc1	3	2.23	2.79	2.15
+ENSMUSG00000050295	forkhead box C1 [Source:MGI Symbol;Acc:MGI:1347466]	TA0469_Foxc1_DBD_dimer	Foxc1	3	2.23	2.79	2.15
+ENSMUSG00000050295	forkhead box C1 [Source:MGI Symbol;Acc:MGI:1347466]	MA0032.1.FOXC1	Foxc1	3	2.23	2.79	2.15
+ENSMUSG00000050295	forkhead box C1 [Source:MGI Symbol;Acc:MGI:1347466]	TA0434_FOXC1_DBD_dimer	Foxc1	3	2.23	2.79	2.15
+ENSMUSG00000050295	forkhead box C1 [Source:MGI Symbol;Acc:MGI:1347466]	TA0470_Foxc1_DBD_monomer	Foxc1	3	2.23	2.79	2.15
+ENSMUSG00000050295	forkhead box C1 [Source:MGI Symbol;Acc:MGI:1347466]	TA0435_FOXC1_DBD_monomer	Foxc1	3	2.23	2.79	2.15
+ENSMUSG00000050295	forkhead box C1 [Source:MGI Symbol;Acc:MGI:1347466]	TA0433_FOXC1_DBD_dimer	Foxc1	3	2.23	2.79	2.15
+ENSMUSG00000046714	forkhead box C2 [Source:MGI Symbol;Acc:MGI:1347481]	MA0846.1.FOXC2	Foxc2	10.02	7.44	8.89	6.86
+ENSMUSG00000046714	forkhead box C2 [Source:MGI Symbol;Acc:MGI:1347481]	FOXC2.Me9722.2.YY2017.HT-SE2	Foxc2	10.02	7.44	8.89	6.86
+ENSMUSG00000046714	forkhead box C2 [Source:MGI Symbol;Acc:MGI:1347481]	FOXC2.Me9722.1.YY2017.HT-SE2	Foxc2	10.02	7.44	8.89	6.86
+ENSMUSG00000046714	forkhead box C2 [Source:MGI Symbol;Acc:MGI:1347481]	FOXC2.Ca9722.2.YY2017.HT-SE2	Foxc2	10.02	7.44	8.89	6.86
+ENSMUSG00000046714	forkhead box C2 [Source:MGI Symbol;Acc:MGI:1347481]	TA0436_FOXC2_DBD_dimer	Foxc2	10.02	7.44	8.89	6.86
+ENSMUSG00000046714	forkhead box C2 [Source:MGI Symbol;Acc:MGI:1347481]	FOXC2.Ca9722.1.YY2017.HT-SE2	Foxc2	10.02	7.44	8.89	6.86
+ENSMUSG00000046714	forkhead box C2 [Source:MGI Symbol;Acc:MGI:1347481]	TA0437_FOXC2_DBD_dimer	Foxc2	10.02	7.44	8.89	6.86
+ENSMUSG00000003154	forkhead box J2 [Source:MGI Symbol;Acc:MGI:1926805]	TA0449_FOXJ2_DBD_dimer	Foxj2	4.19	3.11	3.39	2.61
+ENSMUSG00000003154	forkhead box J2 [Source:MGI Symbol;Acc:MGI:1926805]	MA0614.1.Foxj2	Foxj2	4.19	3.11	3.39	2.61
+ENSMUSG00000003154	forkhead box J2 [Source:MGI Symbol;Acc:MGI:1926805]	FOXJ2.Ca9714.1.YY2017.HT-SE2	Foxj2	4.19	3.11	3.39	2.61
+ENSMUSG00000003154	forkhead box J2 [Source:MGI Symbol;Acc:MGI:1926805]	FOXJ2.Me9714.1.YY2017.HT-SE2	Foxj2	4.19	3.11	3.39	2.61
+ENSMUSG00000003154	forkhead box J2 [Source:MGI Symbol;Acc:MGI:1926805]	TA0447_FOXJ2_DBD_dimer	Foxj2	4.19	3.11	3.39	2.61
+ENSMUSG00000003154	forkhead box J2 [Source:MGI Symbol;Acc:MGI:1926805]	FOXJ2_HUMAN.H11MO.0.C	Foxj2	4.19	3.11	3.39	2.61
+ENSMUSG00000032998	forkhead box J3 [Source:MGI Symbol;Acc:MGI:2443432]	TA0475_Foxj3_DBD_dimer	Foxj3	18.19	13.5	13.5	10.4
+ENSMUSG00000032998	forkhead box J3 [Source:MGI Symbol;Acc:MGI:2443432]	TA0450_FOXJ3_DBD_monomer	Foxj3	18.19	13.5	13.5	10.4
+ENSMUSG00000032998	forkhead box J3 [Source:MGI Symbol;Acc:MGI:2443432]	FOXJ3.Me9713.1.YY2017.HT-SE2	Foxj3	18.19	13.5	13.5	10.4
+ENSMUSG00000032998	forkhead box J3 [Source:MGI Symbol;Acc:MGI:2443432]	TA0476_Foxj3_DBD_monomer	Foxj3	18.19	13.5	13.5	10.4
+ENSMUSG00000032998	forkhead box J3 [Source:MGI Symbol;Acc:MGI:2443432]	TA0452_FOXJ3_DBD_dimer	Foxj3	18.19	13.5	13.5	10.4
+ENSMUSG00000032998	forkhead box J3 [Source:MGI Symbol;Acc:MGI:2443432]	TA0474_Foxj3_DBD_multimer	Foxj3	18.19	13.5	13.5	10.4
+ENSMUSG00000032998	forkhead box J3 [Source:MGI Symbol;Acc:MGI:2443432]	FOXJ3_HUMAN.H11MO.0.A	Foxj3	18.19	13.5	13.5	10.4
+ENSMUSG00000032998	forkhead box J3 [Source:MGI Symbol;Acc:MGI:2443432]	TA0477_Foxj3_DBD_dimer	Foxj3	18.19	13.5	13.5	10.4
+ENSMUSG00000032998	forkhead box J3 [Source:MGI Symbol;Acc:MGI:2443432]	TA0451_FOXJ3_DBD_dimer	Foxj3	18.19	13.5	13.5	10.4
+ENSMUSG00000032998	forkhead box J3 [Source:MGI Symbol;Acc:MGI:2443432]	MA0851.1.Foxj3	Foxj3	18.19	13.5	13.5	10.4
+ENSMUSG00000032998	forkhead box J3 [Source:MGI Symbol;Acc:MGI:2443432]	FOXJ3.Ca9713.1.YY2017.HT-SE2	Foxj3	18.19	13.5	13.5	10.4
+ENSMUSG00000039275	forkhead box K2 [Source:MGI Symbol;Acc:MGI:1916087]	MA1103.1.FOXK2	Foxk2	6.09	4.52	5.85	4.51
+ENSMUSG00000001517	forkhead box M1 [Source:MGI Symbol;Acc:MGI:1347487]	FOXM1_HUMAN.H11MO.0.A	Foxm1	18.54	13.75	16.15	12.45
+ENSMUSG00000034998	forkhead box N2 [Source:MGI Symbol;Acc:MGI:1347478]	FOXN2.Ca9730.1.YY2017.HT-SE2	Foxn2	5.22	3.87	5.59	4.31
+ENSMUSG00000034998	forkhead box N2 [Source:MGI Symbol;Acc:MGI:1347478]	FOXN2.Me9730.1.YY2017.HT-SE2	Foxn2	5.22	3.87	5.59	4.31
+ENSMUSG00000044167	forkhead box O1 [Source:MGI Symbol;Acc:MGI:1890077]	MA0480.1.Foxo1	Foxo1	5.51	4.08	4.98	3.84
+ENSMUSG00000044167	forkhead box O1 [Source:MGI Symbol;Acc:MGI:1890077]	TA0458_FOXO1_DBD_multimer	Foxo1	5.51	4.08	4.98	3.84
+ENSMUSG00000044167	forkhead box O1 [Source:MGI Symbol;Acc:MGI:1890077]	TA0456_FOXO1_DBD_monomer	Foxo1	5.51	4.08	4.98	3.84
+ENSMUSG00000044167	forkhead box O1 [Source:MGI Symbol;Acc:MGI:1890077]	TA0457_FOXO1_DBD_dimer	Foxo1	5.51	4.08	4.98	3.84
+ENSMUSG00000044167	forkhead box O1 [Source:MGI Symbol;Acc:MGI:1890077]	FOXO1_HUMAN.H11MO.0.A	Foxo1	5.51	4.08	4.98	3.84
+ENSMUSG00000048756	forkhead box O3 [Source:MGI Symbol;Acc:MGI:1890081]	TA0459_FOXO3_full_dimer	Foxo3	3.66	2.72	5.09	3.92
+ENSMUSG00000048756	forkhead box O3 [Source:MGI Symbol;Acc:MGI:1890081]	MA0157.1.FOXO3	Foxo3	3.66	2.72	5.09	3.92
+ENSMUSG00000048756	forkhead box O3 [Source:MGI Symbol;Acc:MGI:1890081]	TA0461_FOXO3_full_multimer	Foxo3	3.66	2.72	5.09	3.92
+ENSMUSG00000048756	forkhead box O3 [Source:MGI Symbol;Acc:MGI:1890081]	FOXO3.Me9728.1.YY2017.HT-SE2	Foxo3	3.66	2.72	5.09	3.92
+ENSMUSG00000048756	forkhead box O3 [Source:MGI Symbol;Acc:MGI:1890081]	MA0157.2.FOXO3	Foxo3	3.66	2.72	5.09	3.92
+ENSMUSG00000048756	forkhead box O3 [Source:MGI Symbol;Acc:MGI:1890081]	FOXO3.Ca9728.1.YY2017.HT-SE2	Foxo3	3.66	2.72	5.09	3.92
+ENSMUSG00000048756	forkhead box O3 [Source:MGI Symbol;Acc:MGI:1890081]	FOXO3_HUMAN.H11MO.0.B	Foxo3	3.66	2.72	5.09	3.92
+ENSMUSG00000030067	forkhead box P1 [Source:MGI Symbol;Acc:MGI:1914004]	FOXP1.Ca9711.1.YY2017.HT-SE2	Foxp1	69.51	51.57	76.96	59.33
+ENSMUSG00000030067	forkhead box P1 [Source:MGI Symbol;Acc:MGI:1914004]	FOXP1.Me9711.1.YY2017.HT-SE2	Foxp1	69.51	51.57	76.96	59.33
+ENSMUSG00000030067	forkhead box P1 [Source:MGI Symbol;Acc:MGI:1914004]	MA0481.1.FOXP1	Foxp1	69.51	51.57	76.96	59.33
+ENSMUSG00000030067	forkhead box P1 [Source:MGI Symbol;Acc:MGI:1914004]	FOXP1_HUMAN.H11MO.0.A	Foxp1	69.51	51.57	76.96	59.33
+ENSMUSG00000029563	forkhead box P2 [Source:MGI Symbol;Acc:MGI:2148705]	FOXP2_HUMAN.H11MO.0.C	Foxp2	10.33	7.66	10.31	7.95
+ENSMUSG00000029563	forkhead box P2 [Source:MGI Symbol;Acc:MGI:2148705]	MA0593.1.FOXP2	Foxp2	10.33	7.66	10.31	7.95
+ENSMUSG00000029563	forkhead box P2 [Source:MGI Symbol;Acc:MGI:2148705]	SMiLE_FOXP2	Foxp2	10.33	7.66	10.31	7.95
+ENSMUSG00000029563	forkhead box P2 [Source:MGI Symbol;Acc:MGI:2148705]	FOXP2_MOUSE.H11MO.0.A	Foxp2	10.33	7.66	10.31	7.95
+ENSMUSG00000008976	GA repeat binding protein, alpha [Source:MGI Symbol;Acc:MGI:95610]	GABPA.Ca9768.1.YY2017.HT-SE2	Gabpa	29.57	21.94	24.62	18.98
+ENSMUSG00000008976	GA repeat binding protein, alpha [Source:MGI Symbol;Acc:MGI:95610]	BU0020.Gabpa_primary	Gabpa	29.57	21.94	24.62	18.98
+ENSMUSG00000008976	GA repeat binding protein, alpha [Source:MGI Symbol;Acc:MGI:95610]	GABPA_HUMAN.H11MO.0.A	Gabpa	29.57	21.94	24.62	18.98
+ENSMUSG00000008976	GA repeat binding protein, alpha [Source:MGI Symbol;Acc:MGI:95610]	ETS0023.h-GABPA	Gabpa	29.57	21.94	24.62	18.98
+ENSMUSG00000008976	GA repeat binding protein, alpha [Source:MGI Symbol;Acc:MGI:95610]	GABPA.Me9768.1.YY2017.HT-SE2	Gabpa	29.57	21.94	24.62	18.98
+ENSMUSG00000008976	GA repeat binding protein, alpha [Source:MGI Symbol;Acc:MGI:95610]	MA0062.2.Gabpa	Gabpa	29.57	21.94	24.62	18.98
+ENSMUSG00000008976	GA repeat binding protein, alpha [Source:MGI Symbol;Acc:MGI:95610]	TA0146_GABPA_full_monomer	Gabpa	29.57	21.94	24.62	18.98
+ENSMUSG00000008976	GA repeat binding protein, alpha [Source:MGI Symbol;Acc:MGI:95610]	SMiLE_GABPA	Gabpa	29.57	21.94	24.62	18.98
+ENSMUSG00000031162	GATA binding protein 1 [Source:MGI Symbol;Acc:MGI:95661]	GATA1.Me9516.1.YY2017.HT-SE2	Gata1	9.71	7.2	11.61	8.95
+ENSMUSG00000031162	GATA binding protein 1 [Source:MGI Symbol;Acc:MGI:95661]	MA0035.1.Gata1	Gata1	9.71	7.2	11.61	8.95
+ENSMUSG00000031162	GATA binding protein 1 [Source:MGI Symbol;Acc:MGI:95661]	MA0035.2.Gata1	Gata1	9.71	7.2	11.61	8.95
+ENSMUSG00000031162	GATA binding protein 1 [Source:MGI Symbol;Acc:MGI:95661]	AJ_GATA1	Gata1	9.71	7.2	11.61	8.95
+ENSMUSG00000031162	GATA binding protein 1 [Source:MGI Symbol;Acc:MGI:95661]	GATA1_HUMAN.H11MO.0.A	Gata1	9.71	7.2	11.61	8.95
+ENSMUSG00000031162	GATA binding protein 1 [Source:MGI Symbol;Acc:MGI:95661]	GATA1.Ca9516.1.YY2017.HT-SE2	Gata1	9.71	7.2	11.61	8.95
+ENSMUSG00000031162	GATA binding protein 1 [Source:MGI Symbol;Acc:MGI:95661]	MA0035.3.Gata1	Gata1	9.71	7.2	11.61	8.95
+ENSMUSG00000015053	GATA binding protein 2 [Source:MGI Symbol;Acc:MGI:95662]	GATA2_HUMAN.H11MO.0.A	Gata2	10.12	7.51	10.12	7.8
+ENSMUSG00000015053	GATA binding protein 2 [Source:MGI Symbol;Acc:MGI:95662]	GATA2.Me9518.1.YY2017.HT-SE2	Gata2	10.12	7.51	10.12	7.8
+ENSMUSG00000015053	GATA binding protein 2 [Source:MGI Symbol;Acc:MGI:95662]	GATA2.Ca9518.1.YY2017.HT-SE2	Gata2	10.12	7.51	10.12	7.8
+ENSMUSG00000015053	GATA binding protein 2 [Source:MGI Symbol;Acc:MGI:95662]	MA0036.2.GATA2	Gata2	10.12	7.51	10.12	7.8
+ENSMUSG00000015053	GATA binding protein 2 [Source:MGI Symbol;Acc:MGI:95662]	MA0036.1.GATA2	Gata2	10.12	7.51	10.12	7.8
+ENSMUSG00000015053	GATA binding protein 2 [Source:MGI Symbol;Acc:MGI:95662]	MA0036.3.GATA2	Gata2	10.12	7.51	10.12	7.8
+ENSMUSG00000015619	GATA binding protein 3 [Source:MGI Symbol;Acc:MGI:95663]	GATA3.Me9517.2.YY2017.HT-SE2	Gata3	6.87	5.1	6.82	5.26
+ENSMUSG00000015619	GATA binding protein 3 [Source:MGI Symbol;Acc:MGI:95663]	TA0157_GATA3_DBD_monomer	Gata3	6.87	5.1	6.82	5.26
+ENSMUSG00000015619	GATA binding protein 3 [Source:MGI Symbol;Acc:MGI:95663]	MA0037.1.GATA3	Gata3	6.87	5.1	6.82	5.26
+ENSMUSG00000015619	GATA binding protein 3 [Source:MGI Symbol;Acc:MGI:95663]	GATA3.Ca9517.2.YY2017.HT-SE2	Gata3	6.87	5.1	6.82	5.26
+ENSMUSG00000015619	GATA binding protein 3 [Source:MGI Symbol;Acc:MGI:95663]	MA0037.2.GATA3	Gata3	6.87	5.1	6.82	5.26
+ENSMUSG00000015619	GATA binding protein 3 [Source:MGI Symbol;Acc:MGI:95663]	GATA3.Me9517.1.YY2017.HT-SE2	Gata3	6.87	5.1	6.82	5.26
+ENSMUSG00000015619	GATA binding protein 3 [Source:MGI Symbol;Acc:MGI:95663]	MA0037.3.GATA3	Gata3	6.87	5.1	6.82	5.26
+ENSMUSG00000015619	GATA binding protein 3 [Source:MGI Symbol;Acc:MGI:95663]	GATA3_HUMAN.H11MO.0.A	Gata3	6.87	5.1	6.82	5.26
+ENSMUSG00000015619	GATA binding protein 3 [Source:MGI Symbol;Acc:MGI:95663]	SMiLE_GATA3_002	Gata3	6.87	5.1	6.82	5.26
+ENSMUSG00000015619	GATA binding protein 3 [Source:MGI Symbol;Acc:MGI:95663]	GATA3.Ca9517.1.YY2017.HT-SE2	Gata3	6.87	5.1	6.82	5.26
+ENSMUSG00000015619	GATA binding protein 3 [Source:MGI Symbol;Acc:MGI:95663]	BU0021.Gata3_primary	Gata3	6.87	5.1	6.82	5.26
+ENSMUSG00000021944	GATA binding protein 4 [Source:MGI Symbol;Acc:MGI:95664]	GATA4.Me9514.1.YY2017.HT-SE2	Gata4	114.83	85.19	101.66	78.37
+ENSMUSG00000021944	GATA binding protein 4 [Source:MGI Symbol;Acc:MGI:95664]	MA0482.1.Gata4	Gata4	114.83	85.19	101.66	78.37
+ENSMUSG00000021944	GATA binding protein 4 [Source:MGI Symbol;Acc:MGI:95664]	GATA4_HUMAN.H11MO.0.A	Gata4	114.83	85.19	101.66	78.37
+ENSMUSG00000021944	GATA binding protein 4 [Source:MGI Symbol;Acc:MGI:95664]	TA0159_GATA4_DBD_monomer	Gata4	114.83	85.19	101.66	78.37
+ENSMUSG00000021944	GATA binding protein 4 [Source:MGI Symbol;Acc:MGI:95664]	GATA4.Ca9514.1.YY2017.HT-SE2	Gata4	114.83	85.19	101.66	78.37
+ENSMUSG00000015627	GATA binding protein 5 [Source:MGI Symbol;Acc:MGI:109497]	GATA5.Me9515.3.YY2017.HT-SE2	Gata5	18.27	13.55	19.56	15.08
+ENSMUSG00000015627	GATA binding protein 5 [Source:MGI Symbol;Acc:MGI:109497]	GATA5.Ca9515.4.YY2017.HT-SE2	Gata5	18.27	13.55	19.56	15.08
+ENSMUSG00000015627	GATA binding protein 5 [Source:MGI Symbol;Acc:MGI:109497]	GATA5.Ca9515.2.YY2017.HT-SE2	Gata5	18.27	13.55	19.56	15.08
+ENSMUSG00000015627	GATA binding protein 5 [Source:MGI Symbol;Acc:MGI:109497]	GATA5.Ca9515.3.YY2017.HT-SE2	Gata5	18.27	13.55	19.56	15.08
+ENSMUSG00000015627	GATA binding protein 5 [Source:MGI Symbol;Acc:MGI:109497]	MA0766.1.GATA5	Gata5	18.27	13.55	19.56	15.08
+ENSMUSG00000015627	GATA binding protein 5 [Source:MGI Symbol;Acc:MGI:109497]	GATA5.Me9515.1.YY2017.HT-SE2	Gata5	18.27	13.55	19.56	15.08
+ENSMUSG00000015627	GATA binding protein 5 [Source:MGI Symbol;Acc:MGI:109497]	GATA5.Me9515.2.YY2017.HT-SE2	Gata5	18.27	13.55	19.56	15.08
+ENSMUSG00000015627	GATA binding protein 5 [Source:MGI Symbol;Acc:MGI:109497]	BU0022.Gata5_primary	Gata5	18.27	13.55	19.56	15.08
+ENSMUSG00000015627	GATA binding protein 5 [Source:MGI Symbol;Acc:MGI:109497]	GATA5.Ca9515.1.YY2017.HT-SE2	Gata5	18.27	13.55	19.56	15.08
+ENSMUSG00000015627	GATA binding protein 5 [Source:MGI Symbol;Acc:MGI:109497]	GATA5.Me9515.4.YY2017.HT-SE2	Gata5	18.27	13.55	19.56	15.08
+ENSMUSG00000005836	GATA binding protein 6 [Source:MGI Symbol;Acc:MGI:107516]	GATA6_HUMAN.H11MO.0.A	Gata6	39.82	29.54	37.72	29.08
+ENSMUSG00000005836	GATA binding protein 6 [Source:MGI Symbol;Acc:MGI:107516]	GATA6.Ca9513.1.YY2017.HT-SE2	Gata6	39.82	29.54	37.72	29.08
+ENSMUSG00000005836	GATA binding protein 6 [Source:MGI Symbol;Acc:MGI:107516]	GATA6.Me9513.1.YY2017.HT-SE2	Gata6	39.82	29.54	37.72	29.08
+ENSMUSG00000005836	GATA binding protein 6 [Source:MGI Symbol;Acc:MGI:107516]	BU0023.Gata6_primary	Gata6	39.82	29.54	37.72	29.08
+ENSMUSG00000005836	GATA binding protein 6 [Source:MGI Symbol;Acc:MGI:107516]	MA1104.1.GATA6	Gata6	39.82	29.54	37.72	29.08
+ENSMUSG00000021318	GLI-Kruppel family member GLI3 [Source:MGI Symbol;Acc:MGI:95729]	GLI3.Ca9511.1.YY2017.HT-SE2	Gli3	6.47	4.8	7.94	6.12
+ENSMUSG00000021318	GLI-Kruppel family member GLI3 [Source:MGI Symbol;Acc:MGI:95729]	GLI3_HUMAN.H11MO.0.B	Gli3	6.47	4.8	7.94	6.12
+ENSMUSG00000021318	GLI-Kruppel family member GLI3 [Source:MGI Symbol;Acc:MGI:95729]	AJ_GLI3	Gli3	6.47	4.8	7.94	6.12
+ENSMUSG00000021318	GLI-Kruppel family member GLI3 [Source:MGI Symbol;Acc:MGI:95729]	GLI3.Me9511.1.YY2017.HT-SE2	Gli3	6.47	4.8	7.94	6.12
+ENSMUSG00000014303	GLIS family zinc finger 2 [Source:MGI Symbol;Acc:MGI:1932535]	GLIS2.Me9509.1.YY2017.HT-SE2	Glis2	13.73	10.19	16.25	12.52
+ENSMUSG00000014303	GLIS family zinc finger 2 [Source:MGI Symbol;Acc:MGI:1932535]	GLIS2.Ca9509.1.YY2017.HT-SE2	Glis2	13.73	10.19	16.25	12.52
+ENSMUSG00000014303	GLIS family zinc finger 2 [Source:MGI Symbol;Acc:MGI:1932535]	BU0025.Glis2_primary	Glis2	13.73	10.19	16.25	12.52
+ENSMUSG00000014303	GLIS family zinc finger 2 [Source:MGI Symbol;Acc:MGI:1932535]	MA0736.1.GLIS2	Glis2	13.73	10.19	16.25	12.52
+ENSMUSG00000028901	glucocorticoid modulatory element binding protein 1 [Source:MGI Symbol;Acc:MGI:2135604]	MA0615.1.Gmeb1	Gmeb1	20.1	14.91	19.6	15.11
+ENSMUSG00000028901	glucocorticoid modulatory element binding protein 1 [Source:MGI Symbol;Acc:MGI:2135604]	GMEB1.Me9597.1.YY2017.HT-SE2	Gmeb1	20.1	14.91	19.6	15.11
+ENSMUSG00000028901	glucocorticoid modulatory element binding protein 1 [Source:MGI Symbol;Acc:MGI:2135604]	GMEB1.Ca9597.1.YY2017.HT-SE2	Gmeb1	20.1	14.91	19.6	15.11
+ENSMUSG00000037335	heart and neural crest derivatives expressed 1 [Source:MGI Symbol;Acc:MGI:103577]	HAND1_MOUSE.H11MO.0.C	Hand1	41.23	30.58	43.25	33.35
+ENSMUSG00000038193	heart and neural crest derivatives expressed 2 [Source:MGI Symbol;Acc:MGI:103580]	HAND2.Me9824.1.YY2017.HT-SE2	Hand2	12.23	9.07	12.49	9.63
+ENSMUSG00000038193	heart and neural crest derivatives expressed 2 [Source:MGI Symbol;Acc:MGI:103580]	HAND2.Ca9824.1.YY2017.HT-SE2	Hand2	12.23	9.07	12.49	9.63
+ENSMUSG00000022528	hes family bHLH transcription factor 1 [Source:MGI Symbol;Acc:MGI:104853]	HES1.Ca9860.1.YY2017.HT-SE2	Hes1	21.49	15.94	20.29	15.64
+ENSMUSG00000022528	hes family bHLH transcription factor 1 [Source:MGI Symbol;Acc:MGI:104853]	AJ_HES1	Hes1	21.49	15.94	20.29	15.64
+ENSMUSG00000022528	hes family bHLH transcription factor 1 [Source:MGI Symbol;Acc:MGI:104853]	MA1099.1.Hes1	Hes1	21.49	15.94	20.29	15.64
+ENSMUSG00000022528	hes family bHLH transcription factor 1 [Source:MGI Symbol;Acc:MGI:104853]	HES1.Me9860.1.YY2017.HT-SE2	Hes1	21.49	15.94	20.29	15.64
+ENSMUSG00000067071	hairy and enhancer of split 6 [Source:MGI Symbol;Acc:MGI:1859852]	HES6.Ca9858.1.YY2017.HT-SE2	Hes6	39.54	29.33	38.55	29.72
+ENSMUSG00000040289	hairy/enhancer-of-split related with YRPW motif 1 [Source:MGI Symbol;Acc:MGI:1341800]	HEY1.Me9861.1.YY2017.HT-SE2	Hey1	21.31	15.81	20.44	15.76
+ENSMUSG00000040289	hairy/enhancer-of-split related with YRPW motif 1 [Source:MGI Symbol;Acc:MGI:1341800]	HEY1.Ca9861.1.YY2017.HT-SE2	Hey1	21.31	15.81	20.44	15.76
+ENSMUSG00000040289	hairy/enhancer-of-split related with YRPW motif 1 [Source:MGI Symbol;Acc:MGI:1341800]	HEY1.Me9861.2.YY2017.HT-SE2	Hey1	21.31	15.81	20.44	15.76
+ENSMUSG00000040289	hairy/enhancer-of-split related with YRPW motif 1 [Source:MGI Symbol;Acc:MGI:1341800]	HEY1.Ca9861.2.YY2017.HT-SE2	Hey1	21.31	15.81	20.44	15.76
+ENSMUSG00000040289	hairy/enhancer-of-split related with YRPW motif 1 [Source:MGI Symbol;Acc:MGI:1341800]	MA0823.1.HEY1	Hey1	21.31	15.81	20.44	15.76
+ENSMUSG00000019789	hairy/enhancer-of-split related with YRPW motif 2 [Source:MGI Symbol;Acc:MGI:1341884]	TA0352_HEY2_DBD_dimer	Hey2	16.48	12.22	20.9	16.11
+ENSMUSG00000019789	hairy/enhancer-of-split related with YRPW motif 2 [Source:MGI Symbol;Acc:MGI:1341884]	HEY2.Me9862.1.YY2017.HT-SE2	Hey2	16.48	12.22	20.9	16.11
+ENSMUSG00000019789	hairy/enhancer-of-split related with YRPW motif 2 [Source:MGI Symbol;Acc:MGI:1341884]	HEY2.Me9862.2.YY2017.HT-SE2	Hey2	16.48	12.22	20.9	16.11
+ENSMUSG00000019789	hairy/enhancer-of-split related with YRPW motif 2 [Source:MGI Symbol;Acc:MGI:1341884]	HEY2.Ca9862.2.YY2017.HT-SE2	Hey2	16.48	12.22	20.9	16.11
+ENSMUSG00000019789	hairy/enhancer-of-split related with YRPW motif 2 [Source:MGI Symbol;Acc:MGI:1341884]	HEY2.Ca9862.1.YY2017.HT-SE2	Hey2	16.48	12.22	20.9	16.11
+ENSMUSG00000019789	hairy/enhancer-of-split related with YRPW motif 2 [Source:MGI Symbol;Acc:MGI:1341884]	MA0649.1.HEY2	Hey2	16.48	12.22	20.9	16.11
+ENSMUSG00000021109	hypoxia inducible factor 1, alpha subunit [Source:MGI Symbol;Acc:MGI:106918]	MA1106.1.HIF1A	Hif1a	146.22	108.47	127.19	98.05
+ENSMUSG00000021109	hypoxia inducible factor 1, alpha subunit [Source:MGI Symbol;Acc:MGI:106918]	HIF1A_HUMAN.H11MO.0.C	Hif1a	146.22	108.47	127.19	98.05
+ENSMUSG00000032119	histone H4 transcription factor [Source:MGI Symbol;Acc:MGI:2429620]	TA0046_HINFP1_full_monomer	Hinfp	11.32	8.4	10.67	8.22
+ENSMUSG00000032119	histone H4 transcription factor [Source:MGI Symbol;Acc:MGI:2429620]	MA0131.2.HINFP	Hinfp	11.32	8.4	10.67	8.22
+ENSMUSG00000032119	histone H4 transcription factor [Source:MGI Symbol;Acc:MGI:2429620]	MA0131.1.HINFP	Hinfp	11.32	8.4	10.67	8.22
+ENSMUSG00000032119	histone H4 transcription factor [Source:MGI Symbol;Acc:MGI:2429620]	TA0048_HINFP1_full_dimer	Hinfp	11.32	8.4	10.67	8.22
+ENSMUSG00000032119	histone H4 transcription factor [Source:MGI Symbol;Acc:MGI:2429620]	TA0047_HINFP1_full_dimer	Hinfp	11.32	8.4	10.67	8.22
+ENSMUSG00000032119	histone H4 transcription factor [Source:MGI Symbol;Acc:MGI:2429620]	HINFP_HUMAN.H11MO.0.C	Hinfp	11.32	8.4	10.67	8.22
+ENSMUSG00000039377	H2.0-like homeobox [Source:MGI Symbol;Acc:MGI:96109]	HOMEO0040_Hlx1_2350.1	Hlx	3.53	2.62	4.87	3.76
+ENSMUSG00000057156	homeodomain leucine zipper-encoding gene [Source:MGI Symbol;Acc:MGI:2678023]	HOMEO0046_Homez_1063.2	Homez	4.64	3.44	4.69	3.61
+ENSMUSG00000057156	homeodomain leucine zipper-encoding gene [Source:MGI Symbol;Acc:MGI:2678023]	TA0169_HOMEZ_DBD_monomer	Homez	4.64	3.44	4.69	3.61
+ENSMUSG00000075588	homeobox B2 [Source:MGI Symbol;Acc:MGI:96183]	HOXB2.Me9951.2.YY2017.HT-SE2	Hoxb2	3.21	2.38	5.14	3.96
+ENSMUSG00000075588	homeobox B2 [Source:MGI Symbol;Acc:MGI:96183]	HOXB2.Me9951.1.YY2017.HT-SE2	Hoxb2	3.21	2.38	5.14	3.96
+ENSMUSG00000075588	homeobox B2 [Source:MGI Symbol;Acc:MGI:96183]	MA0902.1.HOXB2	Hoxb2	3.21	2.38	5.14	3.96
+ENSMUSG00000075588	homeobox B2 [Source:MGI Symbol;Acc:MGI:96183]	HOXB2.Ca9951.1.YY2017.HT-SE2	Hoxb2	3.21	2.38	5.14	3.96
+ENSMUSG00000022556	heat shock factor 1 [Source:MGI Symbol;Acc:MGI:96238]	HSF1.Me9689.1.YY2017.HT-SE2	Hsf1	42.54	31.56	43.76	33.74
+ENSMUSG00000022556	heat shock factor 1 [Source:MGI Symbol;Acc:MGI:96238]	HSF1.Ca9690.1.YY2017.HT-SE2	Hsf1	42.54	31.56	43.76	33.74
+ENSMUSG00000022556	heat shock factor 1 [Source:MGI Symbol;Acc:MGI:96238]	TA0170_HSF1_DBD_trimer	Hsf1	42.54	31.56	43.76	33.74
+ENSMUSG00000022556	heat shock factor 1 [Source:MGI Symbol;Acc:MGI:96238]	HSF1.Me9690.1.YY2017.HT-SE2	Hsf1	42.54	31.56	43.76	33.74
+ENSMUSG00000022556	heat shock factor 1 [Source:MGI Symbol;Acc:MGI:96238]	HSF1.Ca9689.1.YY2017.HT-SE2	Hsf1	42.54	31.56	43.76	33.74
+ENSMUSG00000022556	heat shock factor 1 [Source:MGI Symbol;Acc:MGI:96238]	HSF1_HUMAN.H11MO.0.A	Hsf1	42.54	31.56	43.76	33.74
+ENSMUSG00000022556	heat shock factor 1 [Source:MGI Symbol;Acc:MGI:96238]	MA0486.1.HSF1	Hsf1	42.54	31.56	43.76	33.74
+ENSMUSG00000022556	heat shock factor 1 [Source:MGI Symbol;Acc:MGI:96238]	MA0486.2.HSF1	Hsf1	42.54	31.56	43.76	33.74
+ENSMUSG00000019878	heat shock factor 2 [Source:MGI Symbol;Acc:MGI:96239]	MA0770.1.HSF2	Hsf2	19.53	14.49	19.24	14.83
+ENSMUSG00000019878	heat shock factor 2 [Source:MGI Symbol;Acc:MGI:96239]	HSF2.Me9687.1.YY2017.HT-SE2	Hsf2	19.53	14.49	19.24	14.83
+ENSMUSG00000019878	heat shock factor 2 [Source:MGI Symbol;Acc:MGI:96239]	HSF2.Me9687.2.YY2017.HT-SE2	Hsf2	19.53	14.49	19.24	14.83
+ENSMUSG00000019878	heat shock factor 2 [Source:MGI Symbol;Acc:MGI:96239]	HSF2_HUMAN.H11MO.0.A	Hsf2	19.53	14.49	19.24	14.83
+ENSMUSG00000019878	heat shock factor 2 [Source:MGI Symbol;Acc:MGI:96239]	HSF2.Ca9687.1.YY2017.HT-SE2	Hsf2	19.53	14.49	19.24	14.83
+ENSMUSG00000019878	heat shock factor 2 [Source:MGI Symbol;Acc:MGI:96239]	HSF2.Ca9687.2.YY2017.HT-SE2	Hsf2	19.53	14.49	19.24	14.83
+ENSMUSG00000018654	IKAROS family zinc finger 1 [Source:MGI Symbol;Acc:MGI:1342540]	IKZF1_HUMAN.H11MO.0.C	Ikzf1	4.96	3.68	5.31	4.09
+ENSMUSG00000018899	interferon regulatory factor 1 [Source:MGI Symbol;Acc:MGI:96590]	MA0050.1.IRF1	Irf1	6.01	4.46	6.16	4.75
+ENSMUSG00000018899	interferon regulatory factor 1 [Source:MGI Symbol;Acc:MGI:96590]	IRF1_HUMAN.H11MO.0.A	Irf1	6.01	4.46	6.16	4.75
+ENSMUSG00000018899	interferon regulatory factor 1 [Source:MGI Symbol;Acc:MGI:96590]	MA0050.2.IRF1	Irf1	6.01	4.46	6.16	4.75
+ENSMUSG00000031627	interferon regulatory factor 2 [Source:MGI Symbol;Acc:MGI:96591]	IRF2.Ca9686.1.YY2017.HT-SE2	Irf2	8.22	6.1	11.49	8.85
+ENSMUSG00000031627	interferon regulatory factor 2 [Source:MGI Symbol;Acc:MGI:96591]	AJ_IRF2	Irf2	8.22	6.1	11.49	8.85
+ENSMUSG00000031627	interferon regulatory factor 2 [Source:MGI Symbol;Acc:MGI:96591]	MA0051.1.IRF2	Irf2	8.22	6.1	11.49	8.85
+ENSMUSG00000031627	interferon regulatory factor 2 [Source:MGI Symbol;Acc:MGI:96591]	IRF2_HUMAN.H11MO.0.A	Irf2	8.22	6.1	11.49	8.85
+ENSMUSG00000031627	interferon regulatory factor 2 [Source:MGI Symbol;Acc:MGI:96591]	IRF2.Me9686.1.YY2017.HT-SE2	Irf2	8.22	6.1	11.49	8.85
+ENSMUSG00000003184	interferon regulatory factor 3 [Source:MGI Symbol;Acc:MGI:1859179]	IRF3.Me9683.1.YY2017.HT-SE2	Irf3	40.66	30.16	42.89	33.07
+ENSMUSG00000003184	interferon regulatory factor 3 [Source:MGI Symbol;Acc:MGI:1859179]	IRF3.Ca9683.2.YY2017.HT-SE2	Irf3	40.66	30.16	42.89	33.07
+ENSMUSG00000003184	interferon regulatory factor 3 [Source:MGI Symbol;Acc:MGI:1859179]	IRF3_HUMAN.H11MO.0.B	Irf3	40.66	30.16	42.89	33.07
+ENSMUSG00000003184	interferon regulatory factor 3 [Source:MGI Symbol;Acc:MGI:1859179]	MA1418.1.IRF3	Irf3	40.66	30.16	42.89	33.07
+ENSMUSG00000003184	interferon regulatory factor 3 [Source:MGI Symbol;Acc:MGI:1859179]	BU0033.Irf3_primary	Irf3	40.66	30.16	42.89	33.07
+ENSMUSG00000003184	interferon regulatory factor 3 [Source:MGI Symbol;Acc:MGI:1859179]	IRF3.Ca9683.1.YY2017.HT-SE2	Irf3	40.66	30.16	42.89	33.07
+ENSMUSG00000003184	interferon regulatory factor 3 [Source:MGI Symbol;Acc:MGI:1859179]	IRF3.Me9683.2.YY2017.HT-SE2	Irf3	40.66	30.16	42.89	33.07
+ENSMUSG00000029771	interferon regulatory factor 5 [Source:MGI Symbol;Acc:MGI:1350924]	BU0035.Irf5_primary	Irf5	10.53	7.81	8.1	6.25
+ENSMUSG00000029771	interferon regulatory factor 5 [Source:MGI Symbol;Acc:MGI:1350924]	IRF5.Me9684.2.YY2017.HT-SE2	Irf5	10.53	7.81	8.1	6.25
+ENSMUSG00000029771	interferon regulatory factor 5 [Source:MGI Symbol;Acc:MGI:1350924]	IRF5.Ca9684.1.YY2017.HT-SE2	Irf5	10.53	7.81	8.1	6.25
+ENSMUSG00000029771	interferon regulatory factor 5 [Source:MGI Symbol;Acc:MGI:1350924]	IRF5.Ca9684.2.YY2017.HT-SE2	Irf5	10.53	7.81	8.1	6.25
+ENSMUSG00000029771	interferon regulatory factor 5 [Source:MGI Symbol;Acc:MGI:1350924]	TA0180_IRF5_full_monomer	Irf5	10.53	7.81	8.1	6.25
+ENSMUSG00000029771	interferon regulatory factor 5 [Source:MGI Symbol;Acc:MGI:1350924]	MA1420.1.IRF5	Irf5	10.53	7.81	8.1	6.25
+ENSMUSG00000029771	interferon regulatory factor 5 [Source:MGI Symbol;Acc:MGI:1350924]	IRF5.Me9684.1.YY2017.HT-SE2	Irf5	10.53	7.81	8.1	6.25
+ENSMUSG00000002325	interferon regulatory factor 9 [Source:MGI Symbol;Acc:MGI:107587]	MA0653.1.IRF9	Irf9	5.3	3.93	4.48	3.45
+ENSMUSG00000002325	interferon regulatory factor 9 [Source:MGI Symbol;Acc:MGI:107587]	IRF9.Me9681.1.YY2017.HT-SE2	Irf9	5.3	3.93	4.48	3.45
+ENSMUSG00000002325	interferon regulatory factor 9 [Source:MGI Symbol;Acc:MGI:107587]	BU0037.Isgf3g_primary	Irf9	5.3	3.93	4.48	3.45
+ENSMUSG00000002325	interferon regulatory factor 9 [Source:MGI Symbol;Acc:MGI:107587]	IRF9.Ca9681.1.YY2017.HT-SE2	Irf9	5.3	3.93	4.48	3.45
+ENSMUSG00000001504	Iroquois homeobox 2 [Source:MGI Symbol;Acc:MGI:1197526]	TA0593_IRX2_DBD_dimer	Irx2	7.82	5.8	9.28	7.15
+ENSMUSG00000001504	Iroquois homeobox 2 [Source:MGI Symbol;Acc:MGI:1197526]	HOMEO0084_Irx2_0900.3	Irx2	7.82	5.8	9.28	7.15
+ENSMUSG00000031734	Iroquois related homeobox 3 [Source:MGI Symbol;Acc:MGI:1197522]	IRX3.Me9875.1.YY2017.HT-SE2	Irx3	6.1	4.52	5.51	4.25
+ENSMUSG00000031734	Iroquois related homeobox 3 [Source:MGI Symbol;Acc:MGI:1197522]	TA0599_Irx3_DBD_dimer	Irx3	6.1	4.52	5.51	4.25
+ENSMUSG00000031734	Iroquois related homeobox 3 [Source:MGI Symbol;Acc:MGI:1197522]	IRX3.Ca9875.1.YY2017.HT-SE2	Irx3	6.1	4.52	5.51	4.25
+ENSMUSG00000031734	Iroquois related homeobox 3 [Source:MGI Symbol;Acc:MGI:1197522]	HOMEO0085_Irx3_0920.1	Irx3	6.1	4.52	5.51	4.25
+ENSMUSG00000031734	Iroquois related homeobox 3 [Source:MGI Symbol;Acc:MGI:1197522]	HOMEO0086_Irx3_2226.1	Irx3	6.1	4.52	5.51	4.25
+ENSMUSG00000021604	Iroquois homeobox 4 [Source:MGI Symbol;Acc:MGI:1355275]	HOMEO0087_Irx4_2242.3	Irx4	32.62	24.2	27.41	21.13
+ENSMUSG00000031737	Iroquois homeobox 5 [Source:MGI Symbol;Acc:MGI:1859086]	HOMEO0088_Irx5_2385.1	Irx5	7.93	5.88	7.85	6.05
+ENSMUSG00000031737	Iroquois homeobox 5 [Source:MGI Symbol;Acc:MGI:1859086]	IRX5.Ca9874.1.YY2017.HT-SE2	Irx5	7.93	5.88	7.85	6.05
+ENSMUSG00000031737	Iroquois homeobox 5 [Source:MGI Symbol;Acc:MGI:1859086]	IRX5.Me9874.1.YY2017.HT-SE2	Irx5	7.93	5.88	7.85	6.05
+ENSMUSG00000031737	Iroquois homeobox 5 [Source:MGI Symbol;Acc:MGI:1859086]	TA0594_IRX5_DBD_dimer	Irx5	7.93	5.88	7.85	6.05
+ENSMUSG00000031738	Iroquois homeobox 6 [Source:MGI Symbol;Acc:MGI:1927642]	HOMEO0089_Irx6_2623.2	Irx6	3.06	2.27	2.67	2.06
+ENSMUSG00000042258	ISL1 transcription factor, LIM/homeodomain [Source:MGI Symbol;Acc:MGI:101791]	ISL1_HUMAN.H11MO.0.A	Isl1	5.93	4.4	9.71	7.49
+ENSMUSG00000042258	ISL1 transcription factor, LIM/homeodomain [Source:MGI Symbol;Acc:MGI:101791]	ISL1.Me9879.1.YY2017.HT-SE2	Isl1	5.93	4.4	9.71	7.49
+ENSMUSG00000042258	ISL1 transcription factor, LIM/homeodomain [Source:MGI Symbol;Acc:MGI:101791]	ISL1.Me9879.2.YY2017.HT-SE2	Isl1	5.93	4.4	9.71	7.49
+ENSMUSG00000042258	ISL1 transcription factor, LIM/homeodomain [Source:MGI Symbol;Acc:MGI:101791]	ISL1.Ca9879.2.YY2017.HT-SE2	Isl1	5.93	4.4	9.71	7.49
+ENSMUSG00000042258	ISL1 transcription factor, LIM/homeodomain [Source:MGI Symbol;Acc:MGI:101791]	ISL1.Ca9879.1.YY2017.HT-SE2	Isl1	5.93	4.4	9.71	7.49
+ENSMUSG00000052684	jun proto-oncogene [Source:MGI Symbol;Acc:MGI:96646]	JUN.Me9803.2.YY2017.HT-SE2	Jun	23.87	17.71	24.12	18.6
+ENSMUSG00000052684	jun proto-oncogene [Source:MGI Symbol;Acc:MGI:96646]	JUN.Ca9803.2.YY2017.HT-SE2	Jun	23.87	17.71	24.12	18.6
+ENSMUSG00000052684	jun proto-oncogene [Source:MGI Symbol;Acc:MGI:96646]	MA0489.1.JUN.var.2	Jun	23.87	17.71	24.12	18.6
+ENSMUSG00000052684	jun proto-oncogene [Source:MGI Symbol;Acc:MGI:96646]	MA0488.1.JUN	Jun	23.87	17.71	24.12	18.6
+ENSMUSG00000052684	jun proto-oncogene [Source:MGI Symbol;Acc:MGI:96646]	SMiLE_JUN_primary	Jun	23.87	17.71	24.12	18.6
+ENSMUSG00000052684	jun proto-oncogene [Source:MGI Symbol;Acc:MGI:96646]	JUN_HUMAN.H11MO.0.A	Jun	23.87	17.71	24.12	18.6
+ENSMUSG00000052684	jun proto-oncogene [Source:MGI Symbol;Acc:MGI:96646]	AJ_JUN	Jun	23.87	17.71	24.12	18.6
+ENSMUSG00000052684	jun proto-oncogene [Source:MGI Symbol;Acc:MGI:96646]	SMiLE_JUN_secondary	Jun	23.87	17.71	24.12	18.6
+ENSMUSG00000052684	jun proto-oncogene [Source:MGI Symbol;Acc:MGI:96646]	JUN.Me9803.1.YY2017.HT-SE2	Jun	23.87	17.71	24.12	18.6
+ENSMUSG00000052684	jun proto-oncogene [Source:MGI Symbol;Acc:MGI:96646]	JUN.Ca9803.1.YY2017.HT-SE2	Jun	23.87	17.71	24.12	18.6
+ENSMUSG00000052837	jun B proto-oncogene [Source:MGI Symbol;Acc:MGI:96647]	SMiLE_JUNB_primary	Junb	6.58	4.88	5.29	4.08
+ENSMUSG00000052837	jun B proto-oncogene [Source:MGI Symbol;Acc:MGI:96647]	MA1140.1.JUNB(var.2)	Junb	6.58	4.88	5.29	4.08
+ENSMUSG00000052837	jun B proto-oncogene [Source:MGI Symbol;Acc:MGI:96647]	JUNB_HUMAN.H11MO.0.A	Junb	6.58	4.88	5.29	4.08
+ENSMUSG00000052837	jun B proto-oncogene [Source:MGI Symbol;Acc:MGI:96647]	JUNB.Ca9801.1.YY2017.HT-SE2	Junb	6.58	4.88	5.29	4.08
+ENSMUSG00000052837	jun B proto-oncogene [Source:MGI Symbol;Acc:MGI:96647]	MA0490.1.JUNB	Junb	6.58	4.88	5.29	4.08
+ENSMUSG00000052837	jun B proto-oncogene [Source:MGI Symbol;Acc:MGI:96647]	JUNB.Me9801.1.YY2017.HT-SE2	Junb	6.58	4.88	5.29	4.08
+ENSMUSG00000071076	jun D proto-oncogene [Source:MGI Symbol;Acc:MGI:96648]	MA0491.1.JUND	Jund	69.43	51.51	71.46	55.09
+ENSMUSG00000071076	jun D proto-oncogene [Source:MGI Symbol;Acc:MGI:96648]	MA0492.1.JUND.var.2	Jund	69.43	51.51	71.46	55.09
+ENSMUSG00000071076	jun D proto-oncogene [Source:MGI Symbol;Acc:MGI:96648]	JUND.Me9802.2.YY2017.HT-SE2	Jund	69.43	51.51	71.46	55.09
+ENSMUSG00000071076	jun D proto-oncogene [Source:MGI Symbol;Acc:MGI:96648]	JUND.Ca9802.1.YY2017.HT-SE2	Jund	69.43	51.51	71.46	55.09
+ENSMUSG00000071076	jun D proto-oncogene [Source:MGI Symbol;Acc:MGI:96648]	JUND_HUMAN.H11MO.0.A	Jund	69.43	51.51	71.46	55.09
+ENSMUSG00000071076	jun D proto-oncogene [Source:MGI Symbol;Acc:MGI:96648]	JUND.Ca9802.2.YY2017.HT-SE2	Jund	69.43	51.51	71.46	55.09
+ENSMUSG00000071076	jun D proto-oncogene [Source:MGI Symbol;Acc:MGI:96648]	SMiLE_JUND_secondary	Jund	69.43	51.51	71.46	55.09
+ENSMUSG00000071076	jun D proto-oncogene [Source:MGI Symbol;Acc:MGI:96648]	SMiLE_JUND_primary	Jund	69.43	51.51	71.46	55.09
+ENSMUSG00000071076	jun D proto-oncogene [Source:MGI Symbol;Acc:MGI:96648]	JUND.Me9802.1.YY2017.HT-SE2	Jund	69.43	51.51	71.46	55.09
+ENSMUSG00000020653	Kruppel-like factor 11 [Source:MGI Symbol;Acc:MGI:2653368]	KLF11.Ca9523.1.YY2017.HT-SE2	Klf11	10.89	8.08	8.5	6.56
+ENSMUSG00000020653	Kruppel-like factor 11 [Source:MGI Symbol;Acc:MGI:2653368]	KLF11.Me9523.1.YY2017.HT-SE2	Klf11	10.89	8.08	8.5	6.56
+ENSMUSG00000072294	Kruppel-like factor 12 [Source:MGI Symbol;Acc:MGI:1333796]	MA0742.1.Klf12	Klf12	4.09	3.04	5.1	3.93
+ENSMUSG00000072294	Kruppel-like factor 12 [Source:MGI Symbol;Acc:MGI:1333796]	KLF12.Me9527.2.YY2017.HT-SE2	Klf12	4.09	3.04	5.1	3.93
+ENSMUSG00000072294	Kruppel-like factor 12 [Source:MGI Symbol;Acc:MGI:1333796]	KLF12.Me9527.1.YY2017.HT-SE2	Klf12	4.09	3.04	5.1	3.93
+ENSMUSG00000072294	Kruppel-like factor 12 [Source:MGI Symbol;Acc:MGI:1333796]	KLF12_HUMAN.H11MO.0.C	Klf12	4.09	3.04	5.1	3.93
+ENSMUSG00000072294	Kruppel-like factor 12 [Source:MGI Symbol;Acc:MGI:1333796]	KLF12.Ca9527.1.YY2017.HT-SE2	Klf12	4.09	3.04	5.1	3.93
+ENSMUSG00000052040	Kruppel-like factor 13 [Source:MGI Symbol;Acc:MGI:1354948]	MA0657.1.KLF13	Klf13	11.59	8.59	13.12	10.12
+ENSMUSG00000052040	Kruppel-like factor 13 [Source:MGI Symbol;Acc:MGI:1354948]	KLF13.Ca9522.2.YY2017.HT-SE2	Klf13	11.59	8.59	13.12	10.12
+ENSMUSG00000052040	Kruppel-like factor 13 [Source:MGI Symbol;Acc:MGI:1354948]	KLF13.Me9522.2.YY2017.HT-SE2	Klf13	11.59	8.59	13.12	10.12
+ENSMUSG00000052040	Kruppel-like factor 13 [Source:MGI Symbol;Acc:MGI:1354948]	KLF13.Me9522.1.YY2017.HT-SE2	Klf13	11.59	8.59	13.12	10.12
+ENSMUSG00000052040	Kruppel-like factor 13 [Source:MGI Symbol;Acc:MGI:1354948]	KLF13.Ca9522.1.YY2017.HT-SE2	Klf13	11.59	8.59	13.12	10.12
+ENSMUSG00000030087	Kruppel-like factor 15 [Source:MGI Symbol;Acc:MGI:1929988]	KLF15_HUMAN.H11MO.0.A	Klf15	4.28	3.18	4.36	3.36
+ENSMUSG00000030087	Kruppel-like factor 15 [Source:MGI Symbol;Acc:MGI:1929988]	KLF15.Ca9531.1.YY2017.HT-SE2	Klf15	4.28	3.18	4.36	3.36
+ENSMUSG00000030087	Kruppel-like factor 15 [Source:MGI Symbol;Acc:MGI:1929988]	KLF15.Ca9531.2.YY2017.HT-SE2	Klf15	4.28	3.18	4.36	3.36
+ENSMUSG00000030087	Kruppel-like factor 15 [Source:MGI Symbol;Acc:MGI:1929988]	KLF15.Me9531.1.YY2017.HT-SE2	Klf15	4.28	3.18	4.36	3.36
+ENSMUSG00000030087	Kruppel-like factor 15 [Source:MGI Symbol;Acc:MGI:1929988]	KLF15.Me9531.2.YY2017.HT-SE2	Klf15	4.28	3.18	4.36	3.36
+ENSMUSG00000035397	Kruppel-like factor 16 [Source:MGI Symbol;Acc:MGI:2153049]	MA0741.1.KLF16	Klf16	3.5	2.6	3.86	2.98
+ENSMUSG00000035397	Kruppel-like factor 16 [Source:MGI Symbol;Acc:MGI:2153049]	KLF16.Me9520.1.YY2017.HT-SE2	Klf16	3.5	2.6	3.86	2.98
+ENSMUSG00000035397	Kruppel-like factor 16 [Source:MGI Symbol;Acc:MGI:2153049]	KLF16.Ca9520.1.YY2017.HT-SE2	Klf16	3.5	2.6	3.86	2.98
+ENSMUSG00000055148	Kruppel-like factor 2 (lung) [Source:MGI Symbol;Acc:MGI:1342772]	KLF2.Ca9526.1.YY2017.HT-SE2	Klf2	12.6	9.35	11.65	8.98
+ENSMUSG00000055148	Kruppel-like factor 2 (lung) [Source:MGI Symbol;Acc:MGI:1342772]	KLF2.Me9526.1.YY2017.HT-SE2	Klf2	12.6	9.35	11.65	8.98
+ENSMUSG00000000078	Kruppel-like factor 6 [Source:MGI Symbol;Acc:MGI:1346318]	KLF6.Me9528.1.YY2017.HT-SE2	Klf6	44.33	32.89	37.96	29.27
+ENSMUSG00000000078	Kruppel-like factor 6 [Source:MGI Symbol;Acc:MGI:1346318]	KLF6_HUMAN.H11MO.0.A	Klf6	44.33	32.89	37.96	29.27
+ENSMUSG00000000078	Kruppel-like factor 6 [Source:MGI Symbol;Acc:MGI:1346318]	KLF6.Ca9528.1.YY2017.HT-SE2	Klf6	44.33	32.89	37.96	29.27
+ENSMUSG00000025959	Kruppel-like factor 7 (ubiquitous) [Source:MGI Symbol;Acc:MGI:1935151]	BU0039.Klf7_primary	Klf7	10.27	7.62	11.28	8.7
+ENSMUSG00000027985	lymphoid enhancer binding factor 1 [Source:MGI Symbol;Acc:MGI:96770]	LEF1_HUMAN.H11MO.0.A	Lef1	14.8	10.98	13.66	10.53
+ENSMUSG00000027985	lymphoid enhancer binding factor 1 [Source:MGI Symbol;Acc:MGI:96770]	LEF1.Ca9705.1.YY2017.HT-SE2	Lef1	14.8	10.98	13.66	10.53
+ENSMUSG00000027985	lymphoid enhancer binding factor 1 [Source:MGI Symbol;Acc:MGI:96770]	BU0040.Lef1_primary	Lef1	14.8	10.98	13.66	10.53
+ENSMUSG00000027985	lymphoid enhancer binding factor 1 [Source:MGI Symbol;Acc:MGI:96770]	MA0768.1.LEF1	Lef1	14.8	10.98	13.66	10.53
+ENSMUSG00000027985	lymphoid enhancer binding factor 1 [Source:MGI Symbol;Acc:MGI:96770]	LEF1.Me9705.4.YY2017.HT-SE2	Lef1	14.8	10.98	13.66	10.53
+ENSMUSG00000027985	lymphoid enhancer binding factor 1 [Source:MGI Symbol;Acc:MGI:96770]	LEF1.Me9705.2.YY2017.HT-SE2	Lef1	14.8	10.98	13.66	10.53
+ENSMUSG00000027985	lymphoid enhancer binding factor 1 [Source:MGI Symbol;Acc:MGI:96770]	LEF1.Ca9705.4.YY2017.HT-SE2	Lef1	14.8	10.98	13.66	10.53
+ENSMUSG00000027985	lymphoid enhancer binding factor 1 [Source:MGI Symbol;Acc:MGI:96770]	SMiLE_LEF1	Lef1	14.8	10.98	13.66	10.53
+ENSMUSG00000027985	lymphoid enhancer binding factor 1 [Source:MGI Symbol;Acc:MGI:96770]	LEF1.Me9705.1.YY2017.HT-SE2	Lef1	14.8	10.98	13.66	10.53
+ENSMUSG00000027985	lymphoid enhancer binding factor 1 [Source:MGI Symbol;Acc:MGI:96770]	LEF1.Ca9705.3.YY2017.HT-SE2	Lef1	14.8	10.98	13.66	10.53
+ENSMUSG00000027985	lymphoid enhancer binding factor 1 [Source:MGI Symbol;Acc:MGI:96770]	LEF1.Me9705.3.YY2017.HT-SE2	Lef1	14.8	10.98	13.66	10.53
+ENSMUSG00000027985	lymphoid enhancer binding factor 1 [Source:MGI Symbol;Acc:MGI:96770]	LEF1.Ca9705.2.YY2017.HT-SE2	Lef1	14.8	10.98	13.66	10.53
+ENSMUSG00000026686	LIM homeobox transcription factor 1 alpha [Source:MGI Symbol;Acc:MGI:1888519]	MA0702.1.LMX1A	Lmx1a	4.31	3.19	2.98	2.3
+ENSMUSG00000026686	LIM homeobox transcription factor 1 alpha [Source:MGI Symbol;Acc:MGI:1888519]	LMX1A.Ca9883.1.YY2017.HT-SE2	Lmx1a	4.31	3.19	2.98	2.3
+ENSMUSG00000026686	LIM homeobox transcription factor 1 alpha [Source:MGI Symbol;Acc:MGI:1888519]	LMX1A.Me9883.2.YY2017.HT-SE2	Lmx1a	4.31	3.19	2.98	2.3
+ENSMUSG00000026686	LIM homeobox transcription factor 1 alpha [Source:MGI Symbol;Acc:MGI:1888519]	HOMEO0102_Lmx1a_2238.2	Lmx1a	4.31	3.19	2.98	2.3
+ENSMUSG00000026686	LIM homeobox transcription factor 1 alpha [Source:MGI Symbol;Acc:MGI:1888519]	LMX1A.Me9883.1.YY2017.HT-SE2	Lmx1a	4.31	3.19	2.98	2.3
+ENSMUSG00000074622	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein B (avian) [Source:MGI Symbol;Acc:MGI:104555]	MAFB_HUMAN.H11MO.0.B	Mafb	3.86	2.86	3.71	2.86
+ENSMUSG00000074622	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein B (avian) [Source:MGI Symbol;Acc:MGI:104555]	BU0041.Mafb_primary	Mafb	3.86	2.86	3.71	2.86
+ENSMUSG00000074622	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein B (avian) [Source:MGI Symbol;Acc:MGI:104555]	TA0421_Mafb_DBD_dimer	Mafb	3.86	2.86	3.71	2.86
+ENSMUSG00000074622	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein B (avian) [Source:MGI Symbol;Acc:MGI:104555]	MA0117.1.Mafb	Mafb	3.86	2.86	3.71	2.86
+ENSMUSG00000074622	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein B (avian) [Source:MGI Symbol;Acc:MGI:104555]	MA0117.2.Mafb	Mafb	3.86	2.86	3.71	2.86
+ENSMUSG00000074622	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein B (avian) [Source:MGI Symbol;Acc:MGI:104555]	TA0420_Mafb_DBD_dimer	Mafb	3.86	2.86	3.71	2.86
+ENSMUSG00000051510	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian) [Source:MGI Symbol;Acc:MGI:96911]	MA0659.1.MAFG	Mafg	13.77	10.22	14.13	10.89
+ENSMUSG00000051510	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian) [Source:MGI Symbol;Acc:MGI:96911]	MAFG.Ca9780.2.YY2017.HT-SE2	Mafg	13.77	10.22	14.13	10.89
+ENSMUSG00000051510	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian) [Source:MGI Symbol;Acc:MGI:96911]	MAFG.Me9780.5.YY2017.HT-SE2	Mafg	13.77	10.22	14.13	10.89
+ENSMUSG00000051510	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian) [Source:MGI Symbol;Acc:MGI:96911]	MAFG.Me9780.1.YY2017.HT-SE2	Mafg	13.77	10.22	14.13	10.89
+ENSMUSG00000051510	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian) [Source:MGI Symbol;Acc:MGI:96911]	MAFG.Ca9780.1.YY2017.HT-SE2	Mafg	13.77	10.22	14.13	10.89
+ENSMUSG00000051510	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian) [Source:MGI Symbol;Acc:MGI:96911]	MAFG_HUMAN.H11MO.0.A	Mafg	13.77	10.22	14.13	10.89
+ENSMUSG00000051510	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian) [Source:MGI Symbol;Acc:MGI:96911]	MAFG.Me9780.4.YY2017.HT-SE2	Mafg	13.77	10.22	14.13	10.89
+ENSMUSG00000051510	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian) [Source:MGI Symbol;Acc:MGI:96911]	MAFG.Me9780.2.YY2017.HT-SE2	Mafg	13.77	10.22	14.13	10.89
+ENSMUSG00000051510	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian) [Source:MGI Symbol;Acc:MGI:96911]	MAFG.Ca9780.5.YY2017.HT-SE2	Mafg	13.77	10.22	14.13	10.89
+ENSMUSG00000051510	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian) [Source:MGI Symbol;Acc:MGI:96911]	MAFG.Ca9780.3.YY2017.HT-SE2	Mafg	13.77	10.22	14.13	10.89
+ENSMUSG00000051510	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian) [Source:MGI Symbol;Acc:MGI:96911]	MAFG.Me9780.3.YY2017.HT-SE2	Mafg	13.77	10.22	14.13	10.89
+ENSMUSG00000051510	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian) [Source:MGI Symbol;Acc:MGI:96911]	MAFG.Ca9780.4.YY2017.HT-SE2	Mafg	13.77	10.22	14.13	10.89
+ENSMUSG00000018143	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein K (avian) [Source:MGI Symbol;Acc:MGI:99951]	MA0496.2.MAFK	Mafk	13.56	10.06	9.42	7.27
+ENSMUSG00000018143	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein K (avian) [Source:MGI Symbol;Acc:MGI:99951]	MA0496.1.MAFK	Mafk	13.56	10.06	9.42	7.27
+ENSMUSG00000018143	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein K (avian) [Source:MGI Symbol;Acc:MGI:99951]	TA0418_MAFK_full_dimer	Mafk	13.56	10.06	9.42	7.27
+ENSMUSG00000018143	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein K (avian) [Source:MGI Symbol;Acc:MGI:99951]	MAFK_HUMAN.H11MO.0.A	Mafk	13.56	10.06	9.42	7.27
+ENSMUSG00000018143	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein K (avian) [Source:MGI Symbol;Acc:MGI:99951]	BU0042.Mafk_primary	Mafk	13.56	10.06	9.42	7.27
+ENSMUSG00000018143	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein K (avian) [Source:MGI Symbol;Acc:MGI:99951]	TA0417_MAFK_full_monomer	Mafk	13.56	10.06	9.42	7.27
+ENSMUSG00000018143	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein K (avian) [Source:MGI Symbol;Acc:MGI:99951]	TA0416_MAFK_DBD_dimer	Mafk	13.56	10.06	9.42	7.27
+ENSMUSG00000059436	Max protein [Source:MGI Symbol;Acc:MGI:96921]	SMiLE_MAX	Max	9.63	7.15	18.43	14.2
+ENSMUSG00000059436	Max protein [Source:MGI Symbol;Acc:MGI:96921]	MA0058.2.MAX	Max	9.63	7.15	18.43	14.2
+ENSMUSG00000059436	Max protein [Source:MGI Symbol;Acc:MGI:96921]	MAX.Me9844.2.YY2017.HT-SE2	Max	9.63	7.15	18.43	14.2
+ENSMUSG00000059436	Max protein [Source:MGI Symbol;Acc:MGI:96921]	MAX.Ca9844.2.YY2017.HT-SE2	Max	9.63	7.15	18.43	14.2
+ENSMUSG00000059436	Max protein [Source:MGI Symbol;Acc:MGI:96921]	MAX.Me9844.1.YY2017.HT-SE2	Max	9.63	7.15	18.43	14.2
+ENSMUSG00000059436	Max protein [Source:MGI Symbol;Acc:MGI:96921]	MA0058.3.MAX	Max	9.63	7.15	18.43	14.2
+ENSMUSG00000059436	Max protein [Source:MGI Symbol;Acc:MGI:96921]	MAX.Ca9844.1.YY2017.HT-SE2	Max	9.63	7.15	18.43	14.2
+ENSMUSG00000059436	Max protein [Source:MGI Symbol;Acc:MGI:96921]	MAX_HUMAN.H11MO.0.A	Max	9.63	7.15	18.43	14.2
+ENSMUSG00000059436	Max protein [Source:MGI Symbol;Acc:MGI:96921]	TA0355_MAX_DBD_dimer	Max	9.63	7.15	18.43	14.2
+ENSMUSG00000059436	Max protein [Source:MGI Symbol;Acc:MGI:96921]	BU0043.Max_primary	Max	9.63	7.15	18.43	14.2
+ENSMUSG00000059436	Max protein [Source:MGI Symbol;Acc:MGI:96921]	MA0058.1.MAX	Max	9.63	7.15	18.43	14.2
+ENSMUSG00000030557	myocyte enhancer factor 2A [Source:MGI Symbol;Acc:MGI:99532]	MEF2A_HUMAN.H11MO.0.A	Mef2a	51.52	38.22	46.4	35.77
+ENSMUSG00000030557	myocyte enhancer factor 2A [Source:MGI Symbol;Acc:MGI:99532]	MA0052.1.MEF2A	Mef2a	51.52	38.22	46.4	35.77
+ENSMUSG00000030557	myocyte enhancer factor 2A [Source:MGI Symbol;Acc:MGI:99532]	MA0052.2.MEF2A	Mef2a	51.52	38.22	46.4	35.77
+ENSMUSG00000030557	myocyte enhancer factor 2A [Source:MGI Symbol;Acc:MGI:99532]	MA0052.3.MEF2A	Mef2a	51.52	38.22	46.4	35.77
+ENSMUSG00000005583	myocyte enhancer factor 2C [Source:MGI Symbol;Acc:MGI:99458]	MEF2C.Ca9676.1.YY2017.HT-SE2	Mef2c	91.97	68.23	87.74	67.64
+ENSMUSG00000005583	myocyte enhancer factor 2C [Source:MGI Symbol;Acc:MGI:99458]	MA0497.1.MEF2C	Mef2c	91.97	68.23	87.74	67.64
+ENSMUSG00000005583	myocyte enhancer factor 2C [Source:MGI Symbol;Acc:MGI:99458]	MEF2C.Me9676.1.YY2017.HT-SE2	Mef2c	91.97	68.23	87.74	67.64
+ENSMUSG00000001419	myocyte enhancer factor 2D [Source:MGI Symbol;Acc:MGI:99533]	MEF2D_HUMAN.H11MO.0.A	Mef2d	32.04	23.77	27.77	21.41
+ENSMUSG00000001419	myocyte enhancer factor 2D [Source:MGI Symbol;Acc:MGI:99533]	MA0773.1.MEF2D	Mef2d	32.04	23.77	27.77	21.41
+ENSMUSG00000001419	myocyte enhancer factor 2D [Source:MGI Symbol;Acc:MGI:99533]	MEF2D.Ca9675.1.YY2017.HT-SE2	Mef2d	32.04	23.77	27.77	21.41
+ENSMUSG00000001419	myocyte enhancer factor 2D [Source:MGI Symbol;Acc:MGI:99533]	MEF2D.Me9675.1.YY2017.HT-SE2	Mef2d	32.04	23.77	27.77	21.41
+ENSMUSG00000020160	Meis homeobox 1 [Source:MGI Symbol;Acc:MGI:104717]	MEIS1_HUMAN.H11MO.0.A	Meis1	63.22	46.9	50.85	39.2
+ENSMUSG00000020160	Meis homeobox 1 [Source:MGI Symbol;Acc:MGI:104717]	MA0498.1.Meis1	Meis1	63.22	46.9	50.85	39.2
+ENSMUSG00000020160	Meis homeobox 1 [Source:MGI Symbol;Acc:MGI:104717]	HOMEO0104_Meis1_2335.1	Meis1	63.22	46.9	50.85	39.2
+ENSMUSG00000020160	Meis homeobox 1 [Source:MGI Symbol;Acc:MGI:104717]	MA0498.2.MEIS1	Meis1	63.22	46.9	50.85	39.2
+ENSMUSG00000027210	Meis homeobox 2 [Source:MGI Symbol;Acc:MGI:108564]	MEIS2.Ca9673.2.YY2017.HT-SE2	Meis2	35.87	26.61	41.79	32.21
+ENSMUSG00000027210	Meis homeobox 2 [Source:MGI Symbol;Acc:MGI:108564]	HOMEO0106_Mrg1_2246.2	Meis2	35.87	26.61	41.79	32.21
+ENSMUSG00000027210	Meis homeobox 2 [Source:MGI Symbol;Acc:MGI:108564]	TA0198_Meis2_DBD_dimer	Meis2	35.87	26.61	41.79	32.21
+ENSMUSG00000027210	Meis homeobox 2 [Source:MGI Symbol;Acc:MGI:108564]	MA0774.1.MEIS2	Meis2	35.87	26.61	41.79	32.21
+ENSMUSG00000027210	Meis homeobox 2 [Source:MGI Symbol;Acc:MGI:108564]	TA0197_Meis2_DBD_monomer	Meis2	35.87	26.61	41.79	32.21
+ENSMUSG00000027210	Meis homeobox 2 [Source:MGI Symbol;Acc:MGI:108564]	MEIS2.Me9673.1.YY2017.HT-SE2	Meis2	35.87	26.61	41.79	32.21
+ENSMUSG00000027210	Meis homeobox 2 [Source:MGI Symbol;Acc:MGI:108564]	MEIS2.Ca9673.1.YY2017.HT-SE2	Meis2	35.87	26.61	41.79	32.21
+ENSMUSG00000027210	Meis homeobox 2 [Source:MGI Symbol;Acc:MGI:108564]	TA0193_MEIS2_DBD_dimer	Meis2	35.87	26.61	41.79	32.21
+ENSMUSG00000027210	Meis homeobox 2 [Source:MGI Symbol;Acc:MGI:108564]	MEIS2.Me9673.2.YY2017.HT-SE2	Meis2	35.87	26.61	41.79	32.21
+ENSMUSG00000027210	Meis homeobox 2 [Source:MGI Symbol;Acc:MGI:108564]	MEIS2_HUMAN.H11MO.0.B	Meis2	35.87	26.61	41.79	32.21
+ENSMUSG00000041420	Meis homeobox 3 [Source:MGI Symbol;Acc:MGI:108519]	HOMEO0107_Mrg2_2302.1	Meis3	16.21	12.03	13.75	10.6
+ENSMUSG00000041420	Meis homeobox 3 [Source:MGI Symbol;Acc:MGI:108519]	TA0199_Meis3_DBD_monomer	Meis3	16.21	12.03	13.75	10.6
+ENSMUSG00000041420	Meis homeobox 3 [Source:MGI Symbol;Acc:MGI:108519]	MA0775.1.MEIS3	Meis3	16.21	12.03	13.75	10.6
+ENSMUSG00000041420	Meis homeobox 3 [Source:MGI Symbol;Acc:MGI:108519]	TA0196_MEIS3_DBD_dimer	Meis3	16.21	12.03	13.75	10.6
+ENSMUSG00000041420	Meis homeobox 3 [Source:MGI Symbol;Acc:MGI:108519]	MEIS3.Ca9672.1.YY2017.HT-SE2	Meis3	16.21	12.03	13.75	10.6
+ENSMUSG00000041420	Meis homeobox 3 [Source:MGI Symbol;Acc:MGI:108519]	TA0200_Meis3_DBD_dimer	Meis3	16.21	12.03	13.75	10.6
+ENSMUSG00000041420	Meis homeobox 3 [Source:MGI Symbol;Acc:MGI:108519]	MEIS3.Me9672.1.YY2017.HT-SE2	Meis3	16.21	12.03	13.75	10.6
+ENSMUSG00000001493	mesenchyme homeobox 1 [Source:MGI Symbol;Acc:MGI:103220]	MEOX1.Ca9943.1.YY2017.HT-SE2	Meox1	10.3	7.64	9.24	7.12
+ENSMUSG00000001493	mesenchyme homeobox 1 [Source:MGI Symbol;Acc:MGI:103220]	MEOX1.Me9943.2.YY2017.HT-SE2	Meox1	10.3	7.64	9.24	7.12
+ENSMUSG00000001493	mesenchyme homeobox 1 [Source:MGI Symbol;Acc:MGI:103220]	MA0661.1.MEOX1	Meox1	10.3	7.64	9.24	7.12
+ENSMUSG00000001493	mesenchyme homeobox 1 [Source:MGI Symbol;Acc:MGI:103220]	MEOX1.Me9943.1.YY2017.HT-SE2	Meox1	10.3	7.64	9.24	7.12
+ENSMUSG00000001493	mesenchyme homeobox 1 [Source:MGI Symbol;Acc:MGI:103220]	HOMEO0105_Meox1_2310.2	Meox1	10.3	7.64	9.24	7.12
+ENSMUSG00000001493	mesenchyme homeobox 1 [Source:MGI Symbol;Acc:MGI:103220]	MEOX1.Ca9943.2.YY2017.HT-SE2	Meox1	10.3	7.64	9.24	7.12
+ENSMUSG00000033943	MAX gene associated [Source:MGI Symbol;Acc:MGI:1352483]	MA0801.1.MGA	Mga	14.32	10.62	21.05	16.23
+ENSMUSG00000033943	MAX gene associated [Source:MGI Symbol;Acc:MGI:1352483]	TA0289_MGA_DBD_dimer	Mga	14.32	10.62	21.05	16.23
+ENSMUSG00000033943	MAX gene associated [Source:MGI Symbol;Acc:MGI:1352483]	TA0288_MGA_DBD_dimer	Mga	14.32	10.62	21.05	16.23
+ENSMUSG00000035158	melanogenesis associated transcription factor [Source:MGI Symbol;Acc:MGI:104554]	MA0620.2.MITF	Mitf	13.42	9.96	17.07	13.16
+ENSMUSG00000035158	melanogenesis associated transcription factor [Source:MGI Symbol;Acc:MGI:104554]	MA0620.1.Mitf	Mitf	13.42	9.96	17.07	13.16
+ENSMUSG00000035158	melanogenesis associated transcription factor [Source:MGI Symbol;Acc:MGI:104554]	MITF_HUMAN.H11MO.0.A	Mitf	13.42	9.96	17.07	13.16
+ENSMUSG00000017801	MAX-like protein X [Source:MGI Symbol;Acc:MGI:108398]	MLX.Me9815.1.YY2017.HT-SE2	Mlx	24.51	18.19	25.11	19.36
+ENSMUSG00000017801	MAX-like protein X [Source:MGI Symbol;Acc:MGI:108398]	MLX.Ca9815.1.YY2017.HT-SE2	Mlx	24.51	18.19	25.11	19.36
+ENSMUSG00000017801	MAX-like protein X [Source:MGI Symbol;Acc:MGI:108398]	MLX.Ca9815.2.YY2017.HT-SE2	Mlx	24.51	18.19	25.11	19.36
+ENSMUSG00000017801	MAX-like protein X [Source:MGI Symbol;Acc:MGI:108398]	MLX.Me9815.2.YY2017.HT-SE2	Mlx	24.51	18.19	25.11	19.36
+ENSMUSG00000017801	MAX-like protein X [Source:MGI Symbol;Acc:MGI:108398]	TA0362_Mlx_DBD_dimer	Mlx	24.51	18.19	25.11	19.36
+ENSMUSG00000017801	MAX-like protein X [Source:MGI Symbol;Acc:MGI:108398]	MA0663.1.MLX	Mlx	24.51	18.19	25.11	19.36
+ENSMUSG00000048450	msh homeobox 1 [Source:MGI Symbol;Acc:MGI:97168]	MSX1.Me9997.2.YY2017.HT-SE2	Msx1	13.02	9.66	12.98	10.01
+ENSMUSG00000048450	msh homeobox 1 [Source:MGI Symbol;Acc:MGI:97168]	MSX1.Ca9997.1.YY2017.HT-SE2	Msx1	13.02	9.66	12.98	10.01
+ENSMUSG00000048450	msh homeobox 1 [Source:MGI Symbol;Acc:MGI:97168]	HOMEO0108_Msx1_3031.2	Msx1	13.02	9.66	12.98	10.01
+ENSMUSG00000048450	msh homeobox 1 [Source:MGI Symbol;Acc:MGI:97168]	TA0622_MSX1_DBD_dimer	Msx1	13.02	9.66	12.98	10.01
+ENSMUSG00000048450	msh homeobox 1 [Source:MGI Symbol;Acc:MGI:97168]	MA0666.1.MSX1	Msx1	13.02	9.66	12.98	10.01
+ENSMUSG00000048450	msh homeobox 1 [Source:MGI Symbol;Acc:MGI:97168]	MSX1.Me9997.1.YY2017.HT-SE2	Msx1	13.02	9.66	12.98	10.01
+ENSMUSG00000048450	msh homeobox 1 [Source:MGI Symbol;Acc:MGI:97168]	MSX1.Ca9997.2.YY2017.HT-SE2	Msx1	13.02	9.66	12.98	10.01
+ENSMUSG00000048450	msh homeobox 1 [Source:MGI Symbol;Acc:MGI:97168]	MSX1.Me9997.3.YY2017.HT-SE2	Msx1	13.02	9.66	12.98	10.01
+ENSMUSG00000048450	msh homeobox 1 [Source:MGI Symbol;Acc:MGI:97168]	MSX1.Me9997.4.YY2017.HT-SE2	Msx1	13.02	9.66	12.98	10.01
+ENSMUSG00000021469	msh homeobox 2 [Source:MGI Symbol;Acc:MGI:97169]	HOMEO0109_Msx2_3449.1	Msx2	7.77	5.77	7.56	5.83
+ENSMUSG00000021469	msh homeobox 2 [Source:MGI Symbol;Acc:MGI:97169]	MA0708.1.MSX2	Msx2	7.77	5.77	7.56	5.83
+ENSMUSG00000021469	msh homeobox 2 [Source:MGI Symbol;Acc:MGI:97169]	TA0625_MSX2_DBD_dimer	Msx2	7.77	5.77	7.56	5.83
+ENSMUSG00000021469	msh homeobox 2 [Source:MGI Symbol;Acc:MGI:97169]	MSX2.Me9998.2.YY2017.HT-SE2	Msx2	7.77	5.77	7.56	5.83
+ENSMUSG00000021469	msh homeobox 2 [Source:MGI Symbol;Acc:MGI:97169]	MSX2.Me9998.1.YY2017.HT-SE2	Msx2	7.77	5.77	7.56	5.83
+ENSMUSG00000021469	msh homeobox 2 [Source:MGI Symbol;Acc:MGI:97169]	MSX2.Ca9998.1.YY2017.HT-SE2	Msx2	7.77	5.77	7.56	5.83
+ENSMUSG00000028890	metal response element binding transcription factor 1 [Source:MGI Symbol;Acc:MGI:101786]	MTF1.Ca9485.1.YY2017.HT-SE2	Mtf1	9.59	7.12	7.7	5.94
+ENSMUSG00000028890	metal response element binding transcription factor 1 [Source:MGI Symbol;Acc:MGI:101786]	MA0863.1.MTF1	Mtf1	9.59	7.12	7.7	5.94
+ENSMUSG00000028890	metal response element binding transcription factor 1 [Source:MGI Symbol;Acc:MGI:101786]	MTF1_HUMAN.H11MO.0.C	Mtf1	9.59	7.12	7.7	5.94
+ENSMUSG00000028890	metal response element binding transcription factor 1 [Source:MGI Symbol;Acc:MGI:101786]	MTF1.Me9485.1.YY2017.HT-SE2	Mtf1	9.59	7.12	7.7	5.94
+ENSMUSG00000028890	metal response element binding transcription factor 1 [Source:MGI Symbol;Acc:MGI:101786]	BU0044.Mtf1_primary	Mtf1	9.59	7.12	7.7	5.94
+ENSMUSG00000017861	myeloblastosis oncogene-like 2 [Source:MGI Symbol;Acc:MGI:101785]	MYBL2.Ca9665.1.YY2017.HT-SE2	Mybl2	12.53	9.3	12.76	9.84
+ENSMUSG00000017861	myeloblastosis oncogene-like 2 [Source:MGI Symbol;Acc:MGI:101785]	MYBL2.Me9665.1.YY2017.HT-SE2	Mybl2	12.53	9.3	12.76	9.84
+ENSMUSG00000017861	myeloblastosis oncogene-like 2 [Source:MGI Symbol;Acc:MGI:101785]	TA0213_MYBL2_DBD_monomer	Mybl2	12.53	9.3	12.76	9.84
+ENSMUSG00000017861	myeloblastosis oncogene-like 2 [Source:MGI Symbol;Acc:MGI:101785]	MA0777.1.MYBL2	Mybl2	12.53	9.3	12.76	9.84
+ENSMUSG00000017861	myeloblastosis oncogene-like 2 [Source:MGI Symbol;Acc:MGI:101785]	TA0211_MYBL2_DBD_dimer	Mybl2	12.53	9.3	12.76	9.84
+ENSMUSG00000017861	myeloblastosis oncogene-like 2 [Source:MGI Symbol;Acc:MGI:101785]	TA0212_MYBL2_DBD_dimer	Mybl2	12.53	9.3	12.76	9.84
+ENSMUSG00000022346	myelocytomatosis oncogene [Source:MGI Symbol;Acc:MGI:97250]	MA0147.2.Myc	Myc	22.78	16.9	21.81	16.82
+ENSMUSG00000022346	myelocytomatosis oncogene [Source:MGI Symbol;Acc:MGI:97250]	MA0147.1.Myc	Myc	22.78	16.9	21.81	16.82
+ENSMUSG00000022346	myelocytomatosis oncogene [Source:MGI Symbol;Acc:MGI:97250]	MA0147.3.MYC	Myc	22.78	16.9	21.81	16.82
+ENSMUSG00000022346	myelocytomatosis oncogene [Source:MGI Symbol;Acc:MGI:97250]	MYC_HUMAN.H11MO.0.A	Myc	22.78	16.9	21.81	16.82
+ENSMUSG00000037169	v-myc avian myelocytomatosis viral related oncogene, neuroblastoma derived [Source:MGI Symbol;Acc:MGI:97357]	MA0104.3.Mycn	Mycn	41.44	30.74	37.26	28.73
+ENSMUSG00000037169	v-myc avian myelocytomatosis viral related oncogene, neuroblastoma derived [Source:MGI Symbol;Acc:MGI:97357]	MA0104.1.Mycn	Mycn	41.44	30.74	37.26	28.73
+ENSMUSG00000037169	v-myc avian myelocytomatosis viral related oncogene, neuroblastoma derived [Source:MGI Symbol;Acc:MGI:97357]	MA0104.4.MYCN	Mycn	41.44	30.74	37.26	28.73
+ENSMUSG00000037169	v-myc avian myelocytomatosis viral related oncogene, neuroblastoma derived [Source:MGI Symbol;Acc:MGI:97357]	MA0104.2.Mycn	Mycn	41.44	30.74	37.26	28.73
+ENSMUSG00000037169	v-myc avian myelocytomatosis viral related oncogene, neuroblastoma derived [Source:MGI Symbol;Acc:MGI:97357]	MYCN.Ca9813.1.YY2017.HT-SE2	Mycn	41.44	30.74	37.26	28.73
+ENSMUSG00000037169	v-myc avian myelocytomatosis viral related oncogene, neuroblastoma derived [Source:MGI Symbol;Acc:MGI:97357]	MYCN_HUMAN.H11MO.0.A	Mycn	41.44	30.74	37.26	28.73
+ENSMUSG00000026459	myogenin [Source:MGI Symbol;Acc:MGI:97276]	MYOG.Me9818.2.YY2017.HT-SE2	Myog	2.97	2.2	2.6	2
+ENSMUSG00000026459	myogenin [Source:MGI Symbol;Acc:MGI:97276]	MYOG.Me9818.3.YY2017.HT-SE2	Myog	2.97	2.2	2.6	2
+ENSMUSG00000026459	myogenin [Source:MGI Symbol;Acc:MGI:97276]	MYOG.Me9818.1.YY2017.HT-SE2	Myog	2.97	2.2	2.6	2
+ENSMUSG00000026459	myogenin [Source:MGI Symbol;Acc:MGI:97276]	MYOG.Ca9818.3.YY2017.HT-SE2	Myog	2.97	2.2	2.6	2
+ENSMUSG00000026459	myogenin [Source:MGI Symbol;Acc:MGI:97276]	MYOG_HUMAN.H11MO.0.B	Myog	2.97	2.2	2.6	2
+ENSMUSG00000026459	myogenin [Source:MGI Symbol;Acc:MGI:97276]	MYOG.Ca9818.4.YY2017.HT-SE2	Myog	2.97	2.2	2.6	2
+ENSMUSG00000026459	myogenin [Source:MGI Symbol;Acc:MGI:97276]	MYOG.Me9818.4.YY2017.HT-SE2	Myog	2.97	2.2	2.6	2
+ENSMUSG00000026459	myogenin [Source:MGI Symbol;Acc:MGI:97276]	MYOG.Ca9818.2.YY2017.HT-SE2	Myog	2.97	2.2	2.6	2
+ENSMUSG00000026459	myogenin [Source:MGI Symbol;Acc:MGI:97276]	MYOG.Ca9818.1.YY2017.HT-SE2	Myog	2.97	2.2	2.6	2
+ENSMUSG00000026459	myogenin [Source:MGI Symbol;Acc:MGI:97276]	MA0500.1.Myog	Myog	2.97	2.2	2.6	2
+ENSMUSG00000036098	myelin regulatory factor [Source:MGI Symbol;Acc:MGI:2684944]	GN_MYRF_TOP1000	Myrf	16.14	11.97	16.09	12.41
+ENSMUSG00000003847	nuclear factor of activated T cells 5 [Source:MGI Symbol;Acc:MGI:1859333]	TA0215_NFAT5_DBD_dimer	Nfat5	7.94	5.89	8.52	6.57
+ENSMUSG00000003847	nuclear factor of activated T cells 5 [Source:MGI Symbol;Acc:MGI:1859333]	NFAT5.Ca9606.1.YY2017.HT-SE2	Nfat5	7.94	5.89	8.52	6.57
+ENSMUSG00000003847	nuclear factor of activated T cells 5 [Source:MGI Symbol;Acc:MGI:1859333]	NFAT5.Me9606.1.YY2017.HT-SE2	Nfat5	7.94	5.89	8.52	6.57
+ENSMUSG00000003847	nuclear factor of activated T cells 5 [Source:MGI Symbol;Acc:MGI:1859333]	MA0606.1.NFAT5	Nfat5	7.94	5.89	8.52	6.57
+ENSMUSG00000033016	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1 [Source:MGI Symbol;Acc:MGI:102469]	TA0216_NFATC1_full_dimer	Nfatc1	18.85	13.98	14.15	10.91
+ENSMUSG00000033016	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1 [Source:MGI Symbol;Acc:MGI:102469]	NFATC1.Ca9605.1.YY2017.HT-SE2	Nfatc1	18.85	13.98	14.15	10.91
+ENSMUSG00000033016	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1 [Source:MGI Symbol;Acc:MGI:102469]	TA0217_NFATC1_full_dimer	Nfatc1	18.85	13.98	14.15	10.91
+ENSMUSG00000033016	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1 [Source:MGI Symbol;Acc:MGI:102469]	NFAC1_HUMAN.H11MO.0.B	Nfatc1	18.85	13.98	14.15	10.91
+ENSMUSG00000033016	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1 [Source:MGI Symbol;Acc:MGI:102469]	NFATC1.Me9605.2.YY2017.HT-SE2	Nfatc1	18.85	13.98	14.15	10.91
+ENSMUSG00000033016	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1 [Source:MGI Symbol;Acc:MGI:102469]	NFATC1.Me9605.1.YY2017.HT-SE2	Nfatc1	18.85	13.98	14.15	10.91
+ENSMUSG00000033016	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1 [Source:MGI Symbol;Acc:MGI:102469]	NFATC1.Ca9605.2.YY2017.HT-SE2	Nfatc1	18.85	13.98	14.15	10.91
+ENSMUSG00000033016	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1 [Source:MGI Symbol;Acc:MGI:102469]	MA0624.1.NFATC1	Nfatc1	18.85	13.98	14.15	10.91
+ENSMUSG00000033016	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1 [Source:MGI Symbol;Acc:MGI:102469]	TA0218_NFATC1_full_dimer	Nfatc1	18.85	13.98	14.15	10.91
+ENSMUSG00000027544	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 2 [Source:MGI Symbol;Acc:MGI:102463]	NFATC2.Me9604.2.YY2017.HT-SE2	Nfatc2	3.24	2.4	2.93	2.26
+ENSMUSG00000027544	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 2 [Source:MGI Symbol;Acc:MGI:102463]	NFAC2_HUMAN.H11MO.0.B	Nfatc2	3.24	2.4	2.93	2.26
+ENSMUSG00000027544	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 2 [Source:MGI Symbol;Acc:MGI:102463]	MA0152.1.NFATC2	Nfatc2	3.24	2.4	2.93	2.26
+ENSMUSG00000027544	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 2 [Source:MGI Symbol;Acc:MGI:102463]	NFATC2.Me9604.1.YY2017.HT-SE2	Nfatc2	3.24	2.4	2.93	2.26
+ENSMUSG00000027544	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 2 [Source:MGI Symbol;Acc:MGI:102463]	NFATC2.Ca9604.2.YY2017.HT-SE2	Nfatc2	3.24	2.4	2.93	2.26
+ENSMUSG00000027544	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 2 [Source:MGI Symbol;Acc:MGI:102463]	NFATC2.Ca9604.1.YY2017.HT-SE2	Nfatc2	3.24	2.4	2.93	2.26
+ENSMUSG00000031902	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3 [Source:MGI Symbol;Acc:MGI:103296]	NFATC3.Ca9603.1.YY2017.HT-SE2	Nfatc3	3.11	2.31	4.18	3.22
+ENSMUSG00000031902	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3 [Source:MGI Symbol;Acc:MGI:103296]	NFATC3.Me9603.2.YY2017.HT-SE2	Nfatc3	3.11	2.31	4.18	3.22
+ENSMUSG00000031902	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3 [Source:MGI Symbol;Acc:MGI:103296]	NFATC3.Me9603.3.YY2017.HT-SE2	Nfatc3	3.11	2.31	4.18	3.22
+ENSMUSG00000031902	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3 [Source:MGI Symbol;Acc:MGI:103296]	NFATC3.Me9603.1.YY2017.HT-SE2	Nfatc3	3.11	2.31	4.18	3.22
+ENSMUSG00000031902	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3 [Source:MGI Symbol;Acc:MGI:103296]	NFATC3.Ca9603.3.YY2017.HT-SE2	Nfatc3	3.11	2.31	4.18	3.22
+ENSMUSG00000031902	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3 [Source:MGI Symbol;Acc:MGI:103296]	NFATC3.Ca9603.2.YY2017.HT-SE2	Nfatc3	3.11	2.31	4.18	3.22
+ENSMUSG00000031902	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3 [Source:MGI Symbol;Acc:MGI:103296]	MA0625.1.NFATC3	Nfatc3	3.11	2.31	4.18	3.22
+ENSMUSG00000031902	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3 [Source:MGI Symbol;Acc:MGI:103296]	NFAC3_HUMAN.H11MO.0.B	Nfatc3	3.11	2.31	4.18	3.22
+ENSMUSG00000023411	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 4 [Source:MGI Symbol;Acc:MGI:1920431]	NFAC4_HUMAN.H11MO.0.C	Nfatc4	11.01	8.17	11.78	9.08
+ENSMUSG00000023411	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 4 [Source:MGI Symbol;Acc:MGI:1920431]	NFATC4.Ca9602.2.YY2017.HT-SE2	Nfatc4	11.01	8.17	11.78	9.08
+ENSMUSG00000023411	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 4 [Source:MGI Symbol;Acc:MGI:1920431]	NFATC4.Me9602.1.YY2017.HT-SE2	Nfatc4	11.01	8.17	11.78	9.08
+ENSMUSG00000023411	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 4 [Source:MGI Symbol;Acc:MGI:1920431]	NFATC4.Ca9602.1.YY2017.HT-SE2	Nfatc4	11.01	8.17	11.78	9.08
+ENSMUSG00000023411	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 4 [Source:MGI Symbol;Acc:MGI:1920431]	NFATC4.Me9602.2.YY2017.HT-SE2	Nfatc4	11.01	8.17	11.78	9.08
+ENSMUSG00000058794	nuclear factor, erythroid derived 2 [Source:MGI Symbol;Acc:MGI:97308]	NFE2.Me9805.1.YY2017.HT-SE2	Nfe2	15.58	11.56	16.87	13.01
+ENSMUSG00000058794	nuclear factor, erythroid derived 2 [Source:MGI Symbol;Acc:MGI:97308]	MA0841.1.NFE2	Nfe2	15.58	11.56	16.87	13.01
+ENSMUSG00000058794	nuclear factor, erythroid derived 2 [Source:MGI Symbol;Acc:MGI:97308]	NFE2.Ca9805.1.YY2017.HT-SE2	Nfe2	15.58	11.56	16.87	13.01
+ENSMUSG00000058794	nuclear factor, erythroid derived 2 [Source:MGI Symbol;Acc:MGI:97308]	NFE2_HUMAN.H11MO.0.A	Nfe2	15.58	11.56	16.87	13.01
+ENSMUSG00000038615	nuclear factor, erythroid derived 2,-like 1 [Source:MGI Symbol;Acc:MGI:99421]	NF2L1_HUMAN.H11MO.0.C	Nfe2l1	31.22	23.16	25.46	19.63
+ENSMUSG00000015839	nuclear factor, erythroid derived 2, like 2 [Source:MGI Symbol;Acc:MGI:108420]	MA0150.1.NFE2L2	Nfe2l2	34.61	25.67	32.59	25.12
+ENSMUSG00000015839	nuclear factor, erythroid derived 2, like 2 [Source:MGI Symbol;Acc:MGI:108420]	NRF2_NAR	Nfe2l2	34.61	25.67	32.59	25.12
+ENSMUSG00000015839	nuclear factor, erythroid derived 2, like 2 [Source:MGI Symbol;Acc:MGI:108420]	NF2L2_HUMAN.H11MO.0.A	Nfe2l2	34.61	25.67	32.59	25.12
+ENSMUSG00000015839	nuclear factor, erythroid derived 2, like 2 [Source:MGI Symbol;Acc:MGI:108420]	MA0150.2.Nfe2l2	Nfe2l2	34.61	25.67	32.59	25.12
+ENSMUSG00000028565	nuclear factor I/A [Source:MGI Symbol;Acc:MGI:108056]	TA0221_NFIA_full_dimer	Nfia	19.53	14.49	23.57	18.17
+ENSMUSG00000028565	nuclear factor I/A [Source:MGI Symbol;Acc:MGI:108056]	MA0670.1.NFIA	Nfia	19.53	14.49	23.57	18.17
+ENSMUSG00000028565	nuclear factor I/A [Source:MGI Symbol;Acc:MGI:108056]	NFIA_HUMAN.H11MO.0.C	Nfia	19.53	14.49	23.57	18.17
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	NFIB.Ca9664.1.YY2017.HT-SE2	Nfib	38.8	28.78	41.21	31.77
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	NFIB.Me9664.1.YY2017.HT-SE2	Nfib	38.8	28.78	41.21	31.77
+ENSMUSG00000008575	nuclear factor I/B [Source:MGI Symbol;Acc:MGI:103188]	TA0222_NFIB_full_dimer	Nfib	38.8	28.78	41.21	31.77
+ENSMUSG00000055053	nuclear factor I/C [Source:MGI Symbol;Acc:MGI:109591]	MA0161.1.NFIC	Nfic	21.13	15.67	19.62	15.13
+ENSMUSG00000055053	nuclear factor I/C [Source:MGI Symbol;Acc:MGI:109591]	NFIC.Me9663.1.YY2017.HT-SE2	Nfic	21.13	15.67	19.62	15.13
+ENSMUSG00000055053	nuclear factor I/C [Source:MGI Symbol;Acc:MGI:109591]	NFIC.Ca9663.1.YY2017.HT-SE2	Nfic	21.13	15.67	19.62	15.13
+ENSMUSG00000055053	nuclear factor I/C [Source:MGI Symbol;Acc:MGI:109591]	NFIC_HUMAN.H11MO.0.A	Nfic	21.13	15.67	19.62	15.13
+ENSMUSG00000056749	nuclear factor, interleukin 3, regulated [Source:MGI Symbol;Acc:MGI:109495]	MA0025.1.NFIL3	Nfil3	30.01	22.27	24.67	19.02
+ENSMUSG00000056749	nuclear factor, interleukin 3, regulated [Source:MGI Symbol;Acc:MGI:109495]	TA0423_NFIL3_DBD_dimer	Nfil3	30.01	22.27	24.67	19.02
+ENSMUSG00000056749	nuclear factor, interleukin 3, regulated [Source:MGI Symbol;Acc:MGI:109495]	NFIL3_MOUSE.H11MO.0.C	Nfil3	30.01	22.27	24.67	19.02
+ENSMUSG00000001911	nuclear factor I/X [Source:MGI Symbol;Acc:MGI:97311]	TA0861_NFIX_full_dimer	Nfix	4.3	3.19	5.34	4.12
+ENSMUSG00000001911	nuclear factor I/X [Source:MGI Symbol;Acc:MGI:97311]	NFIX.Me9662.1.YY2017.HT-SE2	Nfix	4.3	3.19	5.34	4.12
+ENSMUSG00000001911	nuclear factor I/X [Source:MGI Symbol;Acc:MGI:97311]	NFIX.Ca9662.1.YY2017.HT-SE2	Nfix	4.3	3.19	5.34	4.12
+ENSMUSG00000001911	nuclear factor I/X [Source:MGI Symbol;Acc:MGI:97311]	MA0671.1.NFIX	Nfix	4.3	3.19	5.34	4.12
+ENSMUSG00000001911	nuclear factor I/X [Source:MGI Symbol;Acc:MGI:97311]	TA0223_NFIX_full_dimer	Nfix	4.3	3.19	5.34	4.12
+ENSMUSG00000028163	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105 [Source:MGI Symbol;Acc:MGI:97312]	MA0105.1.NFKB1	Nfkb1	10.92	8.1	12.42	9.57
+ENSMUSG00000028163	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105 [Source:MGI Symbol;Acc:MGI:97312]	MA0105.3.NFKB1	Nfkb1	10.92	8.1	12.42	9.57
+ENSMUSG00000028163	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105 [Source:MGI Symbol;Acc:MGI:97312]	MA0105.2.NFKB1	Nfkb1	10.92	8.1	12.42	9.57
+ENSMUSG00000028163	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105 [Source:MGI Symbol;Acc:MGI:97312]	MA0105.4.NFKB1	Nfkb1	10.92	8.1	12.42	9.57
+ENSMUSG00000028163	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105 [Source:MGI Symbol;Acc:MGI:97312]	SMiLE_NFKB1_001	Nfkb1	10.92	8.1	12.42	9.57
+ENSMUSG00000028163	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105 [Source:MGI Symbol;Acc:MGI:97312]	NFKB1_HUMAN.H11MO.1.B	Nfkb1	10.92	8.1	12.42	9.57
+ENSMUSG00000025225	nuclear factor of kappa light polypeptide gene enhancer in B cells 2, p49/p100 [Source:MGI Symbol;Acc:MGI:1099800]	MA0778.1.NFKB2	Nfkb2	4.86	3.61	5.07	3.91
+ENSMUSG00000025225	nuclear factor of kappa light polypeptide gene enhancer in B cells 2, p49/p100 [Source:MGI Symbol;Acc:MGI:1099800]	NFKB2.Me9601.1.YY2017.HT-SE2	Nfkb2	4.86	3.61	5.07	3.91
+ENSMUSG00000025225	nuclear factor of kappa light polypeptide gene enhancer in B cells 2, p49/p100 [Source:MGI Symbol;Acc:MGI:1099800]	NFKB2.Ca9601.1.YY2017.HT-SE2	Nfkb2	4.86	3.61	5.07	3.91
+ENSMUSG00000025225	nuclear factor of kappa light polypeptide gene enhancer in B cells 2, p49/p100 [Source:MGI Symbol;Acc:MGI:1099800]	NFKB2_HUMAN.H11MO.0.B	Nfkb2	4.86	3.61	5.07	3.91
+ENSMUSG00000023994	nuclear transcription factor-Y alpha [Source:MGI Symbol;Acc:MGI:97316]	MA0060.3.NFYA	Nfya	12	8.91	13.71	10.57
+ENSMUSG00000023994	nuclear transcription factor-Y alpha [Source:MGI Symbol;Acc:MGI:97316]	PEBB_HUMAN.H11MO.0.C	Nfya	12	8.91	13.71	10.57
+ENSMUSG00000023994	nuclear transcription factor-Y alpha [Source:MGI Symbol;Acc:MGI:97316]	NFYA_HUMAN.H11MO.0.A	Nfya	12	8.91	13.71	10.57
+ENSMUSG00000023994	nuclear transcription factor-Y alpha [Source:MGI Symbol;Acc:MGI:97316]	MA0060.2.NFYA	Nfya	12	8.91	13.71	10.57
+ENSMUSG00000023994	nuclear transcription factor-Y alpha [Source:MGI Symbol;Acc:MGI:97316]	MA0060.1.NFYA	Nfya	12	8.91	13.71	10.57
+ENSMUSG00000020248	nuclear transcription factor-Y beta [Source:MGI Symbol;Acc:MGI:97317]	NFYB_HUMAN.H11MO.0.A	Nfyb	21.24	15.76	18.93	14.6
+ENSMUSG00000020248	nuclear transcription factor-Y beta [Source:MGI Symbol;Acc:MGI:97317]	MA0502.1.NFYB	Nfyb	21.24	15.76	18.93	14.6
+ENSMUSG00000032897	nuclear transcription factor-Y gamma [Source:MGI Symbol;Acc:MGI:107901]	NFYC_HUMAN.H11MO.0.A	Nfyc	74.23	55.07	81.6	62.9
+ENSMUSG00000015579	NK2 homeobox 5 [Source:MGI Symbol;Acc:MGI:97350]	HOMEO0116_Nkx2-5_3436.1	Nkx2-5	112.75	83.65	109.78	84.63
+ENSMUSG00000015579	NK2 homeobox 5 [Source:MGI Symbol;Acc:MGI:97350]	MA0063.1.Nkx2-5	Nkx2-5	112.75	83.65	109.78	84.63
+ENSMUSG00000015579	NK2 homeobox 5 [Source:MGI Symbol;Acc:MGI:97350]	NKX2-5.Me9979.2.YY2017.HT-SE2	Nkx2-5	112.75	83.65	109.78	84.63
+ENSMUSG00000015579	NK2 homeobox 5 [Source:MGI Symbol;Acc:MGI:97350]	NKX25_HUMAN.H11MO.0.B	Nkx2-5	112.75	83.65	109.78	84.63
+ENSMUSG00000015579	NK2 homeobox 5 [Source:MGI Symbol;Acc:MGI:97350]	NKX2-5.Ca9979.1.YY2017.HT-SE2	Nkx2-5	112.75	83.65	109.78	84.63
+ENSMUSG00000015579	NK2 homeobox 5 [Source:MGI Symbol;Acc:MGI:97350]	MA0503.1.Nkx2-5.var.2	Nkx2-5	112.75	83.65	109.78	84.63
+ENSMUSG00000015579	NK2 homeobox 5 [Source:MGI Symbol;Acc:MGI:97350]	NKX2-5.Me9979.1.YY2017.HT-SE2	Nkx2-5	112.75	83.65	109.78	84.63
+ENSMUSG00000020889	nuclear receptor subfamily 1, group D, member 1 [Source:MGI Symbol;Acc:MGI:2444210]	NR1D1.Me9647.1.YY2017.HT-SE2	Nr1d1	4.57	3.39	3.89	3
+ENSMUSG00000020889	nuclear receptor subfamily 1, group D, member 1 [Source:MGI Symbol;Acc:MGI:2444210]	NR1D1_HUMAN.H11MO.0.B	Nr1d1	4.57	3.39	3.89	3
+ENSMUSG00000020889	nuclear receptor subfamily 1, group D, member 1 [Source:MGI Symbol;Acc:MGI:2444210]	NR1D1.Ca9647.1.YY2017.HT-SE2	Nr1d1	4.57	3.39	3.89	3
+ENSMUSG00000021775	nuclear receptor subfamily 1, group D, member 2 [Source:MGI Symbol;Acc:MGI:2449205]	AJ_NR1D2	Nr1d2	8.91	6.61	7.32	5.64
+ENSMUSG00000021775	nuclear receptor subfamily 1, group D, member 2 [Source:MGI Symbol;Acc:MGI:2449205]	NR1D2_MOUSE.H11MO.0.A	Nr1d2	8.91	6.61	7.32	5.64
+ENSMUSG00000021775	nuclear receptor subfamily 1, group D, member 2 [Source:MGI Symbol;Acc:MGI:2449205]	NR1D2.Ca9646.1.YY2017.HT-SE2	Nr1d2	8.91	6.61	7.32	5.64
+ENSMUSG00000021775	nuclear receptor subfamily 1, group D, member 2 [Source:MGI Symbol;Acc:MGI:2449205]	NR1D2.Me9646.1.YY2017.HT-SE2	Nr1d2	8.91	6.61	7.32	5.64
+ENSMUSG00000005897	nuclear receptor subfamily 2, group C, member 1 [Source:MGI Symbol;Acc:MGI:1352465]	NR2C1.Me9655.2.YY2017.HT-SE2	Nr2c1	5.76	4.27	6.09	4.7
+ENSMUSG00000005897	nuclear receptor subfamily 2, group C, member 1 [Source:MGI Symbol;Acc:MGI:1352465]	NR2C1_HUMAN.H11MO.0.C	Nr2c1	5.76	4.27	6.09	4.7
+ENSMUSG00000005897	nuclear receptor subfamily 2, group C, member 1 [Source:MGI Symbol;Acc:MGI:1352465]	NR2C1.Ca9655.2.YY2017.HT-SE2	Nr2c1	5.76	4.27	6.09	4.7
+ENSMUSG00000005897	nuclear receptor subfamily 2, group C, member 1 [Source:MGI Symbol;Acc:MGI:1352465]	NR2C1.Ca9655.1.YY2017.HT-SE2	Nr2c1	5.76	4.27	6.09	4.7
+ENSMUSG00000005897	nuclear receptor subfamily 2, group C, member 1 [Source:MGI Symbol;Acc:MGI:1352465]	NR2C1.Me9655.1.YY2017.HT-SE2	Nr2c1	5.76	4.27	6.09	4.7
+ENSMUSG00000005893	nuclear receptor subfamily 2, group C, member 2 [Source:MGI Symbol;Acc:MGI:1352466]	NR2C2_HUMAN.H11MO.0.B	Nr2c2	12.03	8.92	11.43	8.81
+ENSMUSG00000005893	nuclear receptor subfamily 2, group C, member 2 [Source:MGI Symbol;Acc:MGI:1352466]	NR2C2.Ca9654.1.YY2017.HT-SE2	Nr2c2	12.03	8.92	11.43	8.81
+ENSMUSG00000005893	nuclear receptor subfamily 2, group C, member 2 [Source:MGI Symbol;Acc:MGI:1352466]	MA0504.1.NR2C2	Nr2c2	12.03	8.92	11.43	8.81
+ENSMUSG00000005893	nuclear receptor subfamily 2, group C, member 2 [Source:MGI Symbol;Acc:MGI:1352466]	NR2C2.Me9654.1.YY2017.HT-SE2	Nr2c2	12.03	8.92	11.43	8.81
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	MA0017.1.NR2F1	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	NR2F1.Me9658.2.YY2017.HT-SE2	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	NR2F1.Ca9658.1.YY2017.HT-SE2	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	NR2F1.Ca9658.2.YY2017.HT-SE2	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	NR2F1.Me9658.4.YY2017.HT-SE2	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	NR2F1.Me9658.1.YY2017.HT-SE2	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	MA0017.2.NR2F1	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	COT1_HUMAN.H11MO.0.C	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	NR2F1.Me9658.3.YY2017.HT-SE2	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	TA0711_NR2F1_full_monomer	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	TA0709_NR2F1_DBD_dimer	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	NR2F1.Ca9658.4.YY2017.HT-SE2	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	TA0710_NR2F1_DBD_dimer	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000069171	nuclear receptor subfamily 2, group F, member 1 [Source:MGI Symbol;Acc:MGI:1352451]	NR2F1.Ca9658.3.YY2017.HT-SE2	Nr2f1	7.25	5.38	7.64	5.89
+ENSMUSG00000030551	nuclear receptor subfamily 2, group F, member 2 [Source:MGI Symbol;Acc:MGI:1352452]	MA1111.1.NR2F2	Nr2f2	21.61	16.03	24.01	18.51
+ENSMUSG00000030551	nuclear receptor subfamily 2, group F, member 2 [Source:MGI Symbol;Acc:MGI:1352452]	COT2_HUMAN.H11MO.0.A	Nr2f2	21.61	16.03	24.01	18.51
+ENSMUSG00000030551	nuclear receptor subfamily 2, group F, member 2 [Source:MGI Symbol;Acc:MGI:1352452]	BU0049.Nr2f2_primary	Nr2f2	21.61	16.03	24.01	18.51
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	NR2F6.Ca9657.1.YY2017.HT-SE2	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	TA0723_Nr2f6_DBD_dimer	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	TA0712_NR2F6_DBD_dimer	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	NR2F6.Me9657.4.YY2017.HT-SE2	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	MA0677.1.Nr2f6	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	MA0728.1.Nr2f6.var.2	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	TA0714_NR2F6_full_dimer	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	NR2F6.Me9657.3.YY2017.HT-SE2	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	NR2F6.Ca9657.3.YY2017.HT-SE2	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	NR2F6.Ca9657.2.YY2017.HT-SE2	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	NR2F6.Me9657.1.YY2017.HT-SE2	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	TA0713_NR2F6_DBD_dimer	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	NR2F6.Me9657.2.YY2017.HT-SE2	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000002393	nuclear receptor subfamily 2, group F, member 6 [Source:MGI Symbol;Acc:MGI:1352453]	NR2F6.Ca9657.4.YY2017.HT-SE2	Nr2f6	32.46	24.08	32.99	25.44
+ENSMUSG00000024431	nuclear receptor subfamily 3, group C, member 1 [Source:MGI Symbol;Acc:MGI:95824]	NR3C1.Me9633.1.YY2017.HT-SE2	Nr3c1	12.2	9.05	12.59	9.71
+ENSMUSG00000024431	nuclear receptor subfamily 3, group C, member 1 [Source:MGI Symbol;Acc:MGI:95824]	GCR_HUMAN.H11MO.0.A	Nr3c1	12.2	9.05	12.59	9.71
+ENSMUSG00000024431	nuclear receptor subfamily 3, group C, member 1 [Source:MGI Symbol;Acc:MGI:95824]	MA0113.2.NR3C1	Nr3c1	12.2	9.05	12.59	9.71
+ENSMUSG00000024431	nuclear receptor subfamily 3, group C, member 1 [Source:MGI Symbol;Acc:MGI:95824]	SMiLE_GR	Nr3c1	12.2	9.05	12.59	9.71
+ENSMUSG00000024431	nuclear receptor subfamily 3, group C, member 1 [Source:MGI Symbol;Acc:MGI:95824]	NR3C1.Ca9633.1.YY2017.HT-SE2	Nr3c1	12.2	9.05	12.59	9.71
+ENSMUSG00000024431	nuclear receptor subfamily 3, group C, member 1 [Source:MGI Symbol;Acc:MGI:95824]	MA0113.3.NR3C1	Nr3c1	12.2	9.05	12.59	9.71
+ENSMUSG00000023034	nuclear receptor subfamily 4, group A, member 1 [Source:MGI Symbol;Acc:MGI:1352454]	NR4A1.Ca9653.1.YY2017.HT-SE2	Nr4a1	5.77	4.28	5.26	4.06
+ENSMUSG00000023034	nuclear receptor subfamily 4, group A, member 1 [Source:MGI Symbol;Acc:MGI:1352454]	NR4A1_HUMAN.H11MO.0.A	Nr4a1	5.77	4.28	5.26	4.06
+ENSMUSG00000023034	nuclear receptor subfamily 4, group A, member 1 [Source:MGI Symbol;Acc:MGI:1352454]	NR4A1.Me9653.1.YY2017.HT-SE2	Nr4a1	5.77	4.28	5.26	4.06
+ENSMUSG00000023034	nuclear receptor subfamily 4, group A, member 1 [Source:MGI Symbol;Acc:MGI:1352454]	NR4A1.Ca9653.2.YY2017.HT-SE2	Nr4a1	5.77	4.28	5.26	4.06
+ENSMUSG00000023034	nuclear receptor subfamily 4, group A, member 1 [Source:MGI Symbol;Acc:MGI:1352454]	NR4A1.Me9653.2.YY2017.HT-SE2	Nr4a1	5.77	4.28	5.26	4.06
+ENSMUSG00000023034	nuclear receptor subfamily 4, group A, member 1 [Source:MGI Symbol;Acc:MGI:1352454]	MA1112.1.NR4A1	Nr4a1	5.77	4.28	5.26	4.06
+ENSMUSG00000058440	nuclear respiratory factor 1 [Source:MGI Symbol;Acc:MGI:1332235]	NRF1_HUMAN.H11MO.0.A	Nrf1	28.39	21.06	31.07	23.95
+ENSMUSG00000058440	nuclear respiratory factor 1 [Source:MGI Symbol;Acc:MGI:1332235]	MA0506.1.NRF1	Nrf1	28.39	21.06	31.07	23.95
+ENSMUSG00000058440	nuclear respiratory factor 1 [Source:MGI Symbol;Acc:MGI:1332235]	TA0224_NRF1_full_dimer	Nrf1	28.39	21.06	31.07	23.95
+ENSMUSG00000052534	pre B cell leukemia homeobox 1 [Source:MGI Symbol;Acc:MGI:97495]	PBX1.Ca9868.2.YY2017.HT-SE2	Pbx1	17.78	13.19	23.41	18.05
+ENSMUSG00000052534	pre B cell leukemia homeobox 1 [Source:MGI Symbol;Acc:MGI:97495]	PBX1.Ca9868.1.YY2017.HT-SE2	Pbx1	17.78	13.19	23.41	18.05
+ENSMUSG00000052534	pre B cell leukemia homeobox 1 [Source:MGI Symbol;Acc:MGI:97495]	PBX1_HUMAN.H11MO.0.A	Pbx1	17.78	13.19	23.41	18.05
+ENSMUSG00000052534	pre B cell leukemia homeobox 1 [Source:MGI Symbol;Acc:MGI:97495]	PBX1.Me9868.2.YY2017.HT-SE2	Pbx1	17.78	13.19	23.41	18.05
+ENSMUSG00000052534	pre B cell leukemia homeobox 1 [Source:MGI Symbol;Acc:MGI:97495]	PBX1.Me9868.1.YY2017.HT-SE2	Pbx1	17.78	13.19	23.41	18.05
+ENSMUSG00000052534	pre B cell leukemia homeobox 1 [Source:MGI Symbol;Acc:MGI:97495]	MA0070.1.PBX1	Pbx1	17.78	13.19	23.41	18.05
+ENSMUSG00000052534	pre B cell leukemia homeobox 1 [Source:MGI Symbol;Acc:MGI:97495]	HOMEO0136_Pbx1_3203.1	Pbx1	17.78	13.19	23.41	18.05
+ENSMUSG00000034673	pre B cell leukemia homeobox 2 [Source:MGI Symbol;Acc:MGI:1341793]	MA1113.1.PBX2	Pbx2	8.38	6.22	8.71	6.72
+ENSMUSG00000034673	pre B cell leukemia homeobox 2 [Source:MGI Symbol;Acc:MGI:1341793]	PBX2_HUMAN.H11MO.0.C	Pbx2	8.38	6.22	8.71	6.72
+ENSMUSG00000038718	pre B cell leukemia homeobox 3 [Source:MGI Symbol;Acc:MGI:97496]	PBX3_HUMAN.H11MO.0.A	Pbx3	21.72	16.11	20.31	15.66
+ENSMUSG00000038718	pre B cell leukemia homeobox 3 [Source:MGI Symbol;Acc:MGI:97496]	MA1114.1.PBX3	Pbx3	21.72	16.11	20.31	15.66
+ENSMUSG00000028023	paired-like homeodomain transcription factor 2 [Source:MGI Symbol;Acc:MGI:109340]	PITX2.Ca9905.1.YY2017.HT-SE2	Pitx2	23.24	17.24	22.93	17.68
+ENSMUSG00000028023	paired-like homeodomain transcription factor 2 [Source:MGI Symbol;Acc:MGI:109340]	PITX2.Ca9905.2.YY2017.HT-SE2	Pitx2	23.24	17.24	22.93	17.68
+ENSMUSG00000028023	paired-like homeodomain transcription factor 2 [Source:MGI Symbol;Acc:MGI:109340]	PITX2.Me9905.2.YY2017.HT-SE2	Pitx2	23.24	17.24	22.93	17.68
+ENSMUSG00000028023	paired-like homeodomain transcription factor 2 [Source:MGI Symbol;Acc:MGI:109340]	PITX2.Me9905.1.YY2017.HT-SE2	Pitx2	23.24	17.24	22.93	17.68
+ENSMUSG00000028023	paired-like homeodomain transcription factor 2 [Source:MGI Symbol;Acc:MGI:109340]	HOMEO0140_Pitx2_2274.3	Pitx2	23.24	17.24	22.93	17.68
+ENSMUSG00000006705	Pbx/knotted 1 homeobox [Source:MGI Symbol;Acc:MGI:1201409]	PKNOX1Ca9671.2.YY2017.HT-SE2	Pknox1	14.52	10.77	13.8	10.64
+ENSMUSG00000006705	Pbx/knotted 1 homeobox [Source:MGI Symbol;Acc:MGI:1201409]	PKNX1_HUMAN.H11MO.0.B	Pknox1	14.52	10.77	13.8	10.64
+ENSMUSG00000006705	Pbx/knotted 1 homeobox [Source:MGI Symbol;Acc:MGI:1201409]	HOMEO0142_Pknox1_2364.2	Pknox1	14.52	10.77	13.8	10.64
+ENSMUSG00000006705	Pbx/knotted 1 homeobox [Source:MGI Symbol;Acc:MGI:1201409]	PKNOX1Ca9671.1.YY2017.HT-SE2	Pknox1	14.52	10.77	13.8	10.64
+ENSMUSG00000006705	Pbx/knotted 1 homeobox [Source:MGI Symbol;Acc:MGI:1201409]	PKNOX1.Me9671.2.YY2017.HT-SE2	Pknox1	14.52	10.77	13.8	10.64
+ENSMUSG00000006705	Pbx/knotted 1 homeobox [Source:MGI Symbol;Acc:MGI:1201409]	MA0782.1.PKNOX1	Pknox1	14.52	10.77	13.8	10.64
+ENSMUSG00000006705	Pbx/knotted 1 homeobox [Source:MGI Symbol;Acc:MGI:1201409]	PKNOX1.Me9671.1.YY2017.HT-SE2	Pknox1	14.52	10.77	13.8	10.64
+ENSMUSG00000035934	Pbx/knotted 1 homeobox 2 [Source:MGI Symbol;Acc:MGI:2445415]	PKNOX2.Me9670.1.YY2017.HT-SE2	Pknox2	4.47	3.31	3.6	2.78
+ENSMUSG00000035934	Pbx/knotted 1 homeobox 2 [Source:MGI Symbol;Acc:MGI:2445415]	MA0783.1.PKNOX2	Pknox2	4.47	3.31	3.6	2.78
+ENSMUSG00000035934	Pbx/knotted 1 homeobox 2 [Source:MGI Symbol;Acc:MGI:2445415]	HOMEO0143_Pknox2_3077.2	Pknox2	4.47	3.31	3.6	2.78
+ENSMUSG00000035934	Pbx/knotted 1 homeobox 2 [Source:MGI Symbol;Acc:MGI:2445415]	PKNOX2.Ca9670.1.YY2017.HT-SE2	Pknox2	4.47	3.31	3.6	2.78
+ENSMUSG00000026565	POU domain, class 2, transcription factor 1 [Source:MGI Symbol;Acc:MGI:101898]	TA0238_POU2F1_DBD_dimer	Pou2f1	12.26	9.1	11.65	8.98
+ENSMUSG00000026565	POU domain, class 2, transcription factor 1 [Source:MGI Symbol;Acc:MGI:101898]	PO2F1_HUMAN.H11MO.0.C	Pou2f1	12.26	9.1	11.65	8.98
+ENSMUSG00000026565	POU domain, class 2, transcription factor 1 [Source:MGI Symbol;Acc:MGI:101898]	MA0785.1.POU2F1	Pou2f1	12.26	9.1	11.65	8.98
+ENSMUSG00000026565	POU domain, class 2, transcription factor 1 [Source:MGI Symbol;Acc:MGI:101898]	HOMEO0145_Pou2f1_3081.2	Pou2f1	12.26	9.1	11.65	8.98
+ENSMUSG00000010175	prospero homeobox 1 [Source:MGI Symbol;Acc:MGI:97772]	PROX1.Ca9999.1.YY2017.HT-SE2	Prox1	12.73	9.44	8.8	6.79
+ENSMUSG00000010175	prospero homeobox 1 [Source:MGI Symbol;Acc:MGI:97772]	MA0794.1.PROX1	Prox1	12.73	9.44	8.8	6.79
+ENSMUSG00000010175	prospero homeobox 1 [Source:MGI Symbol;Acc:MGI:97772]	PROX1.Me9999.1.YY2017.HT-SE2	Prox1	12.73	9.44	8.8	6.79
+ENSMUSG00000026586	paired related homeobox 1 [Source:MGI Symbol;Acc:MGI:97712]	TA0661_PRRX1_full_dimer	Prrx1	6.89	5.11	6.39	4.92
+ENSMUSG00000026586	paired related homeobox 1 [Source:MGI Symbol;Acc:MGI:97712]	MA0716.1.PRRX1	Prrx1	6.89	5.11	6.39	4.92
+ENSMUSG00000026586	paired related homeobox 1 [Source:MGI Symbol;Acc:MGI:97712]	HOMEO0156_Prrx1_3442.1	Prrx1	6.89	5.11	6.39	4.92
+ENSMUSG00000039476	paired related homeobox 2 [Source:MGI Symbol;Acc:MGI:98218]	MA0075.1.Prrx2	Prrx2	44.86	33.28	38.97	30.04
+ENSMUSG00000039476	paired related homeobox 2 [Source:MGI Symbol;Acc:MGI:98218]	MA0075.2.Prrx2	Prrx2	44.86	33.28	38.97	30.04
+ENSMUSG00000039476	paired related homeobox 2 [Source:MGI Symbol;Acc:MGI:98218]	HOMEO0157_Prrx2_3072.1	Prrx2	44.86	33.28	38.97	30.04
+ENSMUSG00000039476	paired related homeobox 2 [Source:MGI Symbol;Acc:MGI:98218]	TA0663_Prrx2_DBD_monomer	Prrx2	44.86	33.28	38.97	30.04
+ENSMUSG00000039476	paired related homeobox 2 [Source:MGI Symbol;Acc:MGI:98218]	PRRX2.Me9913.2.YY2017.HT-SE2	Prrx2	44.86	33.28	38.97	30.04
+ENSMUSG00000039476	paired related homeobox 2 [Source:MGI Symbol;Acc:MGI:98218]	PRRX2.Ca9913.3.YY2017.HT-SE2	Prrx2	44.86	33.28	38.97	30.04
+ENSMUSG00000039476	paired related homeobox 2 [Source:MGI Symbol;Acc:MGI:98218]	PRRX2.Me9913.1.YY2017.HT-SE2	Prrx2	44.86	33.28	38.97	30.04
+ENSMUSG00000039476	paired related homeobox 2 [Source:MGI Symbol;Acc:MGI:98218]	PRRX2.Ca9913.1.YY2017.HT-SE2	Prrx2	44.86	33.28	38.97	30.04
+ENSMUSG00000039476	paired related homeobox 2 [Source:MGI Symbol;Acc:MGI:98218]	PRRX2_HUMAN.H11MO.0.C	Prrx2	44.86	33.28	38.97	30.04
+ENSMUSG00000039476	paired related homeobox 2 [Source:MGI Symbol;Acc:MGI:98218]	PRRX2.Me9913.3.YY2017.HT-SE2	Prrx2	44.86	33.28	38.97	30.04
+ENSMUSG00000039476	paired related homeobox 2 [Source:MGI Symbol;Acc:MGI:98218]	PRRX2.Me9913.4.YY2017.HT-SE2	Prrx2	44.86	33.28	38.97	30.04
+ENSMUSG00000039476	paired related homeobox 2 [Source:MGI Symbol;Acc:MGI:98218]	PRRX2.Ca9913.2.YY2017.HT-SE2	Prrx2	44.86	33.28	38.97	30.04
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	RARA.Ca9645.1.YY2017.HT-SE2	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	RARA.Me9645.2.YY2017.HT-SE2	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	RARA.Ca9645.3.YY2017.HT-SE2	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	RARA.Ca9645.2.YY2017.HT-SE2	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	RARA_HUMAN.H11MO.0.A	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	BU0053.Rara_primary	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	TA0727_RARA_full_dimer	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	RARA.Me9645.1.YY2017.HT-SE2	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	TA0728_RARA_full_dimer	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	TA0747_Rara_DBD_dimer	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	TA0748_Rara_DBD_dimer	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	TA0729_RARA_full_dimer	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	RARA.Me9645.3.YY2017.HT-SE2	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	TA0724_RARA_DBD_dimer	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	MA0729.1.RARA	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	MA0730.1.RARA.var.2	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	SMiLE_RARa	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000037992	retinoic acid receptor, alpha [Source:MGI Symbol;Acc:MGI:97856]	TA0746_Rara_DBD_dimer	Rara	25.97	19.26	24.4	18.81
+ENSMUSG00000017491	retinoic acid receptor, beta [Source:MGI Symbol;Acc:MGI:97857]	RARB.Me9644.3.YY2017.HT-SE2	Rarb	13.45	9.98	12.67	9.77
+ENSMUSG00000017491	retinoic acid receptor, beta [Source:MGI Symbol;Acc:MGI:97857]	RARB.Me9644.2.YY2017.HT-SE2	Rarb	13.45	9.98	12.67	9.77
+ENSMUSG00000017491	retinoic acid receptor, beta [Source:MGI Symbol;Acc:MGI:97857]	MA0857.1.Rarb	Rarb	13.45	9.98	12.67	9.77
+ENSMUSG00000017491	retinoic acid receptor, beta [Source:MGI Symbol;Acc:MGI:97857]	TA0850_RARB_full_dimer	Rarb	13.45	9.98	12.67	9.77
+ENSMUSG00000017491	retinoic acid receptor, beta [Source:MGI Symbol;Acc:MGI:97857]	TA0750_Rarb_DBD_dimer	Rarb	13.45	9.98	12.67	9.77
+ENSMUSG00000017491	retinoic acid receptor, beta [Source:MGI Symbol;Acc:MGI:97857]	RARB.Me9644.1.YY2017.HT-SE2	Rarb	13.45	9.98	12.67	9.77
+ENSMUSG00000017491	retinoic acid receptor, beta [Source:MGI Symbol;Acc:MGI:97857]	MA0858.1.Rarb.var.2	Rarb	13.45	9.98	12.67	9.77
+ENSMUSG00000017491	retinoic acid receptor, beta [Source:MGI Symbol;Acc:MGI:97857]	RARB.Ca9644.1.YY2017.HT-SE2	Rarb	13.45	9.98	12.67	9.77
+ENSMUSG00000017491	retinoic acid receptor, beta [Source:MGI Symbol;Acc:MGI:97857]	RARB.Ca9644.3.YY2017.HT-SE2	Rarb	13.45	9.98	12.67	9.77
+ENSMUSG00000017491	retinoic acid receptor, beta [Source:MGI Symbol;Acc:MGI:97857]	RARB.Ca9644.2.YY2017.HT-SE2	Rarb	13.45	9.98	12.67	9.77
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	SMiLE_RARg	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	TA0732_RARG_DBD_dimer	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	MA0859.1.Rarg	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	TA0735_RARG_full_dimer	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	TA0753_Rarg_DBD_dimer	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	RARG.Me9643.1.YY2017.HT-SE2	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	RARG.Me9643.3.YY2017.HT-SE2	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	TA0733_RARG_full_dimer	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	TA0730_RARG_DBD_dimer	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	TA0734_RARG_full_dimer	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	MA0860.1.Rarg.var.2	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	RARG.Ca9643.1.YY2017.HT-SE2	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	RARG.Ca9643.3.YY2017.HT-SE2	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	RARG.Me9643.2.YY2017.HT-SE2	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	RARG.Ca9643.2.YY2017.HT-SE2	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	TA0731_RARG_DBD_dimer	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000001288	retinoic acid receptor, gamma [Source:MGI Symbol;Acc:MGI:97858]	RARG_HUMAN.H11MO.0.B	Rarg	9.51	7.05	7.84	6.04
+ENSMUSG00000039191	recombination signal binding protein for immunoglobulin kappa J region [Source:MGI Symbol;Acc:MGI:96522]	MA1116.1.RBPJ	Rbpj	18.65	13.83	15.34	11.82
+ENSMUSG00000039191	recombination signal binding protein for immunoglobulin kappa J region [Source:MGI Symbol;Acc:MGI:96522]	SUH_HUMAN.H11MO.0.A	Rbpj	18.65	13.83	15.34	11.82
+ENSMUSG00000024927	v-rel reticuloendotheliosis viral oncogene homolog A (avian) [Source:MGI Symbol;Acc:MGI:103290]	MA0107.1.RELA	Rela	25.35	18.8	25.26	19.47
+ENSMUSG00000024927	v-rel reticuloendotheliosis viral oncogene homolog A (avian) [Source:MGI Symbol;Acc:MGI:103290]	TF65_HUMAN.H11MO.0.A	Rela	25.35	18.8	25.26	19.47
+ENSMUSG00000029249	RE1-silencing transcription factor [Source:MGI Symbol;Acc:MGI:104897]	REST_HUMAN.H11MO.0.A	Rest	20.52	15.22	20.24	15.6
+ENSMUSG00000029249	RE1-silencing transcription factor [Source:MGI Symbol;Acc:MGI:104897]	MA0138.2.REST	Rest	20.52	15.22	20.24	15.6
+ENSMUSG00000029249	RE1-silencing transcription factor [Source:MGI Symbol;Acc:MGI:104897]	MA0138.1.REST	Rest	20.52	15.22	20.24	15.6
+ENSMUSG00000031706	regulatory factor X, 1 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:105982]	RFX1_HUMAN.H11MO.0.B	Rfx1	5.62	4.17	5.27	4.06
+ENSMUSG00000031706	regulatory factor X, 1 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:105982]	MA0509.1.Rfx1	Rfx1	5.62	4.17	5.27	4.06
+ENSMUSG00000031706	regulatory factor X, 1 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:105982]	RFX1.Me9612.1.YY2017.HT-SE2	Rfx1	5.62	4.17	5.27	4.06
+ENSMUSG00000031706	regulatory factor X, 1 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:105982]	RFX1.Ca9612.1.YY2017.HT-SE2	Rfx1	5.62	4.17	5.27	4.06
+ENSMUSG00000040929	regulatory factor X, 3 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:106582]	RFX3.Ca9610.1.YY2017.HT-SE2	Rfx3	5.86	4.35	7.21	5.56
+ENSMUSG00000040929	regulatory factor X, 3 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:106582]	TA0274_Rfx3_DBD_dimer	Rfx3	5.86	4.35	7.21	5.56
+ENSMUSG00000040929	regulatory factor X, 3 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:106582]	RFX3_HUMAN.H11MO.0.B	Rfx3	5.86	4.35	7.21	5.56
+ENSMUSG00000040929	regulatory factor X, 3 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:106582]	TA0267_RFX3_DBD_dimer	Rfx3	5.86	4.35	7.21	5.56
+ENSMUSG00000040929	regulatory factor X, 3 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:106582]	RFX3.Me9610.1.YY2017.HT-SE2	Rfx3	5.86	4.35	7.21	5.56
+ENSMUSG00000040929	regulatory factor X, 3 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:106582]	BU0054.Rfx3_primary	Rfx3	5.86	4.35	7.21	5.56
+ENSMUSG00000040929	regulatory factor X, 3 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:106582]	RFX3.Ca9610.2.YY2017.HT-SE2	Rfx3	5.86	4.35	7.21	5.56
+ENSMUSG00000040929	regulatory factor X, 3 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:106582]	MA0798.1.RFX3	Rfx3	5.86	4.35	7.21	5.56
+ENSMUSG00000040929	regulatory factor X, 3 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:106582]	RFX3.Me9610.2.YY2017.HT-SE2	Rfx3	5.86	4.35	7.21	5.56
+ENSMUSG00000005774	regulatory factor X, 5 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:1858421]	MA0510.2.RFX5	Rfx5	5.58	4.14	4.7	3.62
+ENSMUSG00000005774	regulatory factor X, 5 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:1858421]	RFX5_HUMAN.H11MO.0.A	Rfx5	5.58	4.14	4.7	3.62
+ENSMUSG00000005774	regulatory factor X, 5 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:1858421]	TA0271_RFX5_DBD_dimer	Rfx5	5.58	4.14	4.7	3.62
+ENSMUSG00000005774	regulatory factor X, 5 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:1858421]	RFX5.Me9608.1.YY2017.HT-SE2	Rfx5	5.58	4.14	4.7	3.62
+ENSMUSG00000005774	regulatory factor X, 5 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:1858421]	RFX5.Ca9608.2.YY2017.HT-SE2	Rfx5	5.58	4.14	4.7	3.62
+ENSMUSG00000005774	regulatory factor X, 5 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:1858421]	RFX5.Me9608.2.YY2017.HT-SE2	Rfx5	5.58	4.14	4.7	3.62
+ENSMUSG00000005774	regulatory factor X, 5 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:1858421]	MA0510.1.RFX5	Rfx5	5.58	4.14	4.7	3.62
+ENSMUSG00000005774	regulatory factor X, 5 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:1858421]	RFX5.Ca9608.1.YY2017.HT-SE2	Rfx5	5.58	4.14	4.7	3.62
+ENSMUSG00000037674	regulatory factor X, 7 [Source:MGI Symbol;Acc:MGI:2442675]	RFX7.Me9607.1.YY2017.HT-SE2	Rfx7	7.74	5.74	8.53	6.57
+ENSMUSG00000037674	regulatory factor X, 7 [Source:MGI Symbol;Acc:MGI:2442675]	RFX7.Ca9607.1.YY2017.HT-SE2	Rfx7	7.74	5.74	8.53	6.57
+ENSMUSG00000037674	regulatory factor X, 7 [Source:MGI Symbol;Acc:MGI:2442675]	BU0056.Rfxdc2_primary	Rfx7	7.74	5.74	8.53	6.57
+ENSMUSG00000032238	RAR-related orphan receptor alpha [Source:MGI Symbol;Acc:MGI:104661]	MA0071.1.RORA	Rora	4.17	3.09	4.54	3.5
+ENSMUSG00000032238	RAR-related orphan receptor alpha [Source:MGI Symbol;Acc:MGI:104661]	RORA_HUMAN.H11MO.0.C	Rora	4.17	3.09	4.54	3.5
+ENSMUSG00000032238	RAR-related orphan receptor alpha [Source:MGI Symbol;Acc:MGI:104661]	TA0736_RORA_DBD_dimer	Rora	4.17	3.09	4.54	3.5
+ENSMUSG00000032238	RAR-related orphan receptor alpha [Source:MGI Symbol;Acc:MGI:104661]	TA0737_RORA_DBD_dimer	Rora	4.17	3.09	4.54	3.5
+ENSMUSG00000032238	RAR-related orphan receptor alpha [Source:MGI Symbol;Acc:MGI:104661]	MA0072.1.RORA.var.2	Rora	4.17	3.09	4.54	3.5
+ENSMUSG00000039087	ras responsive element binding protein 1 [Source:MGI Symbol;Acc:MGI:2443664]	MA0073.1.RREB1	Rreb1	8.07	5.98	11.61	8.95
+ENSMUSG00000015846	retinoid X receptor alpha [Source:MGI Symbol;Acc:MGI:98214]	RXRA.Ca9651.1.YY2017.HT-SE2	Rxra	3.66	2.72	2.92	2.25
+ENSMUSG00000015846	retinoid X receptor alpha [Source:MGI Symbol;Acc:MGI:98214]	SMiLE_RXRa_001	Rxra	3.66	2.72	2.92	2.25
+ENSMUSG00000015846	retinoid X receptor alpha [Source:MGI Symbol;Acc:MGI:98214]	TA0755_Rxra_DBD_dimer	Rxra	3.66	2.72	2.92	2.25
+ENSMUSG00000015846	retinoid X receptor alpha [Source:MGI Symbol;Acc:MGI:98214]	TA0741_RXRA_full_dimer	Rxra	3.66	2.72	2.92	2.25
+ENSMUSG00000015846	retinoid X receptor alpha [Source:MGI Symbol;Acc:MGI:98214]	TA0756_Rxra_DBD_dimer	Rxra	3.66	2.72	2.92	2.25
+ENSMUSG00000015846	retinoid X receptor alpha [Source:MGI Symbol;Acc:MGI:98214]	BU0057.Rxra_primary	Rxra	3.66	2.72	2.92	2.25
+ENSMUSG00000015846	retinoid X receptor alpha [Source:MGI Symbol;Acc:MGI:98214]	RXRA_HUMAN.H11MO.0.A	Rxra	3.66	2.72	2.92	2.25
+ENSMUSG00000015846	retinoid X receptor alpha [Source:MGI Symbol;Acc:MGI:98214]	MA0512.1.Rxra	Rxra	3.66	2.72	2.92	2.25
+ENSMUSG00000015846	retinoid X receptor alpha [Source:MGI Symbol;Acc:MGI:98214]	MA0512.2.Rxra	Rxra	3.66	2.72	2.92	2.25
+ENSMUSG00000015846	retinoid X receptor alpha [Source:MGI Symbol;Acc:MGI:98214]	SMiLE_RXRa_002	Rxra	3.66	2.72	2.92	2.25
+ENSMUSG00000015846	retinoid X receptor alpha [Source:MGI Symbol;Acc:MGI:98214]	RXRA.Me9651.1.YY2017.HT-SE2	Rxra	3.66	2.72	2.92	2.25
+ENSMUSG00000039656	retinoid X receptor beta [Source:MGI Symbol;Acc:MGI:98215]	RXRB.Me9649.2.YY2017.HT-SE2	Rxrb	10.34	7.67	9.63	7.42
+ENSMUSG00000039656	retinoid X receptor beta [Source:MGI Symbol;Acc:MGI:98215]	RXRB.Me9649.1.YY2017.HT-SE2	Rxrb	10.34	7.67	9.63	7.42
+ENSMUSG00000039656	retinoid X receptor beta [Source:MGI Symbol;Acc:MGI:98215]	MA0855.1.RXRB	Rxrb	10.34	7.67	9.63	7.42
+ENSMUSG00000039656	retinoid X receptor beta [Source:MGI Symbol;Acc:MGI:98215]	RXRB.Ca9649.2.YY2017.HT-SE2	Rxrb	10.34	7.67	9.63	7.42
+ENSMUSG00000039656	retinoid X receptor beta [Source:MGI Symbol;Acc:MGI:98215]	RXRB.Ca9649.1.YY2017.HT-SE2	Rxrb	10.34	7.67	9.63	7.42
+ENSMUSG00000039656	retinoid X receptor beta [Source:MGI Symbol;Acc:MGI:98215]	RXRB_HUMAN.H11MO.0.C	Rxrb	10.34	7.67	9.63	7.42
+ENSMUSG00000027833	short stature homeobox 2 [Source:MGI Symbol;Acc:MGI:1201673]	MA0720.1.Shox2	Shox2	9.47	7.02	8.31	6.41
+ENSMUSG00000027833	short stature homeobox 2 [Source:MGI Symbol;Acc:MGI:1201673]	HOMEO0162_Shox2_2641.2	Shox2	9.47	7.02	8.31	6.41
+ENSMUSG00000024563	SMAD family member 2 [Source:MGI Symbol;Acc:MGI:108051]	SMAD2_HUMAN.H11MO.0.A	Smad2	37.22	27.61	30.93	23.85
+ENSMUSG00000032402	SMAD family member 3 [Source:MGI Symbol;Acc:MGI:1201674]	MA0795.1.SMAD3	Smad3	8.12	6.03	6.79	5.24
+ENSMUSG00000032402	SMAD family member 3 [Source:MGI Symbol;Acc:MGI:1201674]	BU0060.Smad3_primary	Smad3	8.12	6.03	6.79	5.24
+ENSMUSG00000032402	SMAD family member 3 [Source:MGI Symbol;Acc:MGI:1201674]	SMAD3_HUMAN.H11MO.0.B	Smad3	8.12	6.03	6.79	5.24
+ENSMUSG00000024515	SMAD family member 4 [Source:MGI Symbol;Acc:MGI:894293]	SMAD4_HUMAN.H11MO.0.B	Smad4	11.06	8.2	14.4	11.1
+ENSMUSG00000024515	SMAD family member 4 [Source:MGI Symbol;Acc:MGI:894293]	MA1153.1.Smad4	Smad4	11.06	8.2	14.4	11.1
+ENSMUSG00000021540	SMAD family member 5 [Source:MGI Symbol;Acc:MGI:1328787]	SMAD5.Ca9678.1.YY2017.HT-SE2	Smad5	18.67	13.85	17.94	13.83
+ENSMUSG00000021540	SMAD family member 5 [Source:MGI Symbol;Acc:MGI:1328787]	SMAD5.Me9678.1.YY2017.HT-SE2	Smad5	18.67	13.85	17.94	13.83
+ENSMUSG00000042821	snail family zinc finger 1 [Source:MGI Symbol;Acc:MGI:98330]	SNAI1.Ca9493.1.YY2017.HT-SE2	Snai1	16.38	12.15	14.75	11.37
+ENSMUSG00000042821	snail family zinc finger 1 [Source:MGI Symbol;Acc:MGI:98330]	SNAI1.Ca9493.2.YY2017.HT-SE2	Snai1	16.38	12.15	14.75	11.37
+ENSMUSG00000042821	snail family zinc finger 1 [Source:MGI Symbol;Acc:MGI:98330]	SNAI1.Me9493.2.YY2017.HT-SE2	Snai1	16.38	12.15	14.75	11.37
+ENSMUSG00000042821	snail family zinc finger 1 [Source:MGI Symbol;Acc:MGI:98330]	SNAI1.Me9493.1.YY2017.HT-SE2	Snai1	16.38	12.15	14.75	11.37
+ENSMUSG00000022676	snail family zinc finger 2 [Source:MGI Symbol;Acc:MGI:1096393]	SNAI2.Me9492.1.YY2017.HT-SE2	Snai2	17.96	13.32	18.37	14.16
+ENSMUSG00000022676	snail family zinc finger 2 [Source:MGI Symbol;Acc:MGI:1096393]	SNAI2_HUMAN.H11MO.0.A	Snai2	17.96	13.32	18.37	14.16
+ENSMUSG00000022676	snail family zinc finger 2 [Source:MGI Symbol;Acc:MGI:1096393]	MA0745.1.SNAI2	Snai2	17.96	13.32	18.37	14.16
+ENSMUSG00000022676	snail family zinc finger 2 [Source:MGI Symbol;Acc:MGI:1096393]	SNAI2.Ca9492.1.YY2017.HT-SE2	Snai2	17.96	13.32	18.37	14.16
+ENSMUSG00000022676	snail family zinc finger 2 [Source:MGI Symbol;Acc:MGI:1096393]	SNAI2.Ca9492.2.YY2017.HT-SE2	Snai2	17.96	13.32	18.37	14.16
+ENSMUSG00000022676	snail family zinc finger 2 [Source:MGI Symbol;Acc:MGI:1096393]	SNAI2.Me9492.2.YY2017.HT-SE2	Snai2	17.96	13.32	18.37	14.16
+ENSMUSG00000063632	SRY (sex determining region Y)-box 11 [Source:MGI Symbol;Acc:MGI:98359]	BU0061.Sox11_primary	Sox11	25.9	19.21	30.46	23.48
+ENSMUSG00000063632	SRY (sex determining region Y)-box 11 [Source:MGI Symbol;Acc:MGI:98359]	MA0869.1.Sox11	Sox11	25.9	19.21	30.46	23.48
+ENSMUSG00000051817	SRY (sex determining region Y)-box 12 [Source:MGI Symbol;Acc:MGI:98360]	SOX12.Ca9696.1.YY2017.HT-SE2	Sox12	9.18	6.81	9.72	7.49
+ENSMUSG00000051817	SRY (sex determining region Y)-box 12 [Source:MGI Symbol;Acc:MGI:98360]	BU0062.Sox12_primary	Sox12	9.18	6.81	9.72	7.49
+ENSMUSG00000051817	SRY (sex determining region Y)-box 12 [Source:MGI Symbol;Acc:MGI:98360]	SOX12.Me9696.1.YY2017.HT-SE2	Sox12	9.18	6.81	9.72	7.49
+ENSMUSG00000046470	SRY (sex determining region Y)-box 18 [Source:MGI Symbol;Acc:MGI:103559]	TA0798_SOX18_full_dimer	Sox18	15.74	11.67	12.97	10
+ENSMUSG00000046470	SRY (sex determining region Y)-box 18 [Source:MGI Symbol;Acc:MGI:103559]	TA0797_SOX18_full_dimer	Sox18	15.74	11.67	12.97	10
+ENSMUSG00000046470	SRY (sex determining region Y)-box 18 [Source:MGI Symbol;Acc:MGI:103559]	TA0799_SOX18_full_dimer	Sox18	15.74	11.67	12.97	10
+ENSMUSG00000046470	SRY (sex determining region Y)-box 18 [Source:MGI Symbol;Acc:MGI:103559]	BU0067.Sox18_primary	Sox18	15.74	11.67	12.97	10
+ENSMUSG00000046470	SRY (sex determining region Y)-box 18 [Source:MGI Symbol;Acc:MGI:103559]	SOX18.Ca9701.1.YY2017.HT-SE2	Sox18	15.74	11.67	12.97	10
+ENSMUSG00000046470	SRY (sex determining region Y)-box 18 [Source:MGI Symbol;Acc:MGI:103559]	SOX18.Me9701.1.YY2017.HT-SE2	Sox18	15.74	11.67	12.97	10
+ENSMUSG00000076431	SRY (sex determining region Y)-box 4 [Source:MGI Symbol;Acc:MGI:98366]	BU0071.Sox4_primary	Sox4	32.37	24.01	32.85	25.33
+ENSMUSG00000076431	SRY (sex determining region Y)-box 4 [Source:MGI Symbol;Acc:MGI:98366]	MA0867.1.SOX4	Sox4	32.37	24.01	32.85	25.33
+ENSMUSG00000076431	SRY (sex determining region Y)-box 4 [Source:MGI Symbol;Acc:MGI:98366]	SOX4.Me9695.1.YY2017.HT-SE2	Sox4	32.37	24.01	32.85	25.33
+ENSMUSG00000076431	SRY (sex determining region Y)-box 4 [Source:MGI Symbol;Acc:MGI:98366]	SOX4.Ca9695.1.YY2017.HT-SE2	Sox4	32.37	24.01	32.85	25.33
+ENSMUSG00000076431	SRY (sex determining region Y)-box 4 [Source:MGI Symbol;Acc:MGI:98366]	SOX4_HUMAN.H11MO.0.B	Sox4	32.37	24.01	32.85	25.33
+ENSMUSG00000041540	SRY (sex determining region Y)-box 5 [Source:MGI Symbol;Acc:MGI:98367]	SMiLE_SOX5	Sox5	8.1	6.01	11.34	8.74
+ENSMUSG00000041540	SRY (sex determining region Y)-box 5 [Source:MGI Symbol;Acc:MGI:98367]	BU0072.Sox5_primary	Sox5	8.1	6.01	11.34	8.74
+ENSMUSG00000041540	SRY (sex determining region Y)-box 5 [Source:MGI Symbol;Acc:MGI:98367]	MA0087.1.Sox5	Sox5	8.1	6.01	11.34	8.74
+ENSMUSG00000041540	SRY (sex determining region Y)-box 5 [Source:MGI Symbol;Acc:MGI:98367]	SOX5_HUMAN.H11MO.0.C	Sox5	8.1	6.01	11.34	8.74
+ENSMUSG00000051910	SRY (sex determining region Y)-box 6 [Source:MGI Symbol;Acc:MGI:98368]	MA0515.1.Sox6	Sox6	23.56	17.48	31.53	24.31
+ENSMUSG00000051910	SRY (sex determining region Y)-box 6 [Source:MGI Symbol;Acc:MGI:98368]	SMiLE_SOX6	Sox6	23.56	17.48	31.53	24.31
+ENSMUSG00000051910	SRY (sex determining region Y)-box 6 [Source:MGI Symbol;Acc:MGI:98368]	AJ_SOX6	Sox6	23.56	17.48	31.53	24.31
+ENSMUSG00000063060	SRY (sex determining region Y)-box 7 [Source:MGI Symbol;Acc:MGI:98369]	TA0811_SOX7_full_dimer	Sox7	15.81	11.73	12.92	9.96
+ENSMUSG00000063060	SRY (sex determining region Y)-box 7 [Source:MGI Symbol;Acc:MGI:98369]	BU0073.Sox7_primary	Sox7	15.81	11.73	12.92	9.96
+ENSMUSG00000063060	SRY (sex determining region Y)-box 7 [Source:MGI Symbol;Acc:MGI:98369]	TA0812_SOX7_full_dimer	Sox7	15.81	11.73	12.92	9.96
+ENSMUSG00000063060	SRY (sex determining region Y)-box 7 [Source:MGI Symbol;Acc:MGI:98369]	SOX7.Me9700.1.YY2017.HT-SE2	Sox7	15.81	11.73	12.92	9.96
+ENSMUSG00000063060	SRY (sex determining region Y)-box 7 [Source:MGI Symbol;Acc:MGI:98369]	TA0813_SOX7_full_dimer	Sox7	15.81	11.73	12.92	9.96
+ENSMUSG00000063060	SRY (sex determining region Y)-box 7 [Source:MGI Symbol;Acc:MGI:98369]	SOX7.Ca9700.1.YY2017.HT-SE2	Sox7	15.81	11.73	12.92	9.96
+ENSMUSG00000000567	SRY (sex determining region Y)-box 9 [Source:MGI Symbol;Acc:MGI:98371]	TA0166_SOX9_DBD_monomer	Sox9	31.46	23.34	29.76	22.94
+ENSMUSG00000000567	SRY (sex determining region Y)-box 9 [Source:MGI Symbol;Acc:MGI:98371]	TA0827_SOX9_full_dimer	Sox9	31.46	23.34	29.76	22.94
+ENSMUSG00000000567	SRY (sex determining region Y)-box 9 [Source:MGI Symbol;Acc:MGI:98371]	SOX9_HUMAN.H11MO.0.B	Sox9	31.46	23.34	29.76	22.94
+ENSMUSG00000000567	SRY (sex determining region Y)-box 9 [Source:MGI Symbol;Acc:MGI:98371]	SOX9.Me9699.1.YY2017.HT-SE2	Sox9	31.46	23.34	29.76	22.94
+ENSMUSG00000000567	SRY (sex determining region Y)-box 9 [Source:MGI Symbol;Acc:MGI:98371]	TA0823_SOX9_full_dimer	Sox9	31.46	23.34	29.76	22.94
+ENSMUSG00000000567	SRY (sex determining region Y)-box 9 [Source:MGI Symbol;Acc:MGI:98371]	SOX9.Ca9699.1.YY2017.HT-SE2	Sox9	31.46	23.34	29.76	22.94
+ENSMUSG00000000567	SRY (sex determining region Y)-box 9 [Source:MGI Symbol;Acc:MGI:98371]	MA0077.1.SOX9	Sox9	31.46	23.34	29.76	22.94
+ENSMUSG00000000567	SRY (sex determining region Y)-box 9 [Source:MGI Symbol;Acc:MGI:98371]	TA0822_SOX9_full_dimer	Sox9	31.46	23.34	29.76	22.94
+ENSMUSG00000000567	SRY (sex determining region Y)-box 9 [Source:MGI Symbol;Acc:MGI:98371]	TA0825_SOX9_full_dimer	Sox9	31.46	23.34	29.76	22.94
+ENSMUSG00000000567	SRY (sex determining region Y)-box 9 [Source:MGI Symbol;Acc:MGI:98371]	TA0824_SOX9_full_dimer	Sox9	31.46	23.34	29.76	22.94
+ENSMUSG00000000567	SRY (sex determining region Y)-box 9 [Source:MGI Symbol;Acc:MGI:98371]	TA0826_SOX9_full_dimer	Sox9	31.46	23.34	29.76	22.94
+ENSMUSG00000001280	trans-acting transcription factor 1 [Source:MGI Symbol;Acc:MGI:98372]	SP1_HUMAN.H11MO.0.A	Sp1	5.77	4.28	5.26	4.06
+ENSMUSG00000001280	trans-acting transcription factor 1 [Source:MGI Symbol;Acc:MGI:98372]	MA0079.3.SP1	Sp1	5.77	4.28	5.26	4.06
+ENSMUSG00000001280	trans-acting transcription factor 1 [Source:MGI Symbol;Acc:MGI:98372]	TA0059_SP1_DBD_monomer	Sp1	5.77	4.28	5.26	4.06
+ENSMUSG00000001280	trans-acting transcription factor 1 [Source:MGI Symbol;Acc:MGI:98372]	SP1.Ca9534.1.YY2017.HT-SE2	Sp1	5.77	4.28	5.26	4.06
+ENSMUSG00000001280	trans-acting transcription factor 1 [Source:MGI Symbol;Acc:MGI:98372]	MA0079.2.SP1	Sp1	5.77	4.28	5.26	4.06
+ENSMUSG00000027109	trans-acting transcription factor 3 [Source:MGI Symbol;Acc:MGI:1277166]	MA0746.1.SP3	Sp3	26.25	19.48	28.09	21.65
+ENSMUSG00000027109	trans-acting transcription factor 3 [Source:MGI Symbol;Acc:MGI:1277166]	SP3.Ca9533.1.YY2017.HT-SE2	Sp3	26.25	19.48	28.09	21.65
+ENSMUSG00000027109	trans-acting transcription factor 3 [Source:MGI Symbol;Acc:MGI:1277166]	SP3.Me9533.1.YY2017.HT-SE2	Sp3	26.25	19.48	28.09	21.65
+ENSMUSG00000027109	trans-acting transcription factor 3 [Source:MGI Symbol;Acc:MGI:1277166]	SP3_HUMAN.H11MO.0.B	Sp3	26.25	19.48	28.09	21.65
+ENSMUSG00000025323	trans-acting transcription factor 4 [Source:MGI Symbol;Acc:MGI:107595]	MA0685.1.SP4	Sp4	7.91	5.87	6.59	5.08
+ENSMUSG00000025323	trans-acting transcription factor 4 [Source:MGI Symbol;Acc:MGI:107595]	BU0076.Sp4_primary	Sp4	7.91	5.87	6.59	5.08
+ENSMUSG00000025323	trans-acting transcription factor 4 [Source:MGI Symbol;Acc:MGI:107595]	SMiLE_SP4	Sp4	7.91	5.87	6.59	5.08
+ENSMUSG00000025323	trans-acting transcription factor 4 [Source:MGI Symbol;Acc:MGI:107595]	SP4_HUMAN.H11MO.0.A	Sp4	7.91	5.87	6.59	5.08
+ENSMUSG00000020538	sterol regulatory element binding transcription factor 1 [Source:MGI Symbol;Acc:MGI:107606]	MA0595.1.SREBF1	Srebf1	29.14	21.62	27.21	20.98
+ENSMUSG00000020538	sterol regulatory element binding transcription factor 1 [Source:MGI Symbol;Acc:MGI:107606]	SREBF1.Me9851.2.YY2017.HT-SE2	Srebf1	29.14	21.62	27.21	20.98
+ENSMUSG00000020538	sterol regulatory element binding transcription factor 1 [Source:MGI Symbol;Acc:MGI:107606]	MA0829.1.Srebf1.var.2	Srebf1	29.14	21.62	27.21	20.98
+ENSMUSG00000020538	sterol regulatory element binding transcription factor 1 [Source:MGI Symbol;Acc:MGI:107606]	SREBF1.Ca9851.2.YY2017.HT-SE2	Srebf1	29.14	21.62	27.21	20.98
+ENSMUSG00000020538	sterol regulatory element binding transcription factor 1 [Source:MGI Symbol;Acc:MGI:107606]	SREBF1.Ca9851.1.YY2017.HT-SE2	Srebf1	29.14	21.62	27.21	20.98
+ENSMUSG00000020538	sterol regulatory element binding transcription factor 1 [Source:MGI Symbol;Acc:MGI:107606]	SREBF1.Me9851.1.YY2017.HT-SE2	Srebf1	29.14	21.62	27.21	20.98
+ENSMUSG00000020538	sterol regulatory element binding transcription factor 1 [Source:MGI Symbol;Acc:MGI:107606]	SRBP1_HUMAN.H11MO.0.A	Srebf1	29.14	21.62	27.21	20.98
+ENSMUSG00000022463	sterol regulatory element binding factor 2 [Source:MGI Symbol;Acc:MGI:107585]	MA0596.1.SREBF2	Srebf2	62.57	46.42	57.48	44.31
+ENSMUSG00000022463	sterol regulatory element binding factor 2 [Source:MGI Symbol;Acc:MGI:107585]	SREBF2.Me9850.1.YY2017.HT-SE2	Srebf2	62.57	46.42	57.48	44.31
+ENSMUSG00000022463	sterol regulatory element binding factor 2 [Source:MGI Symbol;Acc:MGI:107585]	SREBF2.Ca9850.1.YY2017.HT-SE2	Srebf2	62.57	46.42	57.48	44.31
+ENSMUSG00000022463	sterol regulatory element binding factor 2 [Source:MGI Symbol;Acc:MGI:107585]	SREBF2.Ca9850.2.YY2017.HT-SE2	Srebf2	62.57	46.42	57.48	44.31
+ENSMUSG00000022463	sterol regulatory element binding factor 2 [Source:MGI Symbol;Acc:MGI:107585]	SREBF2.Me9850.2.YY2017.HT-SE2	Srebf2	62.57	46.42	57.48	44.31
+ENSMUSG00000022463	sterol regulatory element binding factor 2 [Source:MGI Symbol;Acc:MGI:107585]	SRBP2_HUMAN.H11MO.0.B	Srebf2	62.57	46.42	57.48	44.31
+ENSMUSG00000022463	sterol regulatory element binding factor 2 [Source:MGI Symbol;Acc:MGI:107585]	MA0828.1.SREBF2.var.2	Srebf2	62.57	46.42	57.48	44.31
+ENSMUSG00000015605	serum response factor [Source:MGI Symbol;Acc:MGI:106658]	SRF_HUMAN.H11MO.0.A	Srf	10.37	7.69	10.45	8.05
+ENSMUSG00000015605	serum response factor [Source:MGI Symbol;Acc:MGI:106658]	MA0083.3.SRF	Srf	10.37	7.69	10.45	8.05
+ENSMUSG00000015605	serum response factor [Source:MGI Symbol;Acc:MGI:106658]	TA0189_SRF_DBD_dimer	Srf	10.37	7.69	10.45	8.05
+ENSMUSG00000015605	serum response factor [Source:MGI Symbol;Acc:MGI:106658]	MA0083.2.SRF	Srf	10.37	7.69	10.45	8.05
+ENSMUSG00000015605	serum response factor [Source:MGI Symbol;Acc:MGI:106658]	SRF.Me9677.1.YY2017.HT-SE2	Srf	10.37	7.69	10.45	8.05
+ENSMUSG00000015605	serum response factor [Source:MGI Symbol;Acc:MGI:106658]	MA0083.1.SRF	Srf	10.37	7.69	10.45	8.05
+ENSMUSG00000015605	serum response factor [Source:MGI Symbol;Acc:MGI:106658]	SRF.Ca9677.1.YY2017.HT-SE2	Srf	10.37	7.69	10.45	8.05
+ENSMUSG00000015605	serum response factor [Source:MGI Symbol;Acc:MGI:106658]	BU0078.Srf_primary	Srf	10.37	7.69	10.45	8.05
+ENSMUSG00000026104	signal transducer and activator of transcription 1 [Source:MGI Symbol;Acc:MGI:103063]	STAT1_HUMAN.H11MO.0.A	Stat1	22.17	16.45	19.9	15.34
+ENSMUSG00000026104	signal transducer and activator of transcription 1 [Source:MGI Symbol;Acc:MGI:103063]	MA0137.3.STAT1	Stat1	22.17	16.45	19.9	15.34
+ENSMUSG00000026104	signal transducer and activator of transcription 1 [Source:MGI Symbol;Acc:MGI:103063]	MA0137.1.STAT1	Stat1	22.17	16.45	19.9	15.34
+ENSMUSG00000026104	signal transducer and activator of transcription 1 [Source:MGI Symbol;Acc:MGI:103063]	MA0137.2.STAT1	Stat1	22.17	16.45	19.9	15.34
+ENSMUSG00000040033	signal transducer and activator of transcription 2 [Source:MGI Symbol;Acc:MGI:103039]	STAT2_HUMAN.H11MO.0.A	Stat2	7.82	5.8	5.99	4.62
+ENSMUSG00000004040	signal transducer and activator of transcription 3 [Source:MGI Symbol;Acc:MGI:103038]	STAT3_HUMAN.H11MO.0.A	Stat3	34.81	25.82	31.43	24.23
+ENSMUSG00000004040	signal transducer and activator of transcription 3 [Source:MGI Symbol;Acc:MGI:103038]	MA0144.2.STAT3	Stat3	34.81	25.82	31.43	24.23
+ENSMUSG00000004040	signal transducer and activator of transcription 3 [Source:MGI Symbol;Acc:MGI:103038]	MA0144.1.Stat3	Stat3	34.81	25.82	31.43	24.23
+ENSMUSG00000004043	signal transducer and activator of transcription 5A [Source:MGI Symbol;Acc:MGI:103036]	STA5A_HUMAN.H11MO.0.A	Stat5a	4.17	3.09	3.9	3
+ENSMUSG00000020919	signal transducer and activator of transcription 5B [Source:MGI Symbol;Acc:MGI:103035]	STA5B_HUMAN.H11MO.0.A	Stat5b	22.72	16.86	18.45	14.22
+ENSMUSG00000002147	signal transducer and activator of transcription 6 [Source:MGI Symbol;Acc:MGI:103034]	MA0520.1.Stat6	Stat6	19.26	14.29	14.64	11.28
+ENSMUSG00000002147	signal transducer and activator of transcription 6 [Source:MGI Symbol;Acc:MGI:103034]	STAT6_HUMAN.H11MO.0.B	Stat6	19.26	14.29	14.64	11.28
+ENSMUSG00000028717	T cell acute lymphocytic leukemia 1 [Source:MGI Symbol;Acc:MGI:98480]	TAL1_HUMAN.H11MO.0.A	Tal1	7.17	5.32	9.86	7.6
+ENSMUSG00000014767	TATA box binding protein [Source:MGI Symbol;Acc:MGI:101838]	BU0080.Tbp_primary	Tbp	22.5	16.69	27.96	21.56
+ENSMUSG00000014767	TATA box binding protein [Source:MGI Symbol;Acc:MGI:101838]	MA0108.2.TBP	Tbp	22.5	16.69	27.96	21.56
+ENSMUSG00000014767	TATA box binding protein [Source:MGI Symbol;Acc:MGI:101838]	MA0108.1.TBP	Tbp	22.5	16.69	27.96	21.56
+ENSMUSG00000014767	TATA box binding protein [Source:MGI Symbol;Acc:MGI:101838]	TBP_HUMAN.H11MO.0.A	Tbp	22.5	16.69	27.96	21.56
+ENSMUSG00000014767	TATA box binding protein [Source:MGI Symbol;Acc:MGI:101838]	BMC_TATA_box	Tbp	22.5	16.69	27.96	21.56
+ENSMUSG00000032419	T-box18 [Source:MGI Symbol;Acc:MGI:1923615]	TBX18.Ca9585.1.YY2017.HT-SE2	Tbx18	11.31	8.39	11.68	9.01
+ENSMUSG00000032419	T-box18 [Source:MGI Symbol;Acc:MGI:1923615]	TBX18.Me9585.1.YY2017.HT-SE2	Tbx18	11.31	8.39	11.68	9.01
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TBX20.Ca9587.4.YY2017.HT-SE2	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TBX20.Ca9587.3.YY2017.HT-SE2	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TBX20.Ca9587.2.YY2017.HT-SE2	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TBX20.Me9587.1.YY2017.HT-SE2	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TA0302_TBX20_DBD_monomer	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TBX20.Me9587.2.YY2017.HT-SE2	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TBX20.Ca9587.1.YY2017.HT-SE2	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TBX20.Me9587.3.YY2017.HT-SE2	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	MA0689.1.TBX20	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TA0845_TBX20_full_dimer	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TBX20.Me9587.4.YY2017.HT-SE2	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TBX20_MOUSE.H11MO.0.C	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TA0301_TBX20_DBD_dimer	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000031965	T-box 20 [Source:MGI Symbol;Acc:MGI:1888496]	TA0300_TBX20_DBD_dimer	Tbx20	42.58	31.59	56.19	43.32
+ENSMUSG00000018604	T-box 3 [Source:MGI Symbol;Acc:MGI:98495]	TBX3.Ca9589.1.YY2017.HT-SE2	Tbx3	10.33	7.66	8.96	6.91
+ENSMUSG00000018604	T-box 3 [Source:MGI Symbol;Acc:MGI:98495]	TBX3_HUMAN.H11MO.0.C	Tbx3	10.33	7.66	8.96	6.91
+ENSMUSG00000018604	T-box 3 [Source:MGI Symbol;Acc:MGI:98495]	TBX3.Me9589.1.YY2017.HT-SE2	Tbx3	10.33	7.66	8.96	6.91
+ENSMUSG00000018604	T-box 3 [Source:MGI Symbol;Acc:MGI:98495]	AJ_TBX3	Tbx3	10.33	7.66	8.96	6.91
+ENSMUSG00000018263	T-box 5 [Source:MGI Symbol;Acc:MGI:102541]	TA0315_TBX5_DBD_dimer	Tbx5	29.22	21.68	28.01	21.59
+ENSMUSG00000018263	T-box 5 [Source:MGI Symbol;Acc:MGI:102541]	MA0807.1.TBX5	Tbx5	29.22	21.68	28.01	21.59
+ENSMUSG00000032228	transcription factor 12 [Source:MGI Symbol;Acc:MGI:101877]	MA0521.1.Tcf12	Tcf12	33.58	24.91	36.15	27.87
+ENSMUSG00000032228	transcription factor 12 [Source:MGI Symbol;Acc:MGI:101877]	TCF12.Me9827.1.YY2017.HT-SE2	Tcf12	33.58	24.91	36.15	27.87
+ENSMUSG00000032228	transcription factor 12 [Source:MGI Symbol;Acc:MGI:101877]	HTF4_HUMAN.H11MO.0.A	Tcf12	33.58	24.91	36.15	27.87
+ENSMUSG00000032228	transcription factor 12 [Source:MGI Symbol;Acc:MGI:101877]	TCF12.Ca9827.1.YY2017.HT-SE2	Tcf12	33.58	24.91	36.15	27.87
+ENSMUSG00000045680	transcription factor 21 [Source:MGI Symbol;Acc:MGI:1202715]	TCF21.Ca9832.1.YY2017.HT-SE2	Tcf21	58.12	43.11	59.26	45.68
+ENSMUSG00000045680	transcription factor 21 [Source:MGI Symbol;Acc:MGI:1202715]	TCF21.Me9832.1.YY2017.HT-SE2	Tcf21	58.12	43.11	59.26	45.68
+ENSMUSG00000045680	transcription factor 21 [Source:MGI Symbol;Acc:MGI:1202715]	TCF21.Me9832.2.YY2017.HT-SE2	Tcf21	58.12	43.11	59.26	45.68
+ENSMUSG00000045680	transcription factor 21 [Source:MGI Symbol;Acc:MGI:1202715]	MA0832.1.Tcf21	Tcf21	58.12	43.11	59.26	45.68
+ENSMUSG00000045680	transcription factor 21 [Source:MGI Symbol;Acc:MGI:1202715]	TCF21.Ca9832.2.YY2017.HT-SE2	Tcf21	58.12	43.11	59.26	45.68
+ENSMUSG00000020167	transcription factor 3 [Source:MGI Symbol;Acc:MGI:98510]	MA0522.2.TCF3	Tcf3	46.94	34.82	48.72	37.56
+ENSMUSG00000020167	transcription factor 3 [Source:MGI Symbol;Acc:MGI:98510]	BU0089.Tcfe2a_primary	Tcf3	46.94	34.82	48.72	37.56
+ENSMUSG00000020167	transcription factor 3 [Source:MGI Symbol;Acc:MGI:98510]	TFE2_HUMAN.H11MO.0.A	Tcf3	46.94	34.82	48.72	37.56
+ENSMUSG00000020167	transcription factor 3 [Source:MGI Symbol;Acc:MGI:98510]	BU0082.Tcf3_primary	Tcf3	46.94	34.82	48.72	37.56
+ENSMUSG00000020167	transcription factor 3 [Source:MGI Symbol;Acc:MGI:98510]	MA0522.1.Tcf3	Tcf3	46.94	34.82	48.72	37.56
+ENSMUSG00000053477	transcription factor 4 [Source:MGI Symbol;Acc:MGI:98506]	MA0830.1.TCF4	Tcf4	32.84	24.36	34.46	26.57
+ENSMUSG00000053477	transcription factor 4 [Source:MGI Symbol;Acc:MGI:98506]	ITF2_HUMAN.H11MO.0.C	Tcf4	32.84	24.36	34.46	26.57
+ENSMUSG00000053477	transcription factor 4 [Source:MGI Symbol;Acc:MGI:98506]	TA0376_TCF4_full_dimer	Tcf4	32.84	24.36	34.46	26.57
+ENSMUSG00000053477	transcription factor 4 [Source:MGI Symbol;Acc:MGI:98506]	TCF4.Ca9828.1.YY2017.HT-SE2	Tcf4	32.84	24.36	34.46	26.57
+ENSMUSG00000053477	transcription factor 4 [Source:MGI Symbol;Acc:MGI:98506]	TCF4.Me9828.1.YY2017.HT-SE2	Tcf4	32.84	24.36	34.46	26.57
+ENSMUSG00000000782	transcription factor 7, T cell specific [Source:MGI Symbol;Acc:MGI:98507]	TCF7_HUMAN.H11MO.0.A	Tcf7	3.74	2.78	3.82	2.95
+ENSMUSG00000000782	transcription factor 7, T cell specific [Source:MGI Symbol;Acc:MGI:98507]	BU0081.Tcf1_primary	Tcf7	3.74	2.78	3.82	2.95
+ENSMUSG00000000782	transcription factor 7, T cell specific [Source:MGI Symbol;Acc:MGI:98507]	SMiLE_TCF7	Tcf7	3.74	2.78	3.82	2.95
+ENSMUSG00000000782	transcription factor 7, T cell specific [Source:MGI Symbol;Acc:MGI:98507]	BU0083.Tcf7_primary	Tcf7	3.74	2.78	3.82	2.95
+ENSMUSG00000000782	transcription factor 7, T cell specific [Source:MGI Symbol;Acc:MGI:98507]	TCF7.Me9706.1.YY2017.HT-SE2	Tcf7	3.74	2.78	3.82	2.95
+ENSMUSG00000000782	transcription factor 7, T cell specific [Source:MGI Symbol;Acc:MGI:98507]	TCF7.Ca9706.2.YY2017.HT-SE2	Tcf7	3.74	2.78	3.82	2.95
+ENSMUSG00000000782	transcription factor 7, T cell specific [Source:MGI Symbol;Acc:MGI:98507]	TCF7.Me9706.2.YY2017.HT-SE2	Tcf7	3.74	2.78	3.82	2.95
+ENSMUSG00000000782	transcription factor 7, T cell specific [Source:MGI Symbol;Acc:MGI:98507]	MA0769.1.Tcf7	Tcf7	3.74	2.78	3.82	2.95
+ENSMUSG00000000782	transcription factor 7, T cell specific [Source:MGI Symbol;Acc:MGI:98507]	TCF7.Ca9706.1.YY2017.HT-SE2	Tcf7	3.74	2.78	3.82	2.95
+ENSMUSG00000055799	transcription factor 7 like 1 (T cell specific, HMG box) [Source:MGI Symbol;Acc:MGI:1202876]	TCF7L1.Me9704.2.YY2017.HT-SE2	Tcf7l1	11.1	8.23	10.95	8.44
+ENSMUSG00000055799	transcription factor 7 like 1 (T cell specific, HMG box) [Source:MGI Symbol;Acc:MGI:1202876]	TF7L1_HUMAN.H11MO.0.B	Tcf7l1	11.1	8.23	10.95	8.44
+ENSMUSG00000055799	transcription factor 7 like 1 (T cell specific, HMG box) [Source:MGI Symbol;Acc:MGI:1202876]	TCF7L1.Ca9704.2.YY2017.HT-SE2	Tcf7l1	11.1	8.23	10.95	8.44
+ENSMUSG00000055799	transcription factor 7 like 1 (T cell specific, HMG box) [Source:MGI Symbol;Acc:MGI:1202876]	TCF7L1.Me9704.1.YY2017.HT-SE2	Tcf7l1	11.1	8.23	10.95	8.44
+ENSMUSG00000055799	transcription factor 7 like 1 (T cell specific, HMG box) [Source:MGI Symbol;Acc:MGI:1202876]	TCF7L1.Ca9704.1.YY2017.HT-SE2	Tcf7l1	11.1	8.23	10.95	8.44
+ENSMUSG00000055799	transcription factor 7 like 1 (T cell specific, HMG box) [Source:MGI Symbol;Acc:MGI:1202876]	MA1421.1.TCF7L1	Tcf7l1	11.1	8.23	10.95	8.44
+ENSMUSG00000024985	transcription factor 7 like 2, T cell specific, HMG box [Source:MGI Symbol;Acc:MGI:1202879]	BU0084.Tcf7l2_primary	Tcf7l2	47.63	35.34	57.26	44.14
+ENSMUSG00000024985	transcription factor 7 like 2, T cell specific, HMG box [Source:MGI Symbol;Acc:MGI:1202879]	MA0523.1.TCF7L2	Tcf7l2	47.63	35.34	57.26	44.14
+ENSMUSG00000024985	transcription factor 7 like 2, T cell specific, HMG box [Source:MGI Symbol;Acc:MGI:1202879]	TF7L2_HUMAN.H11MO.0.A	Tcf7l2	47.63	35.34	57.26	44.14
+ENSMUSG00000055320	TEA domain family member 1 [Source:MGI Symbol;Acc:MGI:101876]	TA0318_TEAD1_full_dimer	Tead1	16.49	12.24	24.8	19.12
+ENSMUSG00000055320	TEA domain family member 1 [Source:MGI Symbol;Acc:MGI:101876]	TEAD1.Me9583.1.YY2017.HT-SE2	Tead1	16.49	12.24	24.8	19.12
+ENSMUSG00000055320	TEA domain family member 1 [Source:MGI Symbol;Acc:MGI:101876]	MA0090.2.TEAD1	Tead1	16.49	12.24	24.8	19.12
+ENSMUSG00000055320	TEA domain family member 1 [Source:MGI Symbol;Acc:MGI:101876]	MA0090.1.TEAD1	Tead1	16.49	12.24	24.8	19.12
+ENSMUSG00000055320	TEA domain family member 1 [Source:MGI Symbol;Acc:MGI:101876]	TEAD1.Ca9583.1.YY2017.HT-SE2	Tead1	16.49	12.24	24.8	19.12
+ENSMUSG00000055320	TEA domain family member 1 [Source:MGI Symbol;Acc:MGI:101876]	TEAD1_HUMAN.H11MO.0.A	Tead1	16.49	12.24	24.8	19.12
+ENSMUSG00000030796	TEA domain family member 2 [Source:MGI Symbol;Acc:MGI:104904]	TEAD2.Me9582.1.YY2017.HT-SE2	Tead2	92.78	68.83	89.94	69.34
+ENSMUSG00000030796	TEA domain family member 2 [Source:MGI Symbol;Acc:MGI:104904]	TEAD2_MOUSE.H11MO.0.C	Tead2	92.78	68.83	89.94	69.34
+ENSMUSG00000030796	TEA domain family member 2 [Source:MGI Symbol;Acc:MGI:104904]	TEAD2.Ca9582.1.YY2017.HT-SE2	Tead2	92.78	68.83	89.94	69.34
+ENSMUSG00000030796	TEA domain family member 2 [Source:MGI Symbol;Acc:MGI:104904]	MA1121.1.TEAD2	Tead2	92.78	68.83	89.94	69.34
+ENSMUSG00000002249	TEA domain family member 3 [Source:MGI Symbol;Acc:MGI:109241]	MA0808.1.TEAD3	Tead3	4.61	3.42	5.22	4.02
+ENSMUSG00000002249	TEA domain family member 3 [Source:MGI Symbol;Acc:MGI:109241]	TA0319_TEAD3_DBD_dimer	Tead3	4.61	3.42	5.22	4.02
+ENSMUSG00000022389	thyrotroph embryonic factor [Source:MGI Symbol;Acc:MGI:98663]	TEF.Ca9783.1.YY2017.HT-SE2	Tef	11.56	8.58	10.46	8.06
+ENSMUSG00000022389	thyrotroph embryonic factor [Source:MGI Symbol;Acc:MGI:98663]	TEF.Me9783.1.YY2017.HT-SE2	Tef	11.56	8.58	10.46	8.06
+ENSMUSG00000022389	thyrotroph embryonic factor [Source:MGI Symbol;Acc:MGI:98663]	TA0426_TEF_FL_dimer	Tef	11.56	8.58	10.46	8.06
+ENSMUSG00000022389	thyrotroph embryonic factor [Source:MGI Symbol;Acc:MGI:98663]	MA0843.1.TEF	Tef	11.56	8.58	10.46	8.06
+ENSMUSG00000005718	transcription factor AP4 [Source:MGI Symbol;Acc:MGI:103239]	TFAP4.Ca9814.3.YY2017.HT-SE2	Tfap4	5.21	3.86	6.58	5.07
+ENSMUSG00000005718	transcription factor AP4 [Source:MGI Symbol;Acc:MGI:103239]	TFAP4.Me9814.1.YY2017.HT-SE2	Tfap4	5.21	3.86	6.58	5.07
+ENSMUSG00000005718	transcription factor AP4 [Source:MGI Symbol;Acc:MGI:103239]	MA0691.1.TFAP4	Tfap4	5.21	3.86	6.58	5.07
+ENSMUSG00000005718	transcription factor AP4 [Source:MGI Symbol;Acc:MGI:103239]	TFAP4.Me9814.4.YY2017.HT-SE2	Tfap4	5.21	3.86	6.58	5.07
+ENSMUSG00000005718	transcription factor AP4 [Source:MGI Symbol;Acc:MGI:103239]	TFAP4.Ca9814.1.YY2017.HT-SE2	Tfap4	5.21	3.86	6.58	5.07
+ENSMUSG00000005718	transcription factor AP4 [Source:MGI Symbol;Acc:MGI:103239]	TFAP4.Ca9814.2.YY2017.HT-SE2	Tfap4	5.21	3.86	6.58	5.07
+ENSMUSG00000005718	transcription factor AP4 [Source:MGI Symbol;Acc:MGI:103239]	TFAP4_HUMAN.H11MO.0.A	Tfap4	5.21	3.86	6.58	5.07
+ENSMUSG00000005718	transcription factor AP4 [Source:MGI Symbol;Acc:MGI:103239]	TFAP4.Ca9814.4.YY2017.HT-SE2	Tfap4	5.21	3.86	6.58	5.07
+ENSMUSG00000005718	transcription factor AP4 [Source:MGI Symbol;Acc:MGI:103239]	TFAP4.Me9814.3.YY2017.HT-SE2	Tfap4	5.21	3.86	6.58	5.07
+ENSMUSG00000005718	transcription factor AP4 [Source:MGI Symbol;Acc:MGI:103239]	TFAP4.Me9814.2.YY2017.HT-SE2	Tfap4	5.21	3.86	6.58	5.07
+ENSMUSG00000009733	transcription factor CP2 [Source:MGI Symbol;Acc:MGI:98509]	TFCP2.Me9750.1.YY2017.HT-SE2	Tfcp2	13.39	9.93	10.75	8.29
+ENSMUSG00000009733	transcription factor CP2 [Source:MGI Symbol;Acc:MGI:98509]	TA0093_TFCP2_full_dimer	Tfcp2	13.39	9.93	10.75	8.29
+ENSMUSG00000009733	transcription factor CP2 [Source:MGI Symbol;Acc:MGI:98509]	MA0145.3.TFCP2	Tfcp2	13.39	9.93	10.75	8.29
+ENSMUSG00000009733	transcription factor CP2 [Source:MGI Symbol;Acc:MGI:98509]	TFCP2.Ca9750.1.YY2017.HT-SE2	Tfcp2	13.39	9.93	10.75	8.29
+ENSMUSG00000009733	transcription factor CP2 [Source:MGI Symbol;Acc:MGI:98509]	TFCP2.Me9750.2.YY2017.HT-SE2	Tfcp2	13.39	9.93	10.75	8.29
+ENSMUSG00000009733	transcription factor CP2 [Source:MGI Symbol;Acc:MGI:98509]	TFCP2.Ca9750.2.YY2017.HT-SE2	Tfcp2	13.39	9.93	10.75	8.29
+ENSMUSG00000038482	transcription factor Dp 1 [Source:MGI Symbol;Acc:MGI:101934]	TFDP1_HUMAN.H11MO.0.C	Tfdp1	80.72	59.89	75.44	58.16
+ENSMUSG00000038482	transcription factor Dp 1 [Source:MGI Symbol;Acc:MGI:101934]	MA1122.1.TFDP1	Tfdp1	80.72	59.89	75.44	58.16
+ENSMUSG00000000134	transcription factor E3 [Source:MGI Symbol;Acc:MGI:98511]	MA0831.2.TFE3	Tfe3	8.59	6.37	10.51	8.11
+ENSMUSG00000000134	transcription factor E3 [Source:MGI Symbol;Acc:MGI:98511]	TFE3.Ca9848.1.YY2017.HT-SE2	Tfe3	8.59	6.37	10.51	8.11
+ENSMUSG00000000134	transcription factor E3 [Source:MGI Symbol;Acc:MGI:98511]	TFE3_HUMAN.H11MO.0.B	Tfe3	8.59	6.37	10.51	8.11
+ENSMUSG00000000134	transcription factor E3 [Source:MGI Symbol;Acc:MGI:98511]	MA0831.1.TFE3	Tfe3	8.59	6.37	10.51	8.11
+ENSMUSG00000000134	transcription factor E3 [Source:MGI Symbol;Acc:MGI:98511]	TFE3.Me9848.1.YY2017.HT-SE2	Tfe3	8.59	6.37	10.51	8.11
+ENSMUSG00000023990	transcription factor EB [Source:MGI Symbol;Acc:MGI:103270]	TFEB.Me9847.1.YY2017.HT-SE2	Tfeb	12.05	8.94	11.39	8.78
+ENSMUSG00000023990	transcription factor EB [Source:MGI Symbol;Acc:MGI:103270]	TFEB_HUMAN.H11MO.0.C	Tfeb	12.05	8.94	11.39	8.78
+ENSMUSG00000023990	transcription factor EB [Source:MGI Symbol;Acc:MGI:103270]	MA0692.1.TFEB	Tfeb	12.05	8.94	11.39	8.78
+ENSMUSG00000023990	transcription factor EB [Source:MGI Symbol;Acc:MGI:103270]	TFEB.Ca9847.1.YY2017.HT-SE2	Tfeb	12.05	8.94	11.39	8.78
+ENSMUSG00000037214	THAP domain containing, apoptosis associated protein 1 [Source:MGI Symbol;Acc:MGI:1921004]	MA0597.1.THAP1	Thap1	9.6	7.12	10.82	8.34
+ENSMUSG00000037214	THAP domain containing, apoptosis associated protein 1 [Source:MGI Symbol;Acc:MGI:1921004]	THAP1_HUMAN.H11MO.0.C	Thap1	9.6	7.12	10.82	8.34
+ENSMUSG00000058756	thyroid hormone receptor alpha [Source:MGI Symbol;Acc:MGI:98742]	TA0758_THRA_FL_dimer	Thra	22.84	16.94	24.93	19.22
+ENSMUSG00000058756	thyroid hormone receptor alpha [Source:MGI Symbol;Acc:MGI:98742]	THA_HUMAN.H11MO.0.C	Thra	22.84	16.94	24.93	19.22
+ENSMUSG00000035799	twist basic helix-loop-helix transcription factor 1 [Source:MGI Symbol;Acc:MGI:98872]	MA1123.1.TWIST1	Twist1	9.2	6.82	9.2	7.1
+ENSMUSG00000035799	twist basic helix-loop-helix transcription factor 1 [Source:MGI Symbol;Acc:MGI:98872]	TWST1_HUMAN.H11MO.0.A	Twist1	9.2	6.82	9.2	7.1
+ENSMUSG00000007805	twist basic helix-loop-helix transcription factor 2 [Source:MGI Symbol;Acc:MGI:104685]	MA0633.1.Twist2	Twist2	3.67	2.73	4.52	3.48
+ENSMUSG00000009741	upstream binding protein 1 [Source:MGI Symbol;Acc:MGI:104889]	UBP1.Ca9749.1.YY2017.HT-SE2	Ubp1	25.52	18.93	23.85	18.39
+ENSMUSG00000009741	upstream binding protein 1 [Source:MGI Symbol;Acc:MGI:104889]	UBP1.Me9749.1.YY2017.HT-SE2	Ubp1	25.52	18.93	23.85	18.39
+ENSMUSG00000026641	upstream transcription factor 1 [Source:MGI Symbol;Acc:MGI:99542]	USF1.Me9846.1.YY2017.HT-SE2	Usf1	48.42	35.92	37.2	28.68
+ENSMUSG00000026641	upstream transcription factor 1 [Source:MGI Symbol;Acc:MGI:99542]	MA0093.1.USF1	Usf1	48.42	35.92	37.2	28.68
+ENSMUSG00000026641	upstream transcription factor 1 [Source:MGI Symbol;Acc:MGI:99542]	USF1.Ca9846.1.YY2017.HT-SE2	Usf1	48.42	35.92	37.2	28.68
+ENSMUSG00000026641	upstream transcription factor 1 [Source:MGI Symbol;Acc:MGI:99542]	MA0093.2.USF1	Usf1	48.42	35.92	37.2	28.68
+ENSMUSG00000026641	upstream transcription factor 1 [Source:MGI Symbol;Acc:MGI:99542]	USF1_HUMAN.H11MO.0.A	Usf1	48.42	35.92	37.2	28.68
+ENSMUSG00000026641	upstream transcription factor 1 [Source:MGI Symbol;Acc:MGI:99542]	TA0382_USF1_DBD_dimer	Usf1	48.42	35.92	37.2	28.68
+ENSMUSG00000058239	upstream transcription factor 2 [Source:MGI Symbol;Acc:MGI:99961]	USF2.Me9845.1.YY2017.HT-SE2	Usf2	13.37	9.92	13.7	10.56
+ENSMUSG00000058239	upstream transcription factor 2 [Source:MGI Symbol;Acc:MGI:99961]	USF2_HUMAN.H11MO.0.A	Usf2	13.37	9.92	13.7	10.56
+ENSMUSG00000058239	upstream transcription factor 2 [Source:MGI Symbol;Acc:MGI:99961]	MA0526.1.USF2	Usf2	13.37	9.92	13.7	10.56
+ENSMUSG00000058239	upstream transcription factor 2 [Source:MGI Symbol;Acc:MGI:99961]	MA0526.2.USF2	Usf2	13.37	9.92	13.7	10.56
+ENSMUSG00000058239	upstream transcription factor 2 [Source:MGI Symbol;Acc:MGI:99961]	USF2.Ca9845.1.YY2017.HT-SE2	Usf2	13.37	9.92	13.7	10.56
+ENSMUSG00000016458	Wilms tumor 1 homolog [Source:MGI Symbol;Acc:MGI:98968]	WT1_HUMAN.H11MO.0.C	Wt1	26.66	19.78	22.95	17.69
+ENSMUSG00000020484	X-box binding protein 1 [Source:MGI Symbol;Acc:MGI:98970]	XBP1.Me9800.2.YY2017.HT-SE2	Xbp1	102.69	76.18	98.23	75.73
+ENSMUSG00000020484	X-box binding protein 1 [Source:MGI Symbol;Acc:MGI:98970]	TA0427_XBP1_DBD_dimer	Xbp1	102.69	76.18	98.23	75.73
+ENSMUSG00000020484	X-box binding protein 1 [Source:MGI Symbol;Acc:MGI:98970]	XBP1.Ca9800.1.YY2017.HT-SE2	Xbp1	102.69	76.18	98.23	75.73
+ENSMUSG00000020484	X-box binding protein 1 [Source:MGI Symbol;Acc:MGI:98970]	XBP1.Ca9800.2.YY2017.HT-SE2	Xbp1	102.69	76.18	98.23	75.73
+ENSMUSG00000020484	X-box binding protein 1 [Source:MGI Symbol;Acc:MGI:98970]	XBP1_MOUSE.H11MO.0.C	Xbp1	102.69	76.18	98.23	75.73
+ENSMUSG00000020484	X-box binding protein 1 [Source:MGI Symbol;Acc:MGI:98970]	MA0844.1.XBP1	Xbp1	102.69	76.18	98.23	75.73
+ENSMUSG00000020484	X-box binding protein 1 [Source:MGI Symbol;Acc:MGI:98970]	XBP1.Me9800.1.YY2017.HT-SE2	Xbp1	102.69	76.18	98.23	75.73
+ENSMUSG00000028639	Y box protein 1 [Source:MGI Symbol;Acc:MGI:99146]	YBX1.Ca9747.1.YY2017.HT-SE2	Ybx1	545.78	404.89	545.02	420.16
+ENSMUSG00000028639	Y box protein 1 [Source:MGI Symbol;Acc:MGI:99146]	YBX1.Me9747.1.YY2017.HT-SE2	Ybx1	545.78	404.89	545.02	420.16
+ENSMUSG00000021264	YY1 transcription factor [Source:MGI Symbol;Acc:MGI:99150]	MA0095.2.YY1	Yy1	9.23	6.85	9.9	7.63
+ENSMUSG00000021264	YY1 transcription factor [Source:MGI Symbol;Acc:MGI:99150]	MA0095.1.YY1	Yy1	9.23	6.85	9.9	7.63
+ENSMUSG00000021264	YY1 transcription factor [Source:MGI Symbol;Acc:MGI:99150]	YY1.Me9487.1.YY2017.HT-SE2	Yy1	9.23	6.85	9.9	7.63
+ENSMUSG00000021264	YY1 transcription factor [Source:MGI Symbol;Acc:MGI:99150]	HU0002_YY1	Yy1	9.23	6.85	9.9	7.63
+ENSMUSG00000021264	YY1 transcription factor [Source:MGI Symbol;Acc:MGI:99150]	YY1.Ca9487.2.YY2017.HT-SE2	Yy1	9.23	6.85	9.9	7.63
+ENSMUSG00000021264	YY1 transcription factor [Source:MGI Symbol;Acc:MGI:99150]	TYY1_HUMAN.H11MO.0.A	Yy1	9.23	6.85	9.9	7.63
+ENSMUSG00000021264	YY1 transcription factor [Source:MGI Symbol;Acc:MGI:99150]	SMiLE_YY1	Yy1	9.23	6.85	9.9	7.63
+ENSMUSG00000021264	YY1 transcription factor [Source:MGI Symbol;Acc:MGI:99150]	TA0063_YY1_full_monomer	Yy1	9.23	6.85	9.9	7.63
+ENSMUSG00000021264	YY1 transcription factor [Source:MGI Symbol;Acc:MGI:99150]	YY1.Me9487.2.YY2017.HT-SE2	Yy1	9.23	6.85	9.9	7.63
+ENSMUSG00000021264	YY1 transcription factor [Source:MGI Symbol;Acc:MGI:99150]	YY1.Ca9487.1.YY2017.HT-SE2	Yy1	9.23	6.85	9.9	7.63
+ENSMUSG00000048047	zinc finger and BTB domain containing 33 [Source:MGI Symbol;Acc:MGI:1927290]	KAISO_HUMAN.H11MO.0.A	Zbtb33	2.81	2.09	3.35	2.58
+ENSMUSG00000048047	zinc finger and BTB domain containing 33 [Source:MGI Symbol;Acc:MGI:1927290]	MA0527.1.ZBTB33	Zbtb33	2.81	2.09	3.35	2.58
+ENSMUSG00000029127	zinc finger and BTB domain containing 49 [Source:MGI Symbol;Acc:MGI:1922329]	TA0774_ZBTB49_DBD_monomer	Zbtb49	5.17	3.84	4.65	3.58
+ENSMUSG00000035011	zinc finger and BTB domain containing 7a [Source:MGI Symbol;Acc:MGI:1335091]	ZBTB7A.Ca9504.1.YY2017.HT-SE2	Zbtb7a	7.56	5.61	7.57	5.84
+ENSMUSG00000035011	zinc finger and BTB domain containing 7a [Source:MGI Symbol;Acc:MGI:1335091]	MA0750.2.ZBTB7A	Zbtb7a	7.56	5.61	7.57	5.84
+ENSMUSG00000035011	zinc finger and BTB domain containing 7a [Source:MGI Symbol;Acc:MGI:1335091]	ZBTB7A.Me9504.1.YY2017.HT-SE2	Zbtb7a	7.56	5.61	7.57	5.84
+ENSMUSG00000035011	zinc finger and BTB domain containing 7a [Source:MGI Symbol;Acc:MGI:1335091]	MA0750.1.ZBTB7A	Zbtb7a	7.56	5.61	7.57	5.84
+ENSMUSG00000035011	zinc finger and BTB domain containing 7a [Source:MGI Symbol;Acc:MGI:1335091]	ZBT7A_HUMAN.H11MO.0.A	Zbtb7a	7.56	5.61	7.57	5.84
+ENSMUSG00000024238	zinc finger E-box binding homeobox 1 [Source:MGI Symbol;Acc:MGI:1344313]	MA0103.3.ZEB1	Zeb1	17.67	13.11	19.46	15
+ENSMUSG00000024238	zinc finger E-box binding homeobox 1 [Source:MGI Symbol;Acc:MGI:1344313]	SMiLE_ZEB1	Zeb1	17.67	13.11	19.46	15
+ENSMUSG00000024238	zinc finger E-box binding homeobox 1 [Source:MGI Symbol;Acc:MGI:1344313]	MA0103.2.ZEB1	Zeb1	17.67	13.11	19.46	15
+ENSMUSG00000024238	zinc finger E-box binding homeobox 1 [Source:MGI Symbol;Acc:MGI:1344313]	MA0103.1.ZEB1	Zeb1	17.67	13.11	19.46	15
+ENSMUSG00000024238	zinc finger E-box binding homeobox 1 [Source:MGI Symbol;Acc:MGI:1344313]	ZEB1_HUMAN.H11MO.0.A	Zeb1	17.67	13.11	19.46	15
+ENSMUSG00000055835	zinc finger protein 1 [Source:MGI Symbol;Acc:MGI:99154]	ZFP1.Me9478.1.YY2017.HT-SE2	Zfp1	13.17	9.77	11.53	8.88
+ENSMUSG00000055835	zinc finger protein 1 [Source:MGI Symbol;Acc:MGI:99154]	SMiLE_ZFP1_001	Zfp1	13.17	9.77	11.53	8.88
+ENSMUSG00000055835	zinc finger protein 1 [Source:MGI Symbol;Acc:MGI:99154]	SMiLE_ZFP1_002	Zfp1	13.17	9.77	11.53	8.88
+ENSMUSG00000055835	zinc finger protein 1 [Source:MGI Symbol;Acc:MGI:99154]	ZFP1.Ca9478.1.YY2017.HT-SE2	Zfp1	13.17	9.77	11.53	8.88
+ENSMUSG00000029587	zinc finger protein 12 [Source:MGI Symbol;Acc:MGI:99157]	ZNF12.Me9475.1.YY2017.HT-SE2	Zfp12	6	4.45	6.45	4.98
+ENSMUSG00000029587	zinc finger protein 12 [Source:MGI Symbol;Acc:MGI:99157]	ZNF12.Ca9475.1.YY2017.HT-SE2	Zfp12	6	4.45	6.45	4.98
+ENSMUSG00000039634	zinc finger protein 189 [Source:MGI Symbol;Acc:MGI:2444707]	HU0007_ZNF189	Zfp189	4.84	3.59	5.07	3.91
+ENSMUSG00000051469	zinc finger protein 24 [Source:MGI Symbol;Acc:MGI:1929704]	MA1124.1.ZNF24	Zfp24	39.05	28.97	32.13	24.77
+ENSMUSG00000022529	zinc finger protein 263 [Source:MGI Symbol;Acc:MGI:1921370]	MA0528.1.ZNF263	Zfp263	14.27	10.59	14.84	11.44
+ENSMUSG00000022529	zinc finger protein 263 [Source:MGI Symbol;Acc:MGI:1921370]	ZNF263.Me9549.1.YY2017.HT-SE2	Zfp263	14.27	10.59	14.84	11.44
+ENSMUSG00000022529	zinc finger protein 263 [Source:MGI Symbol;Acc:MGI:1921370]	ZNF263.Ca9549.1.YY2017.HT-SE2	Zfp263	14.27	10.59	14.84	11.44
+ENSMUSG00000031365	zinc finger protein 275 [Source:MGI Symbol;Acc:MGI:1350985]	XPA.Me9497.1.YY2017.HT-SE2	Zfp275	10.25	7.6	8.59	6.62
+ENSMUSG00000031365	zinc finger protein 275 [Source:MGI Symbol;Acc:MGI:1350985]	XPA.Ca9497.1.YY2017.HT-SE2	Zfp275	10.25	7.6	8.59	6.62
+ENSMUSG00000041483	zinc finger protein 281 [Source:MGI Symbol;Acc:MGI:3029290]	ZNF281.Me9577.1.YY2017.HT-SE2	Zfp281	12.39	9.19	12.24	9.43
+ENSMUSG00000041483	zinc finger protein 281 [Source:MGI Symbol;Acc:MGI:3029290]	BU0097.Zfp281_primary	Zfp281	12.39	9.19	12.24	9.43
+ENSMUSG00000041483	zinc finger protein 281 [Source:MGI Symbol;Acc:MGI:3029290]	ZNF281.Ca9577.1.YY2017.HT-SE2	Zfp281	12.39	9.19	12.24	9.43
+ENSMUSG00000043602	zinc finger protein 3 [Source:MGI Symbol;Acc:MGI:99177]	HU0003_ZFP3	Zfp3	6.61	4.9	4.93	3.8
+ENSMUSG00000057551	zinc finger protein 317 [Source:MGI Symbol;Acc:MGI:107775]	HU0033_ZNF317	Zfp317	18.25	13.54	14.66	11.3
+ENSMUSG00000063281	zinc finger protein 35 [Source:MGI Symbol;Acc:MGI:99179]	HU0011_ZNF35	Zfp35	12.3	9.13	10.97	8.46
+ENSMUSG00000063281	zinc finger protein 35 [Source:MGI Symbol;Acc:MGI:99179]	BU0093.Zfp105_primary	Zfp35	12.3	9.13	10.97	8.46
+ENSMUSG00000074220	zinc finger protein 382 [Source:MGI Symbol;Acc:MGI:3588204]	HU0008_ZNF382	Zfp382	3.76	2.79	4.07	3.14
+ENSMUSG00000038346	zinc finger protein 384 [Source:MGI Symbol;Acc:MGI:2443203]	ZNF384.Ca9571.1.YY2017.HT-SE2	Zfp384	5.05	3.75	6.93	5.34
+ENSMUSG00000038346	zinc finger protein 384 [Source:MGI Symbol;Acc:MGI:2443203]	MA1125.1.ZNF384	Zfp384	5.05	3.75	6.93	5.34
+ENSMUSG00000038346	zinc finger protein 384 [Source:MGI Symbol;Acc:MGI:2443203]	ZN384_HUMAN.H11MO.0.C	Zfp384	5.05	3.75	6.93	5.34
+ENSMUSG00000038346	zinc finger protein 384 [Source:MGI Symbol;Acc:MGI:2443203]	ZNF384.Me9571.1.YY2017.HT-SE2	Zfp384	5.05	3.75	6.93	5.34
+ENSMUSG00000045333	zinc finger protein 423 [Source:MGI Symbol;Acc:MGI:1891217]	MA0116.1.Znf423	Zfp423	6.33	4.69	5.72	4.41
+ENSMUSG00000073176	zinc finger protein 449 [Source:MGI Symbol;Acc:MGI:1925869]	ZNF449.Me9548.2.YY2017.HT-SE2	Zfp449	6.9	5.12	5.56	4.29
+ENSMUSG00000073176	zinc finger protein 449 [Source:MGI Symbol;Acc:MGI:1925869]	ZNF449.Ca9548.1.YY2017.HT-SE2	Zfp449	6.9	5.12	5.56	4.29
+ENSMUSG00000073176	zinc finger protein 449 [Source:MGI Symbol;Acc:MGI:1925869]	ZNF449.Me9548.1.YY2017.HT-SE2	Zfp449	6.9	5.12	5.56	4.29
+ENSMUSG00000073176	zinc finger protein 449 [Source:MGI Symbol;Acc:MGI:1925869]	ZNF449.Ca9548.2.YY2017.HT-SE2	Zfp449	6.9	5.12	5.56	4.29
+ENSMUSG00000068551	zinc finger protein 467 [Source:MGI Symbol;Acc:MGI:1916160]	HU0013_ZNF467	Zfp467	12.3	9.12	12.43	9.58
+ENSMUSG00000045268	zinc finger protein 691 [Source:MGI Symbol;Acc:MGI:3041163]	BU0099.Zfp691_primary	Zfp691	7.74	5.74	9.59	7.39
+ENSMUSG00000098022	zinc finger protein 82 [Source:MGI Symbol;Acc:MGI:1890753]	SMiLE_ZFP82	Zfp82	2.88	2.14	2.86	2.2
+ENSMUSG00000098022	zinc finger protein 82 [Source:MGI Symbol;Acc:MGI:1890753]	ZFP82_HUMAN.H11MO.0.C	Zfp82	2.88	2.14	2.86	2.2
+ENSMUSG00000031728	zinc finger protein 821 [Source:MGI Symbol;Acc:MGI:1923121]	ZNF821.Me9559.1.YY2017.HT-SE2	Zfp821	12.04	8.93	13.71	10.57
+ENSMUSG00000031728	zinc finger protein 821 [Source:MGI Symbol;Acc:MGI:1923121]	ZNF821.Ca9559.1.YY2017.HT-SE2	Zfp821	12.04	8.93	13.71	10.57
+ENSMUSG00000079509	zinc finger protein X-linked [Source:MGI Symbol;Acc:MGI:99211]	ZFX_HUMAN.H11MO.0.A	Zfx	13.76	10.21	14.34	11.06
+ENSMUSG00000079509	zinc finger protein X-linked [Source:MGI Symbol;Acc:MGI:99211]	MA0146.2.Zfx	Zfx	13.76	10.21	14.34	11.06
+ENSMUSG00000079509	zinc finger protein X-linked [Source:MGI Symbol;Acc:MGI:99211]	MA0146.1.Zfx	Zfx	13.76	10.21	14.34	11.06
+ENSMUSG00000029729	zinc finger with KRAB and SCAN domains 1 [Source:MGI Symbol;Acc:MGI:1921820]	ZKSC1_HUMAN.H11MO.0.B	Zkscan1	12.84	9.52	9.11	7.02
+ENSMUSG00000029729	zinc finger with KRAB and SCAN domains 1 [Source:MGI Symbol;Acc:MGI:1921820]	SMiLE_ZKSCAN1	Zkscan1	12.84	9.52	9.11	7.02
+ENSMUSG00000021327	zinc finger with KRAB and SCAN domains 3 [Source:MGI Symbol;Acc:MGI:1919989]	TA0076_ZNF306_full_monomer	Zkscan3	49.34	36.61	49.81	38.4
+ENSMUSG00000054715	zinc finger and SCAN domain containing 22 [Source:MGI Symbol;Acc:MGI:2443312]	HU0005_ZSCAN22	Zscan22	10.32	7.66	11.88	9.16
+ENSMUSG00000022228	zinc finger and SCAN domain containing 26 [Source:MGI Symbol;Acc:MGI:3531417]	BU0096.Zfp187_primary	Zscan26	14.41	10.69	18.66	14.39
