@@ -1,7 +1,7 @@
 track Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_Heart_TFs_Motifs_Annotations
 bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5afc0f42e6085cc3d/display?to_ext=bigbed
 shortLabel SPECS:FULL|COLOR:CLASSES|FILTER:SPECS
-longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_Heart_E11.5_TFs_Motifs_Annotations_mm10_Mouse_Genome_reference
+longLabel SPECS:FULL|COLOR:CLASSES|FILTER:SPECS    Heart_E11.5_TFs_Motifs_Annotations
 itemRgb on
 type bigBed 9 .
     filterText.name *
