@@ -5,5 +5,5 @@ longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_
 itemRgb on
 type bigBed 9 .
     filterText.name *
-    visibility pack
+    visibility squish
     bedNameLabel Motif specs
